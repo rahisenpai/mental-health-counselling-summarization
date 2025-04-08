@@ -1,4 +1,4 @@
-## Instructions to run `t5-baseline.ipynb`
+## Instructions to run `t5-baseline.ipynb` and `pegasus-baseline.ipynb`
 The notebook was originally made and run on kaggle. To run it in different settings, make sure to install necessary libraries and packages.
 
 #### Running in kaggle environment
