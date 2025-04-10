@@ -1,0 +1,87 @@
+Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
+"Okay, ",inactive,43_0,P,gc,amusement
+you're doing okay?,inactive,43_1,T,gt,amusement
+Yeah,inactive,43_2,P,ack,amusement
+I understand your father budget today is a little worried about I might be feeling.,symp/reasoning,43_3,T,gc,approval
+"yeah. I mean, he's worried that I'm depressed, but I am not.",symp/reasoning,43_4,P,gc,admiration
+"Yeah, he had mentioned that you had some concerns about some things going on in a neighborhood and you call the police a few times. ",symp/reasoning,43_5,T,gc,approval
+He told you that?,routine,43_6,P,irq,annoyance
+They told me about that.,routine,43_7,T,id,annoyance
+"Well, yeah, I mean, I had called I have called the police a few times because there's something going on in my neighborhood. And it's, yeah, makes me seem like I'm depressed but I'm not I just I'm concerned. about what's going on.",story,43_8,P,id,admiration
+"sure you're not depressed, you're more concerned. So what's going on? We live it's misleading to these feelings.",routine,43_9,T,irq,admiration
+"Um, well, it's actually very scary, huh. There I know about. The government has been kidnapping girls in this area and taking them away for sex trafficking and prostitution.",symp/reasoning,43_10,P,id,approval
+"to boot the government is apprehending people in the area relive I know they are, you know they are ",routine,43_11,T,yq,annoyance
+Yes.,routine,43_12,P,ack,amusement
+And did you see things that's specifically led you to believe this?,routine,43_13,T,irq,amusement
+"Yeah, yes. So, there specifically were two girls that lived down the street. And I saw a man Come come down the street and The girls were taken. And that's when I initially called the police. But I found that they're in on it to the",story,43_14,P,id,approval
+police are in on it too.,routine,43_15,T,crq,approval
+Yes.,routine,43_16,P,ack,amusement
+"They tried to tell me that the girls were they're safe and where they're at, but I know they're not.",story,43_17,P,cd,amusement
+So then they investigated what you saw. And they came back and told you that,routine,43_18,T,crq,annoyance
+"they pretended to, ",routine,43_19,P,cd,annoyance
+they pretended to investigate. Yeah. And they came back and told you everything was okay. But you're not.,routine,43_20,T,gc,amusement
+"I know. I mean, I know it's a lie. Because, you know, I saw that I haven't seen a girl since like, I saw the girls on the street. The man came, the girls went out there.",story,43_21,P,gc,annoyance
+And,inactive,43_22,P,gc,annoyance
+"they told me everything's fine. But I know there's a lie and I won't go back to the police again, because I know that they're now on it.",story,43_23,P,gc,amusement
+"They're in on the, what the government's been doing. So what do you think of your father's concerns with, he's concerned that you're, that you're down there depressed, and that your thinking hasn't been been clear? When you think about his concerns? ",routine,43_24,T,orq,admiration
+"I mean I know he's, he's worried about me. But, you know, it's interesting to understand the severity of the situation. And, you know, it's hard. It's hard to sleep. I'm thinking about these poor girls. And, you know, it's the government, like, the government has cameras everywhere, and they can watch what I'm doing it all times. And it's, you know, it's exhausting. So I can see how he would think I'm depressed. Because, you know, I'm bored. I, you know, I'm not sleeping well, and I'm not eating because what if they poisoned my food? You know, they're poisoning water all the time. So, you know, it is scary and it is affecting anybody. It's not depression.",story,43_25,P,od,admiration
+You're not you're not depressed.,symp/reasoning,43_26,T,yq,admiration
+No,symp/reasoning,43_27,P,on,annoyance
+"I'm sad for those girls. And I'm scared for, for me and like what's going on? But, you know, I want to make sure that this doesn't happen again because you know, I can't let it happen. We can't let this continue. So that's, that's what's taking up my time right now.",story,43_28,P,od,approval
+And how long has this been going on?,routine,43_29,T,irq,annoyance
+"For a few months, a few months",routine,43_30,P,id,annoyance
+is that when you first saw what You what you believe to be in kidnapping,routine,43_31,T,yq,approval
+when I saw the kidnapping? Yes,routine,43_32,P,crq,approval
+those few months ago?,routine,43_33,T,irq,annoyance
+Were there any beliefs like this before? Two months?,routine,43_34,T,irq,annoyance
+"I mean, yes. I've always been aware that the government you know, is probably up just to things that they probably shouldn't be and that they have access and abilities beyond, you know, the normal person. But after I saw the kidnapping, I had proof and so it's it's gotten worse because I feel like they know that I know.",story,43_35,P,id,amusement
+"So you felt this way for a while, but seeing what you saw two months ago that made you more short?",routine,43_36,T,irq,admiration
+Yes. Because now I have proof,routine,43_37,P,id,amusement
+because I have proof Have you ever been treated for depression in the past?,symp/reasoning,43_38,T,irq,admiration
+"Yes. My dad has taken me before when he was worried about me. But I, you know, it's never really been depression. It's always been something else. Like, I'm fine. I just, I'm aware of what's going on around me. And I don't think my dad understands that I don't think the places he takes me understands that. So",story,43_39,P,id,approval
+"what have the people at the places where he has taken, you know, what have they said about your condition?",symp/reasoning,43_40,P,irq,annoyance
+"Um, you know, they, they try to say the same thing that you know, I'm depressed or whatever, but, you know, I know I know the truth and sometimes I just have to play along.",symp/reasoning,43_41,P,id,admiration
+Just play along with it.,routine,43_42,T,gc,amusement
+"Yeah, because, you know, this is what the government wants, they want me to look crazy. So there's nothing I can do about it.",story,43_43,P,gc,approval
+You think they want to discredit you?,routine,43_44,T,irq,annoyance
+"Because if I if, you know, it's kind of like smearing my good name. They see me in and out of different agencies and appearing crazy. You know, obviously a lot of people don't believe the story they choose not to believe where they get paid off. And they write what they write on my file but it's not true. I'm just know what's going on.",story,43_45,P,id,approval
+Because you know what's going on. That's what's led to all these occurrences. This is This has led to the symptoms.,story,43_46,T,id,amusement
+"Yeah, like lately Yeah. Like, you know, I haven't been asleep, you know, and, you know, I feel guilty about what's going on. Right. mean that I know and that, you know, I feel it's hard for me to help them, like with, you know, cameras everywhere and I came to the grocery store without being watched. And I know they're watching me so you know, I I do everything else was too, you know like I go to work I do the chores, because I have to make sure they see me going to work chores.",story,43_47,P,id,admiration
+So you see you kind of play along.,routine,43_48,T,crq,amusement
+Yeah.,routine,43_49,P,cd.ack,amusement
+All right. So do you ever have any thoughts related to death or dying or anything like that?,routine,43_50,T,yq,amusement
+No.,routine,43_51,P,on,amusement
+"No, like I'm worried. No.",routine,43_52,P,on,approval
+You worried about what?,routine,43_53,T,irq,approval
+"I mean. I'm worried about the government, you know, destroying My life, you know, but I don't want to die and I don't think they're going to kill me. I think that'd be too easy. And it would just be more proof.",story,43_54,P,id,approval
+So there'll be more proof that the way you've seen this real,routine,43_55,T,crq,amusement
+"correct, because obviously I'm trying to tell people about it. And if I suddenly show up missing, like there, people are going to know. So I know that they're not going to hurt me, but they could make me look crazy and I'm worried about my life. Like them worried in my life.",story,43_56,P,cd,approval
+About that way. Hmm. How about any drug or alcohol? abuse? Right?,routine,43_57,T,irq,annoyance
+"No, nothing. I dont like to use those things. All right.",routine,43_58,P,id,amusement
+Any medical conditions?,routine,43_59,T,yq,amusement
+No,routine,43_60,P,on,annoyance
+"Has there ever been a time when you felt like really very happy, like how lotta energy it was very happy for several days.",routine,43_61,T,yq,amusement
+Not really.,routine,43_62,P,on,amusement
+That's never happened?,routine,43_63,T,yq,annoyance
+No.,routine,43_64,P,on,amusement
+Okay.,inactive,43_65,T,ack,amusement
+Have you ever heard or seen things other people can't hear or see.,routine,43_66,T,yq,annoyance
+I think that I'm aware of things that people but no like,routine,43_67,P,on,amusement
+who'd been hospitalized before?,routine,43_68,T,yq,approval
+Yes.,routine,43_69,P,ack,amusement
+"But again, it was I tried to initially tell my my dad about some things that I never knew about and he had taken me to the hospital but that was before.",story,43_70,P,id,annoyance
+"So, I would like to get him to talk to a counselor today.",routine,43_71,T,id,amusement
+How do you feel about that?,inactive,43_72,T,irq,amusement
+"So really necessary today like, Can I come back another day?",inactive,43_73,P,id,amusement
+I think it would be helpful for you. We had a counselor talk to you today.,inactive,43_74,T,id,amusement
+"Well,",inactive,43_75,P,gc,amusement
+"I understand that's what you need to do. So I guess that's what the you know, that's what we need to do to get this over with. That's fine.",inactive,43_76,P,gc,amusement
+You can. you can be okay with that.,inactive,43_77,T,gc,amusement
+"I can play along,",inactive,43_78,P,ack,amusement
+you can play along.,inactive,43_79,T,crq,amusement
+"Sure. I want to thank you for answering these questions. I know this is a tough experience for you have a tough time with everything that's going on that you've described. So it's, it's been helpful for you to answer these questions for me. And I just need a couple minutes and I'll get you over to see a counselor and we'll kind of go from there. ",routine,43_80,T,cd,amusement
+"Okay,",inactive,43_81,P,gt,amusement
+"thanks, Sherry.",inactive,43_82,T,gt,amusement
+summary,"The patient says that their dad is worried because they are depressed. The patient has called police at times because they believe government kidnaps girls in their area for sex trafficking and prostitution. The patient once complained about a girl gone missing for which the police assured everything is okay. The patient believes police lied and they are in on it. The patient is paranoid about government monitoring everything with cameras. The patient claims that they are just scared and not depressed. The patient has been feeling this for a few months but after they saw the kidnapping, the patient feels they have proof. The patient is also scared that the government knows they know. The patient has been treated before for depression but the patient didn't believe it was depression even before. The patient is worried about government's constant surveillance on them. They do not have thougts related to death. They are not afraid that government might kill them but scared that they might be made to look crazy. The patient has not used drug or alcohol, no medical conditions, not been very happy for several days. The patient has been hospitalized before for saying things to dad that they don't know. The therapist requested to set up with a counselor to talk with the patient and their dad. ",,,,
+primary_topic,paranoia,,,,
+secondary_topic,government,,,,
