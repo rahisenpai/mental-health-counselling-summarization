@@ -6,52 +6,52 @@ I did.,inactive,85_3,P,op,amusement
 "One of the tests you took is called the SCL 90, the symptom checklist 90. Do you remember taking that test?",symp/reasoning,85_4,T,yq,amusement
 I think so.,symp/reasoning,85_5,P,gc,amusement
 It's 90 items. And they are ranked,inactive,85_6,T,id,amusement
-asked me like true and false questions?,inactive,85_7,P,crq,annoyance
+asked me like true and false questions?,inactive,85_7,P,crq,amusement
 Not true and false are numbers that you solve.,inactive,85_8,T,cd,amusement
 " Oh, okay. I do remember that. Okay.",inactive,85_9,P,id,amusement
 So I have the results from that test. I want to review some of those findings with you. ,symp/reasoning,85_10,T,id,amusement
 Okay. All right. Sure.,inactive,85_11,P,ack,amusement
 "So this particular instrument has a number of what we refer to as sub scales. So these are areas that are measured by the instrument, right? For example, depression or anxiety. So I'm going to review a few of these sub scales, ones where you scored a little higher than we might expect. And just review those with you and see. See what you're thinking we can talk about.",story,85_12,T,id,amusement
 " Okay, are you recording this? ",routine,85_13,P,yq,amusement
-No,routine,85_14,T,on,annoyance
+No,routine,85_14,T,on,amusement
 Are very worried about that?,routine,85_15,P,gc,approval
-Is it what makes you think I'm recording?,routine,85_16,T,yq,annoyance
-Because that happens to me a lot.,routine,85_17,P,id,annoyance
-It happens to you a lot that you get recorded. ,routine,85_18,T,cd,amusement
-I think so. Yeah. Yeah.,routine,85_19,P,ack,amusement
-Remember the last time it happened?,routine,85_20,T,yq,amusement
-You probably yesterday,routine,85_21,P,id,annoyance
+Is it what makes you think I'm recording?,routine,85_16,T,yq,approval
+Because that happens to me a lot.,routine,85_17,P,id,approval
+It happens to you a lot that you get recorded. ,routine,85_18,T,cd,approval
+I think so. Yeah. Yeah.,routine,85_19,P,ack,approval
+Remember the last time it happened?,routine,85_20,T,yq,approval
+You probably yesterday,routine,85_21,P,id,approval
 And you think you were recorded while you're taking this?,routine,85_22,T,orq,approval
-probably. Yeah.,routine,85_23,P,od,amusement
+probably. Yeah.,routine,85_23,P,od,approval
 That sounds worrisome. That's that's a feeling you get a lot that you're being recorded.,routine,85_24,T,crq,admiration
-I worry about it a lot.,routine,85_25,P,cd,amusement
-You worry about it a lot.,routine,85_26,T,cd,amusement
+I worry about it a lot.,routine,85_25,P,cd,admiration
+You worry about it a lot.,routine,85_26,T,cd,admiration
 "But you know, it's happening. That's why I worry about it.",routine,85_27,P,id,-1.0
-You're certain that's happening?,routine,85_28,T,yq,amusement
-Yeah.,routine,85_29,P,op,amusement
+You're certain that's happening?,routine,85_28,T,yq,admiration
+Yeah.,routine,85_29,P,op,admiration
 "Where you're not being recorded now. I know. It probably feels like you are, but you're not. Okay. ",routine,85_30,T,id,amusement
 "Okay. But I appreciate you bringing up that concern with me.  I think so in school,",routine,85_31,P,ack,amusement
 " in school, right? I that would make sense. So, say for instance, you had a percentile rank of 65% Right percentile, that would mean that your score is equal to or higher than 65% of people that took that test. Okay, so that makes sense. So if you took a test on math or English, and you would say 75 percentile, you'd be higher than three quarters of people took the test. 75% Okay, understand? Does that make sense? I think so. Okay. If you want me to come back to that later, just let me know as I go through if it doesn't make sense, okay. So areas here on on the SCL results, or you were a bit higher than we would normally see. A one is the phobic anxiety scale. on that one, you were about 64 percentile. So your score was as high or higher. Than 64% of people who take it ",story,85_32,T,id,amusement
-"to more than half the people in the population,",routine,85_33,P,crq,annoyance
-more than half the number and half the people in the same situation as you in outpatient mental health treatment.,routine,85_34,T,cd,approval
+"to more than half the people in the population,",routine,85_33,P,crq,amusement
+more than half the number and half the people in the same situation as you in outpatient mental health treatment.,routine,85_34,T,cd,amusement
 So I have more phobic anxiety than most people.,symp/reasoning,85_35,P,crq,-1.0
-It does seem that way. Yeah. So this construct would measure things like being afraid of going out being afraid of being a crowds. Does that connect with you? Is that seem like a fear that you have?,routine,85_36,T,cd,approval
+It does seem that way. Yeah. So this construct would measure things like being afraid of going out being afraid of being a crowds. Does that connect with you? Is that seem like a fear that you have?,routine,85_36,T,cd,amusement
 Yeah. Okay.,routine,85_37,P,ack,amusement
 Tell me about that.,routine,85_38,T,irq,amusement
 "I don't like being on public transportation. Hmm. And crowds make me nervous. If I ever have to public speak, I feel like I'm just going to pass out.",symp/reasoning,85_39,P,id,-2.0
 So it does appear you have kind of phobic anxiety symptoms. So that that score today that 64 percentile. That kind of makes sense.,routine,85_40,T,cd,amusement
 I kind of get that,routine,85_41,P,ack,amusement
 "I want to move on to the next one, which is paranoia. On this one, you were at the 84th. percentile. So quite a bit higher.",symp/reasoning,85_42,T,id,amusement
-Is that why you were recording me?,routine,85_43,P,yq,annoyance
+Is that why you were recording me?,routine,85_43,P,yq,amusement
 "But this, this wasn't recorded, nothing was recorded here. Understand that's a worry that you have.",routine,85_44,T,id,amusement
 Are you going to share those results with anybody?,routine,85_45,P,yq,amusement
 "in your particular case, the only people will be shared with this the rest of the treatment team and anybody that you sign a release for,",routine,85_46,T,id,amusement
 "but if the government asks you, you'd have to give them those results.",routine,85_47,P,crq,amusement
 "There's no reason right now I did that there are certain limits to confidentiality. But in your situation here at this clinic, there's no reason I would share this information with the government or, or anybody else other than people indicated. So the rest of the people here to treat you. And if you wanted to release the results to somebody, you could sign a release I would let them have the results.",routine,85_48,T,id,amusement
 "Well, I'm worried that I know people are recording me. And I think that that results shows that I know that's happening. And now, you want to make it look like that means I have a problem. When I'm just reporting what I know is true.",routine,85_49,P,id,-2.0
-"Well, I assume you're worried that",routine,85_50,T,od,approval
-"no, I think that I know these things are happening. But this test says that I'm wrong to think that it makes me paranoid.",symp/reasoning,85_51,P,od,approval
-"Oh, I understand. Okay. So these things are really happening. Yeah. Right. But the test is arranged so that it's making it look paranoid when you're not exactly",routine,85_52,T,id,approval
+"Well, I assume you're worried that",routine,85_50,T,od,amusement
+"no, I think that I know these things are happening. But this test says that I'm wrong to think that it makes me paranoid.",symp/reasoning,85_51,P,od,amusement
+"Oh, I understand. Okay. So these things are really happening. Yeah. Right. But the test is arranged so that it's making it look paranoid when you're not exactly",routine,85_52,T,id,amusement
 Exactly. Okay.,routine,85_53,P,ack,amusement
 So that would explain why your score is elevated on the scale. Okay. Is that? Is that what you're thinking? ,routine,85_54,T,yq,amusement
 I do. Yeah.,routine,85_55,P,op,amusement
@@ -60,9 +60,9 @@ And I wanted you to know that. I appreciate you telling me that. Do you think it
 You don't think so. Okay.,inactive,85_58,T,crq,amusement
 I understand that. I'm higher than most people.,routine,85_59,P,cd,amusement
 "you believe their situation is different than yours. Okay, I understand. So the last area, the last subscale I want to discuss this one global scale on discuss. Glass subscale is one that's referred to as psychoticism. And there you are at the 93rd percentile. And that's when maybe you can hear things other people hear or see things that people don't see, or have beliefs or thinking that are far outside the norm and can't be supported by evidence. They feel like that's happening to you.",story,85_60,T,id,amusement
-Are you going to put me away?,routine,85_61,P,yq,annoyance
+Are you going to put me away?,routine,85_61,P,yq,amusement
 "There's There's nothing here that would indicate that I'm gonna put you away or center anywhere. Yeah, I just really this The purpose of this is just to discuss the results to make sure you understand kind of how these inform our treatment of you. Like so we're gonna provide treatment to impart based on these results.",routine,85_62,T,id,amusement
-Sometimes I hear things other people don't hear.,routine,85_63,P,id,approval
+Sometimes I hear things other people don't hear.,routine,85_63,P,id,amusement
 "Okay, so this is a this is a score that makes makes sense to retake the test might be right.",routine,85_64,T,id,amusement
 "Maybe that's true. Maybe that's true. Okay, but I am being recorded,",routine,85_65,P,com,amusement
 "but you believe you're being recorded, you're starting to that.",routine,85_66,T,crq,amusement

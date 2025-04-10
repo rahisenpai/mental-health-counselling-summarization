@@ -1,29 +1,29 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
 "So Tommy, I wanted to talk to you because I was on Facebook the other day and saw some pictures from a party you were at and made me a little bit concerned because I saw you were drinking and I wonder if you can tell me a little bit about how alcohol fits in your life.",symp/reasoning,73_0,T,irq,approval
-I mainly just drink whenever I'm at parties or whenever somebody hands me a beer i'll i'll take sips every now and then. But it's not something that I feel hovers around my life.,symp/reasoning,73_1,P,id,amusement
-It's kind of a social thing for you not like a major priority. Yeah. How much do you think you're drinking?,symp/reasoning,73_2,T,irq,annoyance
-"I guess I would say like every other every other weekend, maybe every every two weeks. On occasion, maybe There's a basketball game going on or a football game I'll have a beer just to drink with my boys. But other than that, I don't really see it as much of a of a problem.",story,73_3,P,id,annoyance
-So you're drinking maybe half the time depending on what's going on that weekend.,symp/reasoning,73_4,T,crq,annoyance
+I mainly just drink whenever I'm at parties or whenever somebody hands me a beer i'll i'll take sips every now and then. But it's not something that I feel hovers around my life.,symp/reasoning,73_1,P,id,approval
+It's kind of a social thing for you not like a major priority. Yeah. How much do you think you're drinking?,symp/reasoning,73_2,T,irq,amusement
+"I guess I would say like every other every other weekend, maybe every every two weeks. On occasion, maybe There's a basketball game going on or a football game I'll have a beer just to drink with my boys. But other than that, I don't really see it as much of a of a problem.",story,73_3,P,id,amusement
+So you're drinking maybe half the time depending on what's going on that weekend.,symp/reasoning,73_4,T,crq,amusement
 "Yeah, I guess you can say that.",routine,73_5,P,cd,amusement
-"Well, how would you describe the difference between weekends when you drink versus ones when you don't?",symp/reasoning,73_6,T,irq,annoyance
+"Well, how would you describe the difference between weekends when you drink versus ones when you don't?",symp/reasoning,73_6,T,irq,amusement
 "When I'm not drinking, I'm usually more like, involved in doing like more productive things like I I try and do more schoolwork whenever I have the time or whenever I like I can go workout or something just to like, when whenever I'm drinking, I devote my time to just letting loose and having fun and just relaxing with friends. Okay,",story,73_7,P,id,amusement
 "so you you feel like you get more stuff done on weekends. When Don't drink, but maybe you don't feel like you can relax as well.",symp/reasoning,73_8,T,crq,amusement
 "Yeah, I mean, I, whenever I'm drinking, I know that I'm devoting time to, to not doing other things. So I try and make it so that I don't allow myself to pile on so much work. So I try and, like get work done before, but I know that drinking gets in the way of productivity. So I try and minimize that as much as possible.",story,73_9,P,cd,amusement
-You're trying to be responsible and get your stuff done. Yeah. Knowing that the drinking is gonna make it harder. Yeah. Okay. And it sounds like are you getting everything done or some stuff sort of slipping when you drink?,routine,73_10,T,crq,admiration
+You're trying to be responsible and get your stuff done. Yeah. Knowing that the drinking is gonna make it harder. Yeah. Okay. And it sounds like are you getting everything done or some stuff sort of slipping when you drink?,routine,73_10,T,crq,amusement
 "Yeah, I guess when I drink some things do slip a little bit. But just because like when I'm drinking, I'm, I'm not really focused on what I have to do. I'm focused on the moment and just enjoying the time that I have at that time. And it's really something that I just it's something of an like a pleasure givers like and enjoying a joint enjoyment type of thing.",story,73_11,P,cd,amusement
 What are the things you enjoy about the drinking?,symp/reasoning,73_12,T,irq,amusement
 "Just the way that it, it's sort of like liberates you and makes you it makes you feel like a more confident, more energetic person that you don't feel like yourself you feel like a different version of yourself. And it's something that you it, it's just empowering to a degree.",story,73_13,P,id,amusement
 "Okay. So you feel liberated or kind of more confident in some ways? Yeah? Okay, are there any not so good things about drinking.",routine,73_14,T,irq,amusement
-"Um, whenever I drink too much, I sort of lose control of myself and I I just like the aftermath of whenever I drank too much or whenever my friends mixed drinks and it just has a harmful effect on my body. That's probably one of the major drawbacks that I had from drinking.",story,73_15,P,id,annoyance
-What kinds of things happen?,routine,73_16,T,irq,annoyance
+"Um, whenever I drink too much, I sort of lose control of myself and I I just like the aftermath of whenever I drank too much or whenever my friends mixed drinks and it just has a harmful effect on my body. That's probably one of the major drawbacks that I had from drinking.",story,73_15,P,id,amusement
+What kinds of things happen?,routine,73_16,T,irq,amusement
 "I mainly when when I puke or it's just the the feeling that I get in my stomach, if I drink too much is just very overwhelming.",symp/reasoning,73_17,P,id,amusement
-"Like you notice in your body, how much do you think is the most you've ever drank in one time?",symp/reasoning,73_18,T,irq,annoyance
+"Like you notice in your body, how much do you think is the most you've ever drank in one time?",symp/reasoning,73_18,T,irq,amusement
 "Wow, I would say probably",story,73_19,P,id,amusement
-"at a friend, one of my friends had a birthday party recently. And he wanted to let loose was it was just the all the guys were together and they had a couple of friends over and it just turned into one big party and I just I lost it. I drank way too much I would say like probably a bottle or two and just some beers along the way. I got to a point where I lost count",story,73_20,P,id,admiration
+"at a friend, one of my friends had a birthday party recently. And he wanted to let loose was it was just the all the guys were together and they had a couple of friends over and it just turned into one big party and I just I lost it. I drank way too much I would say like probably a bottle or two and just some beers along the way. I got to a point where I lost count",story,73_20,P,id,amusement
 "that was out of the ordinary For you to discount, what's a more typical amount that you drink?",routine,73_21,T,irq,amusement
-"I don't let myself drink more than three or four beers on a given night. Just because I know I'm, I've gotten to the point where I sort of know my limit. But I kind of flirt with my limit just to see how far I can go. And I think that that sort of is very dangerous to play with fire, but I want to see how far I can go. Just so I know not to go that far.",story,73_22,P,id,annoyance
+"I don't let myself drink more than three or four beers on a given night. Just because I know I'm, I've gotten to the point where I sort of know my limit. But I kind of flirt with my limit just to see how far I can go. And I think that that sort of is very dangerous to play with fire, but I want to see how far I can go. Just so I know not to go that far.",story,73_22,P,id,amusement
 Got it. So you're you're sort of testing and pushing it in. Yeah. And sometimes crossing that limit and having some of the consequences that you mentioned.,routine,73_23,T,op,amusement
-"Yeah, just so I know how it feels now so that later on when this The situation is more drastic and more out of control. I know what I can do and where am I limit is it you?",routine,73_24,P,cr,annoyance
+"Yeah, just so I know how it feels now so that later on when this The situation is more drastic and more out of control. I know what I can do and where am I limit is it you?",routine,73_24,P,cr,amusement
 "Well, kind of along those lines Looking ahead, you know, five years from now, what do you see as a goal for yourself",routine,73_25,T,gc,amusement
 "in terms of career wise, in terms",routine,73_26,P,gc,amusement
 "of what do you think you'll be doing in five years,",routine,73_27,T,orq,amusement
@@ -40,7 +40,7 @@ that we live in.,routine,73_30,P,od,amusement
 "Yeah. And like not, like not drinking, like in the mornings or just just strictly for social purposes like not just to not have it around, like, I don't want to have it like in my fridge, if my parents have it. I don't want to I don't want to have to deal with it. ",symp/reasoning,73_38,P,gc,amusement
 Okay. What do you see as some benefits to that?,routine,73_39,T,ack,amusement
 benefits and,routine,73_40,P,gc,amusement
-sticking to those limits?,routine,73_41,T,irq,annoyance
+sticking to those limits?,routine,73_41,T,irq,amusement
 "I guess I could definitely be, I could live a more fulfilled life to an extent like I could possibly be more productive, more efficient in my work and where I can possibly be in the next few years of my life. And I think that by not drinking, I will definitely have a better effect on my life.",story,73_42,P,id,amusement
 "Yeah, I think taking steps to limit and cut back on your drinking is a really good idea. And I really appreciate you taking the time to talk with me about it and being open and honest question. You know, if you don't mind, I would like to talk to probably about this in a couple weeks or a couple months and just kind of check in how things are going. Right. All right. Sounds good. ",routine,73_43,T,gc,amusement
 Thank you very much.,inactive,73_44,P,gt,amusement

@@ -3,23 +3,23 @@ Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
 Okay. All right.,inactive,121_1,P,ack,amusement
 Okay. So I'm going to read a series of questions and ask you to do some different things. And this will just take a few minutes. Okay. All right. So what is today's date?,routine,121_2,T,irq,amusement
 I think it's the 10th,routine,121_3,P,id,amusement
-10th. What is today's year?,routine,121_4,T,irq,annoyance
+10th. What is today's year?,routine,121_4,T,irq,amusement
 2016,routine,121_5,P,id,amusement
-what is the month?,routine,121_6,T,irq,annoyance
+what is the month?,routine,121_6,T,irq,amusement
 It's January is 2017 into January.,routine,121_7,P,id,amusement
-What day is today?,routine,121_8,T,irq,annoyance
+What day is today?,routine,121_8,T,irq,amusement
 It's the 10th.,routine,121_9,P,id,amusement
-Can you also tell me what season it is?,routine,121_10,T,yq,annoyance
+Can you also tell me what season it is?,routine,121_10,T,yq,amusement
 Christmas.,routine,121_11,P,id,amusement
 Can you also tell me the name of this clinic?,routine,121_12,T,yq,amusement
-I saw it when I came in. I don't remember.,routine,121_13,P,id,admiration
-What floor Are we on?,routine,121_14,T,irq,approval
-red,routine,121_15,P,id,annoyance
-What city are we in?,routine,121_16,T,irq,approval
+I saw it when I came in. I don't remember.,routine,121_13,P,id,amusement
+What floor Are we on?,routine,121_14,T,irq,amusement
+red,routine,121_15,P,id,amusement
+What city are we in?,routine,121_16,T,irq,amusement
 "Dover, Dover.",routine,121_17,P,id,amusement
-What County are we in?,routine,121_18,T,irq,annoyance
+What County are we in?,routine,121_18,T,irq,amusement
 Dover County.,routine,121_19,P,id,amusement
-Dover County? What state Are we in?,routine,121_20,T,irq,approval
+Dover County? What state Are we in?,routine,121_20,T,irq,amusement
 Delaware.,routine,121_21,P,id,amusement
 "So, I'm going to test your memory. I want to read these three words. And I want you to repeat them back to me.",routine,121_22,T,id,amusement
 Okay. All right.,inactive,121_23,P,ack,amusement
@@ -35,16 +35,16 @@ continue,routine,121_32,T,ci,amusement
 85 79 72 65,routine,121_33,P,id,amusement
 "Okay, that's good.",routine,121_34,T,id,amusement
 Thank you.,routine,121_35,P,gt,amusement
-Can you spell the word world backwards?,routine,121_36,T,yq,annoyance
-LR no,routine,121_37,P,id,annoyance
+Can you spell the word world backwards?,routine,121_36,T,yq,amusement
+LR no,routine,121_37,P,id,amusement
 Right? I want you to name the three words that I asked you to remember a few moments ago.,routine,121_38,T,ci,amusement
-Fall,routine,121_39,P,id,admiration
+Fall,routine,121_39,P,id,amusement
 "Okay, let's take that was it Can you tell me what this is? ",routine,121_40,T,yq,amusement
-A watch a watch.,routine,121_41,P,id,annoyance
+A watch a watch.,routine,121_41,P,id,amusement
 Yeah. Can you tell me what this is?,routine,121_42,T,yq,amusement
-Pen,routine,121_43,P,id,annoyance
+Pen,routine,121_43,P,id,amusement
 "I'm going to say a phrase. I'd like you to repeat it back to me exactly as I say. Okay, all right. phrase is No ifs, ands, or buts.",routine,121_44,T,id,amusement
-No if and buts,routine,121_45,P,id,annoyance
+No if and buts,routine,121_45,P,id,amusement
 Are you right handed or left handed?,routine,121_46,T,irq,amusement
 right handed.,routine,121_47,P,id,amusement
 I'd like you to take this piece of paper from me in your right hand. fold the paper in half and put the paper on the floor. Okay,routine,121_48,T,id,amusement

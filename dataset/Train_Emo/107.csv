@@ -5,17 +5,17 @@ Okay.,inactive,107_1,P,id,amusement
 "I need to Yeah, yeah.",symp/reasoning,107_3,P,op,amusement
 What do you have in mind?,symp/reasoning,107_4,T,irq,amusement
 "I just keep thinking about you know, losing this weight and I just really want to do it. I just I just can't get there and I don't know why. too frustrated. Its ridiculous",symp/reasoning,107_5,P,id,-3.0
-frustated Trying to lose the weight. Now you'd said before that you had a specific number of pounds of specific amount of weight to lose. You still have that in mind?,symp/reasoning,107_6,T,yq,amusement
+frustated Trying to lose the weight. Now you'd said before that you had a specific number of pounds of specific amount of weight to lose. You still have that in mind?,symp/reasoning,107_6,T,yq,annoyance
 " I would like 20 pounds 20 pounds. I mean, I would like more but I, I've tried to do more in the past and I don't even get past couple of days. So I can do 20 that would be great.",symp/reasoning,107_7,P,op,2.0
 "Right, and you tried before? And what do you think got in the way?",routine,107_8,T,irq,annoyance
 I don't know. I guess it wasn't convenient. You know.,routine,107_9,P,id,-2.0
-Yeah.,routine,107_10,T,ack,amusement
+Yeah.,routine,107_10,T,ack,annoyance
 "Just like something always gets in the way, you know, and then I lose focus. I'm not very good at staying focused on stuff like that.",routine,107_11,P,id,-1.0
-Loss of focus. So you start trying to lose the weight and your focus gets disrupted.,routine,107_12,T,cd,admiration
+Loss of focus. So you start trying to lose the weight and your focus gets disrupted.,routine,107_12,T,cd,annoyance
 "And I forget and then I make you know, spaghetti casserole for six people and then I eat a lot of it and that's carbs and cheese and fat and then I, you know, will eat with my kids don't eat and then it's just like I forget that I'm supposed to be making healthy choices.",story,107_13,P,id,-1.0
-"Alright, so you know, how to lose weight. And you know, you can lose weight. But your focus is a little off when you're trying and that's causing the problem. Could we break that goal of losing 20 pounds down into smaller units? Like say, five pounds",routine,107_14,T,id,amusement
+"Alright, so you know, how to lose weight. And you know, you can lose weight. But your focus is a little off when you're trying and that's causing the problem. Could we break that goal of losing 20 pounds down into smaller units? Like say, five pounds",routine,107_14,T,id,annoyance
 Do you think?,routine,107_15,P,crq,annoyance
-It's just something you can do.,routine,107_16,T,cd,amusement
+It's just something you can do.,routine,107_16,T,cd,annoyance
 I am so busy,routine,107_17,P,id,annoyance
 for once a week.,routine,107_18,T,id,annoyance
 I probably do once a week,routine,107_19,P,id,annoyance
@@ -26,7 +26,7 @@ a little bit of that something extra to help you stay motivated.,routine,107_22,
 "Okay. So some sort of activity or item that you enjoy, that you could reserve for when you reach that goal of say that the first five pounds",story,107_24,T,id,amusement
 "I would love I mean, I've just been so embarrassed, you know,",routine,107_25,P,id,-1.0
 All right. Do you have the activity or item in mind? We could put in place as something you could reward yourself with?,routine,107_26,T,irq,amusement
-Like after the first five pounds?,routine,107_27,P,crq,annoyance
+Like after the first five pounds?,routine,107_27,P,crq,amusement
 "Well, there's a few ways we could do it. We could do that. So you reach five pounds. And then you can give yourself that reward work could be for something you do every day. If that day you're successful in eating the way you want, he would you think would motivate you more?",routine,107_28,T,cd,amusement
 Maybe something every day.,routine,107_29,P,id,amusement
 "Yes, you know, each and every day as you're trying to lose weight. You're aware. When that day comes to close if you had a successful night, they were a less than successful day, right? If you have a successful day, then you could engage in an activity or receiving items that we work out in advance that, you know, would motivate you.Right? ",story,107_30,T,id,amusement

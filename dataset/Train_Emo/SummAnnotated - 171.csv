@@ -2,7 +2,7 @@ Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
 "Hi Rebecca, How are you doing?",routine,171_0,T,gt,0.0
 "I am good, how are you?",routine,171_1,P,gt,0.0
 Pretty good. Can I ask you what handed only write with?,routine,171_2,T,gt,0.0
-my right hand,routine,171_3,P,id,annoyance
+my right hand,routine,171_3,P,id,amusement
 Your right hand would be all right to ask you some questions about your memory.,story,171_4,T,gc,0.0
 I guess,story,171_5,P,ack,0.0
 "Okay, thank you. I'm gonna ask you some questions and give you some problems to solve. Please try to answer them as best as you can. ",story,171_6,T,gc,0.0

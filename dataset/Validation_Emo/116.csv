@@ -7,48 +7,48 @@ Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
 "No, everything's fine.",symp/reasoning,116_5,P,on,amusement
 Yeah. How's your mood been recently?,symp/reasoning,116_6,T,irq,amusement
 Crap.,symp/reasoning,116_7,P,on,-1.0
-Why?,routine,116_8,T,irq,annoyance
+Why?,routine,116_8,T,irq,approval
 "just crap. Just don't care about anything, don't want to do anything.",routine,116_9,P,id,-1.0
-So how have you been spending your time filling up your days?,routine,116_10,T,irq,amusement
-"just lying in bed all day, doing nothing. Just thinking, I've got these, these thoughts. ",routine,116_11,P,id,annoyance
-What thoughts?,symp/reasoning,116_12,T,crq,annoyance
+So how have you been spending your time filling up your days?,routine,116_10,T,irq,approval
+"just lying in bed all day, doing nothing. Just thinking, I've got these, these thoughts. ",routine,116_11,P,id,approval
+What thoughts?,symp/reasoning,116_12,T,crq,approval
 Any thoughts of dying,symp/reasoning,116_13,P,cd,-1.0
-You think about that?,routine,116_14,T,crq,annoyance
-"All the time, every day.",routine,116_15,P,cd,annoyance
-Do you think about how that could happen?,symp/reasoning,116_16,T,yq,annoyance
+You think about that?,routine,116_14,T,crq,approval
+"All the time, every day.",routine,116_15,P,cd,approval
+Do you think about how that could happen?,symp/reasoning,116_16,T,yq,approval
 I think I'll probably jump over a bridge.,symp/reasoning,116_17,P,id,-1.0
-Which one?,routine,116_18,T,crq,annoyance
-there's a really high bridge near my house the swing bridge. It's it's really high so I know I'll die if I jump off. There's also a train track underneath. So if the fall doesn't kill me then the train will,story,116_19,P,cd,admiration
-Have you made any plans about actually going in?,routine,116_20,T,irq,amusement
-"I'm thinking, thinking all the time",routine,116_21,P,id,annoyance
-what stopped you from going there?,routine,116_22,T,irq,annoyance
+Which one?,routine,116_18,T,crq,approval
+there's a really high bridge near my house the swing bridge. It's it's really high so I know I'll die if I jump off. There's also a train track underneath. So if the fall doesn't kill me then the train will,story,116_19,P,cd,approval
+Have you made any plans about actually going in?,routine,116_20,T,irq,approval
+"I'm thinking, thinking all the time",routine,116_21,P,id,approval
+what stopped you from going there?,routine,116_22,T,irq,approval
 "My mom, she'd probably be really upset if I did it but things have just gotten worse and I can't take it anymore.",routine,116_23,P,id,admiration
-Do you think about how you could get to the bridge? Um,routine,116_24,T,yq,amusement
-"I've been looking at bus timetables today. The bus that goes by the bridge. Yeah, I think I'm gonna do it tonight. Just can't take it anymore. She can't treat me this way.",routine,116_25,P,id,annoyance
-Like what?,routine,116_26,P,crq,annoyance
+Do you think about how you could get to the bridge? Um,routine,116_24,T,yq,admiration
+"I've been looking at bus timetables today. The bus that goes by the bridge. Yeah, I think I'm gonna do it tonight. Just can't take it anymore. She can't treat me this way.",routine,116_25,P,id,admiration
+Like what?,routine,116_26,P,crq,admiration
 " I know sometimes when people have a feeling crap and struggling with stuff like you are, they can do other things to hurt themselves, like burning or cutting.",routine,116_27,T,cd,admiration
-"Yeah, I cut up my links. ",story,116_28,P,id,annoyance
-When was that?,story,116_29,T,irq,annoyance
-Today yesterday every day.,story,116_30,P,id,annoyance
-Have you ever done anything else to hurt yourself?,story,116_31,T,yq,annoyance
-"No, just cutting",story,116_32,P,on,annoyance
-it to the have thoughts about harming anyone else?,story,116_33,T,irq,annoyance
-No and never have anyone else.,story,116_34,P,id,annoyance
-"No, I don't think so.",inactive,116_35,P,on,amusement
-"Assess for disturbances in perception that can be auditory or visual. It's also important to assess the level of protection and supervision that the family offers. caregivers are able to provide for the young person and what other protective factors there are,",routine,116_36,T,id,amusement
-Just mum and jack is my younger brother.,routine,116_37,P,id,amusement
-How are things at home?,routine,116_38,T,irq,amusement
+"Yeah, I cut up my links. ",story,116_28,P,id,admiration
+When was that?,story,116_29,T,irq,admiration
+Today yesterday every day.,story,116_30,P,id,admiration
+Have you ever done anything else to hurt yourself?,story,116_31,T,yq,admiration
+"No, just cutting",story,116_32,P,on,admiration
+it to the have thoughts about harming anyone else?,story,116_33,T,irq,admiration
+No and never have anyone else.,story,116_34,P,id,admiration
+"No, I don't think so.",inactive,116_35,P,on,admiration
+"Assess for disturbances in perception that can be auditory or visual. It's also important to assess the level of protection and supervision that the family offers. caregivers are able to provide for the young person and what other protective factors there are,",routine,116_36,T,id,admiration
+Just mum and jack is my younger brother.,routine,116_37,P,id,admiration
+How are things at home?,routine,116_38,T,irq,admiration
 Not good. Your mum mums always having a go at me. And today we had a massive fight,story,116_39,P,on,-1.0
 Do you have someone you can talk to about what's been going on how you've been feeling about these thoughts about wanting to die?,routine,116_40,T,yq,admiration
 "I talked to Sophie, she's she's my friend. She wants to die too, so. I know she won't tell anyone.",story,116_41,P,id,admiration
-Have you had anything alcoholic to drink today?,routine,116_42,T,yq,annoyance
-No.,routine,116_43,P,on,amusement
-What about other drugs slot? pot I six to see other people's prescription drugs.,routine,116_44,T,yq,amusement
-No,routine,116_45,P,on,annoyance
-"Any questions for me? Thank you so much for talking to me today. I appreciate it. I'm worried about some of the things you've told me and I'm especially worried that you might be at risk of hurting yourself. So I'd like to ask one of my specialist colleagues, john to come and have a chat with you. He's a mental health nurse. So he specializes in talking to young people who've been struggling with their mood or at risk of hurting themselves. Would that be okay?",routine,116_46,T,yq,approval
-That's okay.,inactive,116_47,P,ack,amusement
-"It is normally about half an hour, but it can take a little bit longer. Can I get you something to drink while you wait?",inactive,116_48,T,irq,amusement
-"Yeah, that's fine. Can I have a coke?",inactive,116_49,P,op,amusement
+Have you had anything alcoholic to drink today?,routine,116_42,T,yq,admiration
+No.,routine,116_43,P,on,admiration
+What about other drugs slot? pot I six to see other people's prescription drugs.,routine,116_44,T,yq,admiration
+No,routine,116_45,P,on,admiration
+"Any questions for me? Thank you so much for talking to me today. I appreciate it. I'm worried about some of the things you've told me and I'm especially worried that you might be at risk of hurting yourself. So I'd like to ask one of my specialist colleagues, john to come and have a chat with you. He's a mental health nurse. So he specializes in talking to young people who've been struggling with their mood or at risk of hurting themselves. Would that be okay?",routine,116_46,T,yq,admiration
+That's okay.,inactive,116_47,P,ack,admiration
+"It is normally about half an hour, but it can take a little bit longer. Can I get you something to drink while you wait?",inactive,116_48,T,irq,admiration
+"Yeah, that's fine. Can I have a coke?",inactive,116_49,P,op,admiration
 summary,"The patient's mood has been crap and they have thoughts of dying by jumping of a bridge. The patient's mom has stopped them for going to the bridge. The patient hurt themselves by cutting up their links. The patient and their mom had big fight that day. The patient talks to their friend Sophie about their thoughts who wants to die too. The patient has not had any alcohol or drugs. The therapist sets the patient up with their colleague, john who is a mental health nurse to come in then. ",,,,
 primary_topic,suicide,,,,
 secondary_topic,mom,,,,

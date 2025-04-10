@@ -2,7 +2,7 @@ Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
 I think I want to eat healthy.,symp/reasoning,1_0,P,id,amusement
 I want to completely cut out fast food. I want to have more set meals and I just want to eat healthy food. Okay.,symp/reasoning,1_1,P,id,amusement
 I think I at least needs to go to the grocery. Okay. ,symp/reasoning,1_2,P,id,amusement
-Is that something that you haven't been doing?,routine,1_3,T,irq,annoyance
+Is that something that you haven't been doing?,routine,1_3,T,irq,amusement
 "No, not lately. I've just been grabbing food at work, or going through fast food on the way home. Okay.",routine,1_4,P,id,amusement
 "Like, I just haven't had the energy or desire to go and I've also been been working a lot trying to save up money for the baby. Finding the time might be hard. Okay,",routine,1_5,P,id,amusement
 "I used to go every week on Sunday. And I used to already have a list in mind before I went,",routine,1_6,P,id,amusement

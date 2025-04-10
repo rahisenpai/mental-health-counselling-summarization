@@ -3,38 +3,38 @@ Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
 "Tom, Tom Beckwith ",inactive,123_1,P,id,amusement
 And which hands you normally write? Right? Right hand would be all right to ask you some questions about your memory.,symp/reasoning,123_2,T,id,amusement
 2017,routine,123_3,P,gc,amusement
-What season of the year is this?,routine,123_4,T,irq,annoyance
-Winter,routine,123_5,P,id,annoyance
-What is the date today?,routine,123_6,T,irq,annoyance
-The 16th,routine,123_7,P,id,annoyance
-what day of the week is this?,routine,123_8,T,irq,annoyance
-Tuesday?,routine,123_9,P,id,annoyance
-What month is this?,routine,123_10,T,irq,annoyance
-January,routine,123_11,P,id,annoyance
+What season of the year is this?,routine,123_4,T,irq,amusement
+Winter,routine,123_5,P,id,amusement
+What is the date today?,routine,123_6,T,irq,amusement
+The 16th,routine,123_7,P,id,amusement
+what day of the week is this?,routine,123_8,T,irq,amusement
+Tuesday?,routine,123_9,P,id,amusement
+What month is this?,routine,123_10,T,irq,amusement
+January,routine,123_11,P,id,amusement
 Can you tell me what country we're in?,routine,123_12,T,yq,amusement
-the United States.,routine,123_13,P,id,annoyance
-What County are we in?,routine,123_14,T,irq,annoyance
+the United States.,routine,123_13,P,id,amusement
+What County are we in?,routine,123_14,T,irq,amusement
 Wilmington.,routine,123_15,P,id,amusement
-What city are we in?,routine,123_16,T,irq,approval
+What city are we in?,routine,123_16,T,irq,amusement
 Wilmington.,routine,123_17,P,id,amusement
-What is the name of this building?,routine,123_18,T,irq,annoyance
+What is the name of this building?,routine,123_18,T,irq,amusement
 the Graduate Center.,routine,123_19,P,id,amusement
-What floor of the building are we on?,routine,123_20,T,irq,approval
+What floor of the building are we on?,routine,123_20,T,irq,amusement
 First floor,routine,123_21,P,id,amusement
 "I'm going to name three objects. After I've set them, I want you to repeat them back to me. Apple table, Penny ",routine,123_22,T,ci,amusement
 Apple table penny,routine,123_23,P,id,amusement
 Remember what they are. Because I'm going to ask you to name them again in a few minutes.,routine,123_24,T,id,amusement
-WORLD.,routine,123_25,P,id,annoyance
+WORLD.,routine,123_25,P,id,amusement
 "Now, spell it backwards. ",routine,123_26,T,ci,amusement
-DLORW,routine,123_27,P,id,annoyance
+DLORW,routine,123_27,P,id,amusement
 What were the three objects I asked you to remember?,routine,123_28,T,irq,amusement
 Apple table Penny,routine,123_29,P,id,amusement
-What is this called?,routine,123_30,T,irq,annoyance
+What is this called?,routine,123_30,T,irq,amusement
 Watch,routine,123_31,P,id,amusement
-What is this called?,routine,123_32,T,irq,annoyance
-Pen.,routine,123_33,P,id,annoyance
+What is this called?,routine,123_32,T,irq,amusement
+Pen.,routine,123_33,P,id,amusement
 "I would like you to Repeat the phrase after me. The phrase is no ifs, ands, no buts. ",routine,123_34,T,ci,amusement
-"No ifs, buts or ants",routine,123_35,P,id,approval
+"No ifs, buts or ants",routine,123_35,P,id,amusement
 read the words on this page. Then do what it says.,routine,123_36,T,ci,amusement
 Close your eyes.,inactive,123_37,P,id,amusement
 Take this paper in your right hand. Fold the paper once with hands and put the paper down on your lap.,routine,123_38,T,ci,amusement

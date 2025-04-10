@@ -5,55 +5,55 @@ I'm doing well. Thanks for asking. So you're here at the agency today to seek co
 Yeah. My boss sent me over.,routine,3_3,P,ack,amusement
 "your boss said, Sure?",routine,3_4,T,crq,amusement
 "There was this issue with a couple of the people that couldn't relate to my ideas and my boss solid has been kind of, you know, not working super well. So she wanted me to come over and talk about",symp/reasoning,3_5,P,cd,amusement
-she wants you to come over and talk about your relationship with your coworkers?,symp/reasoning,3_6,T,irq,annoyance
+she wants you to come over and talk about your relationship with your coworkers?,symp/reasoning,3_6,T,irq,amusement
 "Um, I think more just so that, you know, my ideas were just kind of higher than what they could really Understand, so maybe learn how to like how to talk to other people so that they can understand me.",symp/reasoning,3_7,P,id,amusement
 "Okay, what would you mean by higher, like, your ideas",symp/reasoning,3_8,T,crq,amusement
 "are higher, you know, just a little bit more intelligent, you know, I'm just at a level that other people can't always reach to, you just, you know, like just a little bit higher, sometimes a lot higher, but just on this team, they just couldn't understand, you know, my language or what I was saying, and it couldn't see the vision that I had.",symp/reasoning,3_9,P,cd,amusement
 "Okay, so they were unable to reach your level of expression for this was like a project you're working on? And your boss recognized this difference, and thought that, that the counselor may be helpful. Yeah?",inactive,3_10,T,irq,amusement
 "Yeah. Yeah. Um, I think it's good, you know, so that my boss is happy that I went, but I think it could also be useful in the sense of, you know, other people are jealous of me a lot, and they just can't really relate to me. So it might be, you know, great to learn how to relate, you know, like, kind of understand what they're going through at their level.",symp/reasoning,3_11,P,id,annoyance
-"Again, you stay at their level. So are you meaning again, that they're kind of below you with skills?",symp/reasoning,3_12,T,crq,amusement
+"Again, you stay at their level. So are you meaning again, that they're kind of below you with skills?",symp/reasoning,3_12,T,crq,annoyance
 "yeah, they're just they haven't they haven't accomplished as much they have, you know, they don't know as many people, they're not hanging out with those prestigious ranks, you know, they haven't been educated to the quality that I have been. So they just sometimes it's hard for them to understand where I'm coming from, or you know, what I can see happening.",symp/reasoning,3_13,P,cd,amusement
 "Okay, so counseling can help you bridge that gap to go to communicate more effectively.",symp/reasoning,3_14,T,gc,amusement
 "Yeah, so I think you know, so I can even better you know, I'm here but I want to be like here.",inactive,3_15,P,gc,amusement
-"When you say you're here at the first level,",inactive,3_16,T,gc,annoyance
+"When you say you're here at the first level,",inactive,3_16,T,gc,amusement
 "maybe like a seven but I want to like blow it out. The park, you know, like if 10 is here, I want to be higher than that. ",story,3_17,P,gc,amusement
 How would you plan on accomplishing that?,routine,3_18,T,irq,amusement
 "Well, you know, I'm always getting recruited for these really prestigious classes and to speak places and people are always calling I'm a really large social media presence when people are constantly asking me for advice, you know, just about everything, because, you know, I've just accomplished so much that I can really help people because I just, you know, I've just been really lucky to just be good at so many things.",symp/reasoning,3_19,P,id,amusement
-"Okay, so it sounds like you're you have a lot of stress.",symp/reasoning,3_20,T,yq,admiration
+"Okay, so it sounds like you're you have a lot of stress.",symp/reasoning,3_20,T,yq,amusement
 "Yeah, yeah.",inactive,3_21,P,ack,amusement
-"And maybe, from your understanding that people were just getting jealous because you seem to succeed in so many things.",symp/reasoning,3_22,T,orq,annoyance
-"Yeah. You know, like, sometimes people just, it's hard to admit that you're just not as good or like you can't do it. Maybe you don't want to admit that I think I make them uncomfortable because I can.",story,3_23,P,od,approval
+"And maybe, from your understanding that people were just getting jealous because you seem to succeed in so many things.",symp/reasoning,3_22,T,orq,amusement
+"Yeah. You know, like, sometimes people just, it's hard to admit that you're just not as good or like you can't do it. Maybe you don't want to admit that I think I make them uncomfortable because I can.",story,3_23,P,od,amusement
 "So calcium help you to relate to them in a way that so how would they have a more productive way? How would they describe you? You know, given this level of difference on this, you're talking about how would they describe you, if I were to ask them, if I could ask them. Could you describe sample?",symp/reasoning,3_24,T,irq,amusement
 "Would they say? I think they would say that I have a lot of people that look up to me that I'm excellent at my job that, you know, like, I should really be vice Vice President, if not president, but I mean, I don't own the company. But I should really have a more significant position. that a lot of the presentations that are happening that I could probably do, but they don't want to, you know, other people need opportunities, but it would, it would be clear for everyone if I just did them.",story,3_25,P,id,amusement
 Would It be easier?,routine,3_26,T,yq,amusement
 "Yeah, you know, easier, better, more people. It would just be it would be a great presentation if I did it. So we'll just cut away all the other stuff.",story,3_27,P,ack,amusement
 All those stuff. That's what your coworkers would include?,symp/reasoning,3_28,T,yq,amusement
 "Yeah,",inactive,3_29,P,ack,amusement
-yeah. Things that maybe detract from them.,routine,3_30,T,gc,annoyance
+yeah. Things that maybe detract from them.,routine,3_30,T,gc,amusement
 "Right. Like if you know, if I was doing the sales pitches, we could blow it out of the park. I mean, we'd be multimillionaires by now. So You know, it would get rid of all that, you know, the grunt work type of stuff, if I just did it myself,",story,3_31,P,id,amusement
-does it frustrates you that you're not calling for every task?,symp/reasoning,3_32,T,irq,annoyance
+does it frustrates you that you're not calling for every task?,symp/reasoning,3_32,T,irq,amusement
 "You're not recognized sometimes, but I've gotten really good at reminding people that they shouldn't be calling on me for every task. Because I'm, you know, sometimes you just have to show them, you know, I'm better than that person, or I could do it better. And I'm really good at that type of communication. So I've been able to secure a lot of positions that weren't given to me at first, because they realize like, Oh, she's better at it. So they can see your talent. ",symp/reasoning,3_33,P,id,amusement
 So they recognize you most of the time.,symp/reasoning,3_34,T,crq,amusement
 No I mean most of the time. Yeah,inactive,3_35,P,cd,amusement
-How long have you been with this particular employer?,routine,3_36,T,irq,annoyance
+How long have you been with this particular employer?,routine,3_36,T,irq,amusement
 "Um, maybe like six months, six months, maybe? Eight months. Okay.",routine,3_37,P,id,amusement
-Can you tell me about the job you've had prior like what happened there?,routine,3_38,T,irq,annoyance
+Can you tell me about the job you've had prior like what happened there?,routine,3_38,T,irq,amusement
 "an AI algorithm. They, so I got it, I got it to a really, you know, large leadership position. And then, you know, the other VP couldn't really see, see what I was going for. She couldn't relate to me and she, you know, she, she wasn't from the same type of like collegiate backgrounds that was kind of an issue. So I just outgrew what they had to offer. And then this company came in and made this tremendous offer with the you know, it was just, it was just fantastic. So I just had to make a move that was more strategic for me. And you know, that I could that I could even reach more. You know, I didn't I didn't want to be satisfied there.",story,3_39,P,id,amusement
 You want to you want to shoot higher. You want to accomplish something greater?,symp/reasoning,3_40,T,yq,amusement
 Yeah.,inactive,3_41,P,ack,amusement
 more. So more stuff. You've already achieved some level of popularity.,symp/reasoning,3_42,T,yq,amusement
 Yeah.,inactive,3_43,P,ack,amusement
-"Alright, so your last ploy or the one before the place you work now, you just outgrew that. Can you tell me how that interaction went? Like? Did you quit? Or did they encourage you to leave? Like, what happened to kind of the last moments of that job?",symp/reasoning,3_44,T,irq,annoyance
+"Alright, so your last ploy or the one before the place you work now, you just outgrew that. Can you tell me how that interaction went? Like? Did you quit? Or did they encourage you to leave? Like, what happened to kind of the last moments of that job?",symp/reasoning,3_44,T,irq,amusement
 "Um, well, I mean,",inactive,3_45,P,gc,amusement
-So you initiate it and you quit. At the same time. They had a few issues with type issues they have.,symp/reasoning,3_46,T,,annoyance
-"They just said I you know, I talked too much or something like that, or I think there was an issue with somebody I was working with or something. But it was really it was another situation that just didn't. We just we weren't, we weren't communicating well, but in the end I had to do what was best for me. So because afterwards they were calling me and trying to get me back, but I was already here so that I wasn't gonna go back there.",symp/reasoning,3_47,P,id,annoyance
-So I have to quit the pursuit you to come,symp/reasoning,3_48,T,,annoyance
+So you initiate it and you quit. At the same time. They had a few issues with type issues they have.,symp/reasoning,3_46,T,,amusement
+"They just said I you know, I talked too much or something like that, or I think there was an issue with somebody I was working with or something. But it was really it was another situation that just didn't. We just we weren't, we weren't communicating well, but in the end I had to do what was best for me. So because afterwards they were calling me and trying to get me back, but I was already here so that I wasn't gonna go back there.",symp/reasoning,3_47,P,id,amusement
+So I have to quit the pursuit you to come,symp/reasoning,3_48,T,,amusement
 yet for them again. Yeah. Which I told them was gonna happen.,inactive,3_49,P,,amusement
 You predicted that when you left,inactive,3_50,T,irq,amusement
 "Yeah, it was like you're gonna you're gonna miss me cuz I'm the reason this company is flourishing.",story,3_51,P,id,amusement
-So what did you tell them when they offered you,story,3_52,T,irq,annoyance
+So what did you tell them when they offered you,story,3_52,T,irq,amusement
 the chargeback that I was had gotten a phenomenal job and it was way better and that they lost it and they could just deal with it.,story,3_53,P,id,amusement
-"So you rejected them at that point, okay.",story,3_54,T,crq,admiration
+"So you rejected them at that point, okay.",story,3_54,T,crq,amusement
 "Yeah. And I, you know, I want to make my boss happy, but I feel like it would be good. You know, I don't want to make people feel bad because they're inferior to me. And because they're not as successful. So if I could learn how to even talk with them so that I'm not, you know, so they don't feel bad about themselves.",story,3_55,P,cd,amusement
 "It's your boss putting, I mean, she encouraged you to come here today. Is she putting any pressure on you? Like, is this something that's strongly encouraged mandatory?",story,3_56,T,id,amusement
 I think it's strongly encouraged. I think she has a promotion for me in mind. So it's probably just to set me up for that.,inactive,3_57,P,od,amusement

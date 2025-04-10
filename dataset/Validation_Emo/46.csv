@@ -2,38 +2,38 @@ Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
 Sheree How you doing today?,inactive,46_0,T,gt,amusement
 Okay. Okay.,inactive,46_1,P,gt,amusement
 I understand you haven't been feeling too well if you've had some symptoms become it's going on.,inactive,46_2,T,irq,amusement
-"Yeah. So for you know, almost a week now I've been you know, every little thing irritates me. It's just been it's, it's distracting how much you know. Little things are bothering me.",symp/reasoning,46_3,P,id,annoyance
-Little things are really irritating you.,symp/reasoning,46_4,T,yq,annoyance
+"Yeah. So for you know, almost a week now I've been you know, every little thing irritates me. It's just been it's, it's distracting how much you know. Little things are bothering me.",symp/reasoning,46_3,P,id,amusement
+Little things are really irritating you.,symp/reasoning,46_4,T,yq,amusement
 Yes.,inactive,46_5,P,ack,amusement
-For the last week?,inactive,46_6,T,yq,annoyance
+For the last week?,inactive,46_6,T,yq,amusement
 Yes.,inactive,46_7,P,ack,amusement
 This is the first time this has happened.,inactive,46_8,T,yq,amusement
 Yeah.,inactive,46_9,P,ack,amusement
-"So tell me about the irritation, like what kind of things have been, I mean?",routine,46_10,T,irq,annoyance
-"So like at work, the guy in the cubicle next to me, like, it feels like he either clears his throat or blows his nose every 15 minutes, it drives me crazy. And like, then I can't focus on my work because I just hear it. So I try to put on music. And then my boss will get upset because I have earbuds in but I can't play music out loud because I'm trying to be considerate of other people. Unlike my cubicle mate, the guy the other cubicle, then, you know, that's just like one example. And then like, when I'm driving home, there was this guy walking his dog on the side of the road, and like there's no shoulder so it's not a safe place. So, like, I just feel like he's risking his life and his dog's life and my life. I get home and I kept thinking about it. And just like everything, everything that people do is just driving me up the wall.",story,46_11,P,id,amusement
+"So tell me about the irritation, like what kind of things have been, I mean?",routine,46_10,T,irq,amusement
+"So like at work, the guy in the cubicle next to me, like, it feels like he either clears his throat or blows his nose every 15 minutes, it drives me crazy. And like, then I can't focus on my work because I just hear it. So I try to put on music. And then my boss will get upset because I have earbuds in but I can't play music out loud because I'm trying to be considerate of other people. Unlike my cubicle mate, the guy the other cubicle, then, you know, that's just like one example. And then like, when I'm driving home, there was this guy walking his dog on the side of the road, and like there's no shoulder so it's not a safe place. So, like, I just feel like he's risking his life and his dog's life and my life. I get home and I kept thinking about it. And just like everything, everything that people do is just driving me up the wall.",story,46_11,P,id,annoyance
 "So you really, you're really irritated and You feel like these irritating events are distracting you? ",routine,46_12,T,yq,annoyance
-Yeah.,inactive,46_13,P,ack,amusement
-Do you feel like your thoughts are racing?,routine,46_14,T,irq,approval
+Yeah.,inactive,46_13,P,ack,annoyance
+Do you feel like your thoughts are racing?,routine,46_14,T,irq,annoyance
 "Yeah. Because like, I'll be thinking about, you know, trying to focus on work, or whatever I'm doing. And all these things that people, other people are doing their ears. It's not even other people just like things in general are irritating me and like so my thoughts will race through different things and it just makes me more frustrated and exist and anxious.",story,46_15,P,id,annoyance
-Have you found the mentioned work? Have you found that you're more oriented toward getting goals completed?,routine,46_16,T,irq,amusement
-"I mean, now, not a more so than usual, no.",routine,46_17,P,id,amusement
-Do you find yourself talking more or feeling like you should talk more,symp/reasoning,46_18,T,irq,amusement
+Have you found the mentioned work? Have you found that you're more oriented toward getting goals completed?,routine,46_16,T,irq,annoyance
+"I mean, now, not a more so than usual, no.",routine,46_17,P,id,annoyance
+Do you find yourself talking more or feeling like you should talk more,symp/reasoning,46_18,T,irq,annoyance
 "No, no. In fact, they don't want to talk to people because they feel like something they're gonna say is gonna annoy me.",symp/reasoning,46_19,P,id,annoyance
-How's your sleep?,routine,46_20,T,irq,amusement
-"I'm fine. I haven't had any disturbances in it, though. Sometimes, like when I'm first going to bed like my thoughts will take me a while to like, get to sleep and like have my thoughts like, shut down, but it doesn't take too long.",routine,46_21,P,id,amusement
-"Alright, it's your sleep spin. Okay, ",inactive,46_22,T,yq,amusement
-yeah.,inactive,46_23,P,ack,amusement
-Have you noticed that you're all down? Or like have depressed mood or anything like that?,routine,46_24,T,yq,admiration
+How's your sleep?,routine,46_20,T,irq,annoyance
+"I'm fine. I haven't had any disturbances in it, though. Sometimes, like when I'm first going to bed like my thoughts will take me a while to like, get to sleep and like have my thoughts like, shut down, but it doesn't take too long.",routine,46_21,P,id,annoyance
+"Alright, it's your sleep spin. Okay, ",inactive,46_22,T,yq,annoyance
+yeah.,inactive,46_23,P,ack,annoyance
+Have you noticed that you're all down? Or like have depressed mood or anything like that?,routine,46_24,T,yq,annoyance
 "No, not really, no.",routine,46_25,P,on,annoyance
-Are you still finding activities that were pleasurable to be pleasurable now?,routine,46_26,T,irq,amusement
+Are you still finding activities that were pleasurable to be pleasurable now?,routine,46_26,T,irq,annoyance
 "Yeah. Well, I mean, sometimes an activity that I like, someone will come along and like I'll get distracted during it by something that like irritates me. But for the most part, I can get over it and like enjoy the activity if it's something I genuinely enjoy.",story,46_27,P,id,annoyance
-You change your appetite.,routine,46_28,T,yq,amusement
-No.,routine,46_29,P,id,amusement
-How about any feelings of worthlessness?,routine,46_30,T,yq,admiration
+You change your appetite.,routine,46_28,T,yq,annoyance
+No.,routine,46_29,P,id,annoyance
+How about any feelings of worthlessness?,routine,46_30,T,yq,annoyance
 No. Nothing like that. ,routine,46_31,P,on,annoyance
 You mentioned that you're being distracted easily. It's affecting your concentration.,routine,46_32,T,crq,annoyance
-A little bit.,routine,46_33,P,cd,amusement
-Do you have any thoughts regarding death or dying?,routine,46_34,T,yq,approval
+A little bit.,routine,46_33,P,cd,annoyance
+Do you have any thoughts regarding death or dying?,routine,46_34,T,yq,annoyance
 No. Like that.,routine,46_35,P,on,annoyance
 And this irritable mood has been bothering you work any and you mentioned driving home and the other places.,routine,46_36,T,gc,annoyance
 "I mean, yeah, just because it's not just at work and driving home like, you know, something my mom said on the phone The other day irritated me. And then I cut the phone call shore and I get to talk to my dad, because I was mad. And so that like affected that. So a little bit of like, my personal life to",story,46_37,P,gc,annoyance
@@ -41,12 +41,12 @@ any drug or alcohol usage. There's really nothing.,routine,46_38,T,yq,annoyance
 No,routine,46_39,P,on,annoyance
 Have you ever seen or heard things other people can't see or hear?,routine,46_40,T,yq,annoyance
 "No, ",routine,46_41,P,on,annoyance
-that's never happened.,inactive,46_42,T,yq,admiration
+that's never happened.,inactive,46_42,T,yq,annoyance
 No,inactive,46_43,P,on,annoyance
-Okay.,inactive,46_44,T,ack,amusement
-I like to get you in to see somebody today. That's okay. We have a counselor that's available that can talk to some more about this. That'd be all right.,routine,46_45,T,gc,amusement
-"All right, ",inactive,46_46,P,gt,amusement
-so I'll get that arranged. And I want to thank you for answering these questions has been helpful.,inactive,46_47,T,gt,amusement
+Okay.,inactive,46_44,T,ack,annoyance
+I like to get you in to see somebody today. That's okay. We have a counselor that's available that can talk to some more about this. That'd be all right.,routine,46_45,T,gc,annoyance
+"All right, ",inactive,46_46,P,gt,annoyance
+so I'll get that arranged. And I want to thank you for answering these questions has been helpful.,inactive,46_47,T,gt,annoyance
 summary,"The patient has been irritated at every little thing for a week now. The irritating events bother the patient with racing thoughts and distract them at work. The patient's sleep is fine as thoughts subside very soon. The patient does not feel depressed nor there is change in appetite. The patient does not feel worthless nor have thoughts of death. The patient's irritable mood has had impact with their parents too. They do no use alcohol or drugs, nor they hear or see things which other's don't. The therapist assures to set the patient with a counselor.",,,,
 primary_topic,irritation,,,,
 secondary_topic,distraction,,,,
