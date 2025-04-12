@@ -1,104 +1,104 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-How you doing today?,inactive,24_0,T,gt,amusement
-I guess I'm doing okay. Good. I'm having some problems and some problems.,inactive,24_1,P,gt,amusement
-What's going on?,routine,24_2,T,irq,amusement
-"Ah, I find myself getting really distracted, kind of fidgety and stuff. And I think I might have that one disorder that I hear about all the time on TV",symp/reasoning,24_3,P,id,annoyance
-like ADHD. That's the one you think you might have ADHD?,symp/reasoning,24_4,T,yq,annoyance
-Yeah.,routine,24_5,P,ack,annoyance
-"Alright, so let me ask you some other questions, and then we'll get into some questions specifically about that and see what's going on there. ",routine,24_6,T,gc,annoyance
-Okay.,inactive,24_7,P,gc,annoyance
-Do you ever find yourself depressed or anxious?,symp/reasoning,24_8,T,yq,annoyance
-Yes,symp/reasoning,24_9,P,ack,annoyance
-A trouble with drugs or alcohol?,routine,24_10,T,yq,annoyance
-" Oh, no. ",routine,24_11,P,on,annoyance
-Nothing like that. When did you first Notice you had the symptoms?,routine,24_12,T,irq,annoyance
-early teens maybe before,routine,24_13,P,id,annoyance
-Do you Do you know what age?,routine,24_14,T,yq,annoyance
-"No, no. ",routine,24_15,P,on,annoyance
-All right. But you're thinking early teens maybe before?,routine,24_16,T,yq,annoyance
-Yeah.,routine,24_17,P,ack,annoyance
-Do the symptoms of a really bothersome to you that caused me.,routine,24_18,T,yq,annoyance
-Yeah.,routine,24_19,P,ack,annoyance
-Yeah. What kind of areas they cause you problems?,routine,24_20,T,irq,annoyance
-"I mean really all everywhere, I guess.",routine,24_21,P,id,annoyance
-Yeah. Yeah.,routine,24_22,P,id,annoyance
-Do do you work?,routine,24_23,T,yq,annoyance
-Yes. ,routine,24_24,P,ack,annoyance
-this cause problems at work?,routine,24_25,T,yq,annoyance
-Yes.,routine,24_26,P,ack,annoyance
-How about college?,routine,24_27,T,yq,annoyance
-"Yes, it does",routine,24_28,P,ack,annoyance
-Okay. Have it at home?,routine,24_29,T,yq,annoyance
-"Oh, yeah. ",routine,24_30,P,ack,annoyance
-Good. Okay. All right. So tell me a little bit about the symptoms that you think might indicate ADHD. What's going on?,routine,24_31,T,irq,annoyance
-"Well, When I go to class, and I find myself, you know, kind of going off into my own little world where the teachers talking, it's kind of like I just, I can't stand sitting down and then I'll stand up. And the teachers look at me like, Do you need something? And I'm like, No, I just really needed to stand up.",story,24_32,P,id,annoyance
-"So you feel compelled to, to stand up in class? ",routine,24_33,T,yq,annoyance
-Yes.,routine,24_34,P,ack,annoyance
-"Even though you know, it might draw some attention.",routine,24_35,T,irq,annoyance
-"Yeah, unfortunately, I mean, I know it, but I still I need to do it.",routine,24_36,P,id,annoyance
-"Alright, so I'm going to ask you a few questions. And as you can have two categories of questions. ",routine,24_37,T,gc,annoyance
-"Okay, ",routine,24_38,P,gc,annoyance
-"so let's start with the first category. Do you feel like you have trouble establishing intention? And let's, let's look at this in terms of school? ",symp/reasoning,24_39,T,yq,annoyance
-"Yes, ",symp/reasoning,24_40,P,ack,annoyance
-you do. Okay. How about when you have established attention Do you find yourself struggling to hold on to it?,symp/reasoning,24_41,T,yq,annoyance
-"Yes, yes.",symp/reasoning,24_42,P,ack,annoyance
-"And again, I'll just stick with the school environment. Right. That's a place to be symptoms bother. Well, that's cool. ",routine,24_43,T,yq,annoyance
-Yeah.,inactive,24_44,P,ack,annoyance
-"Again, they bought other places, but that's a big issue?",inactive,24_45,T,irq,annoyance
-That's a big one. ,inactive,24_46,P,id,annoyance
-Okay. Do you have trouble listening in class?,symp/reasoning,24_47,T,yq,annoyance
-"Yes, ",symp/reasoning,24_48,P,ack,annoyance
-you do. How about following through on instructions that are provided by say the professor?,symp/reasoning,24_49,T,yq,annoyance
-"Yes, ",symp/reasoning,24_50,P,ack,annoyance
-yeah. class projects are the hardest.,inactive,24_51,P,id,annoyance
-Do you do you find yourself organized?,routine,24_52,T,irq,annoyance
-"Yeah, I pretty organized so",routine,24_53,P,id,annoyance
-pretty organized.,routine,24_54,T,id,annoyance
-"Do you find yourself in school or other settings, avoiding activities that require a lot of mental effort?",routine,24_55,T,irq,annoyance
-"Yeah, they give me a headache and I just don't want to deal with it.",routine,24_56,P,id,annoyance
-"What are some things you avoid? Oh,",routine,24_57,T,irq,annoyance
-games. I can't stand chess. I just So understand it and then people explained to me the rules and I just zoned out.,routine,24_58,P,id,annoyance
-They were find yourself losing things that you need to to function at work or school.,routine,24_59,T,yq,annoyance
-No. No.,routine,24_60,P,on,annoyance
-distracted??,routine,24_61,T,yq,annoyance
-Yes. distracted. distracted.,symp/reasoning,24_62,P,ack,annoyance
-fairly easily?,routine,24_63,T,yq,annoyance
-"Yeah, yeah.",routine,24_64,P,ack,annoyance
-How about forgetfulness?,symp/reasoning,24_65,T,irq,annoyance
-" Yeah, I am pretty forgetful.",symp/reasoning,24_66,P,id,annoyance
-"Okay, so I'm gonna move and ask you another category of questions.",routine,24_67,T,gc,annoyance
-Okay.,inactive,24_68,P,gc,annoyance
-Okay. How do you find yourself? fidgeting?,routine,24_69,T,yq,annoyance
-"Yes, yeah.",routine,24_70,P,ack,annoyance
-"How do you deal with I think you touched on this before, but I did it with quiet activities. Like for example, reading.",symp/reasoning,24_71,T,irq,annoyance
-I really struggle with that.,symp/reasoning,24_72,P,id,annoyance
-You start with that? Yeah.,routine,24_73,T,irq,annoyance
-"I can play video game for an hour, but I can't Read or play game or draw? ",routine,24_74,P,id,annoyance
-"So when you are engaged in quiet activities, do you find yourself kind of wandering off?",routine,24_75,T,yq,annoyance
-"Yes, ",routine,24_76,P,ack,annoyance
-you do. feel like you have an internal motor that won't shut off?,routine,24_77,T,yq,annoyance
-"No, I wouldn't say that.",routine,24_78,P,on,annoyance
-No. Okay.,inactive,24_79,T,gc,annoyance
-Do you feel like you talk excessively?,routine,24_80,T,irq,annoyance
-"Yes. Yeah, yeah, almost to the point that I allow even almost I interrupt people a lot.",symp/reasoning,24_81,P,id,annoyance
-What settings to find that's a problem.,routine,24_82,T,irq,annoyance
-at schools a big one.,routine,24_83,P,id,annoyance
-That's a big one?,routine,24_84,T,irq,annoyance
-"Yeah. Because I'll talk and I'll talk. I mean, I'll get off track when called on by the teacher. And then somebody else will say something and be like, Oh, yeah, no, I forgot. Yeah, that too. And, I mean, I feel horrible, but I just I can't stop it.",routine,24_85,P,id,annoyance
-Do you ever find that same class you blurt things out?,symp/reasoning,24_86,T,yq,annoyance
-Yes. Yeah.,symp/reasoning,24_87,P,ack,annoyance
-do you interrupt people?,routine,24_88,T,yq,annoyance
-"Yes, I do",routine,24_89,P,ack,annoyance
-"have a situation where, like, say at work or school or at home, where you have to wait your turn for something. Do you find that subproblem?",routine,24_90,T,irq,annoyance
-"What, like at a drive thru?",routine,24_91,P,crq,annoyance
-It could be a drive thru dude. If your drive thru Do you find?,routine,24_92,T,cd,annoyance
-"I mean, I don't get it.",routine,24_93,P,crq,annoyance
-You don't have any trouble with like waiting in lines or waiting for your turn? I guess not. It's not okay. Okay.,routine,24_94,T,cd,annoyance
-"All right. So I'm gonna get you in to see one of our counselors, you mentioned that these symptoms are bothersome to you. And I want to make sure you get treated. We'll take a couple days to get you in to see somebody that okay, ",routine,24_95,T,id,annoyance
-"yes, that's fine. ",inactive,24_96,P,ack,annoyance
-So I want to thank you for spending this time with me and answering these questions. This has been really helpful.,inactive,24_97,T,gt,annoyance
-Thank you.,inactive,24_98,P,gt,annoyance
-Thanks.,inactive,24_99,T,gt,annoyance
+How you doing today?,inactive,24_0,T,gt,sadness
+I guess I'm doing okay. Good. I'm having some problems and some problems.,inactive,24_1,P,gt,sadness
+What's going on?,routine,24_2,T,irq,sadness
+"Ah, I find myself getting really distracted, kind of fidgety and stuff. And I think I might have that one disorder that I hear about all the time on TV",symp/reasoning,24_3,P,id,fear
+like ADHD. That's the one you think you might have ADHD?,symp/reasoning,24_4,T,yq,fear
+Yeah.,routine,24_5,P,ack,fear
+"Alright, so let me ask you some other questions, and then we'll get into some questions specifically about that and see what's going on there. ",routine,24_6,T,gc,fear
+Okay.,inactive,24_7,P,gc,fear
+Do you ever find yourself depressed or anxious?,symp/reasoning,24_8,T,yq,fear
+Yes,symp/reasoning,24_9,P,ack,fear
+A trouble with drugs or alcohol?,routine,24_10,T,yq,fear
+" Oh, no. ",routine,24_11,P,on,fear
+Nothing like that. When did you first Notice you had the symptoms?,routine,24_12,T,irq,fear
+early teens maybe before,routine,24_13,P,id,fear
+Do you Do you know what age?,routine,24_14,T,yq,fear
+"No, no. ",routine,24_15,P,on,fear
+All right. But you're thinking early teens maybe before?,routine,24_16,T,yq,fear
+Yeah.,routine,24_17,P,ack,fear
+Do the symptoms of a really bothersome to you that caused me.,routine,24_18,T,yq,fear
+Yeah.,routine,24_19,P,ack,fear
+Yeah. What kind of areas they cause you problems?,routine,24_20,T,irq,fear
+"I mean really all everywhere, I guess.",routine,24_21,P,id,fear
+Yeah. Yeah.,routine,24_22,P,id,fear
+Do do you work?,routine,24_23,T,yq,fear
+Yes. ,routine,24_24,P,ack,fear
+this cause problems at work?,routine,24_25,T,yq,fear
+Yes.,routine,24_26,P,ack,fear
+How about college?,routine,24_27,T,yq,fear
+"Yes, it does",routine,24_28,P,ack,fear
+Okay. Have it at home?,routine,24_29,T,yq,fear
+"Oh, yeah. ",routine,24_30,P,ack,fear
+Good. Okay. All right. So tell me a little bit about the symptoms that you think might indicate ADHD. What's going on?,routine,24_31,T,irq,fear
+"Well, When I go to class, and I find myself, you know, kind of going off into my own little world where the teachers talking, it's kind of like I just, I can't stand sitting down and then I'll stand up. And the teachers look at me like, Do you need something? And I'm like, No, I just really needed to stand up.",story,24_32,P,id,fear
+"So you feel compelled to, to stand up in class? ",routine,24_33,T,yq,fear
+Yes.,routine,24_34,P,ack,fear
+"Even though you know, it might draw some attention.",routine,24_35,T,irq,fear
+"Yeah, unfortunately, I mean, I know it, but I still I need to do it.",routine,24_36,P,id,fear
+"Alright, so I'm going to ask you a few questions. And as you can have two categories of questions. ",routine,24_37,T,gc,fear
+"Okay, ",routine,24_38,P,gc,fear
+"so let's start with the first category. Do you feel like you have trouble establishing intention? And let's, let's look at this in terms of school? ",symp/reasoning,24_39,T,yq,fear
+"Yes, ",symp/reasoning,24_40,P,ack,fear
+you do. Okay. How about when you have established attention Do you find yourself struggling to hold on to it?,symp/reasoning,24_41,T,yq,fear
+"Yes, yes.",symp/reasoning,24_42,P,ack,fear
+"And again, I'll just stick with the school environment. Right. That's a place to be symptoms bother. Well, that's cool. ",routine,24_43,T,yq,fear
+Yeah.,inactive,24_44,P,ack,fear
+"Again, they bought other places, but that's a big issue?",inactive,24_45,T,irq,fear
+That's a big one. ,inactive,24_46,P,id,fear
+Okay. Do you have trouble listening in class?,symp/reasoning,24_47,T,yq,fear
+"Yes, ",symp/reasoning,24_48,P,ack,fear
+you do. How about following through on instructions that are provided by say the professor?,symp/reasoning,24_49,T,yq,fear
+"Yes, ",symp/reasoning,24_50,P,ack,fear
+yeah. class projects are the hardest.,inactive,24_51,P,id,fear
+Do you do you find yourself organized?,routine,24_52,T,irq,fear
+"Yeah, I pretty organized so",routine,24_53,P,id,fear
+pretty organized.,routine,24_54,T,id,fear
+"Do you find yourself in school or other settings, avoiding activities that require a lot of mental effort?",routine,24_55,T,irq,fear
+"Yeah, they give me a headache and I just don't want to deal with it.",routine,24_56,P,id,fear
+"What are some things you avoid? Oh,",routine,24_57,T,irq,fear
+games. I can't stand chess. I just So understand it and then people explained to me the rules and I just zoned out.,routine,24_58,P,id,fear
+They were find yourself losing things that you need to to function at work or school.,routine,24_59,T,yq,fear
+No. No.,routine,24_60,P,on,fear
+distracted??,routine,24_61,T,yq,fear
+Yes. distracted. distracted.,symp/reasoning,24_62,P,ack,fear
+fairly easily?,routine,24_63,T,yq,fear
+"Yeah, yeah.",routine,24_64,P,ack,fear
+How about forgetfulness?,symp/reasoning,24_65,T,irq,fear
+" Yeah, I am pretty forgetful.",symp/reasoning,24_66,P,id,fear
+"Okay, so I'm gonna move and ask you another category of questions.",routine,24_67,T,gc,fear
+Okay.,inactive,24_68,P,gc,fear
+Okay. How do you find yourself? fidgeting?,routine,24_69,T,yq,fear
+"Yes, yeah.",routine,24_70,P,ack,fear
+"How do you deal with I think you touched on this before, but I did it with quiet activities. Like for example, reading.",symp/reasoning,24_71,T,irq,fear
+I really struggle with that.,symp/reasoning,24_72,P,id,fear
+You start with that? Yeah.,routine,24_73,T,irq,fear
+"I can play video game for an hour, but I can't Read or play game or draw? ",routine,24_74,P,id,fear
+"So when you are engaged in quiet activities, do you find yourself kind of wandering off?",routine,24_75,T,yq,fear
+"Yes, ",routine,24_76,P,ack,fear
+you do. feel like you have an internal motor that won't shut off?,routine,24_77,T,yq,fear
+"No, I wouldn't say that.",routine,24_78,P,on,fear
+No. Okay.,inactive,24_79,T,gc,fear
+Do you feel like you talk excessively?,routine,24_80,T,irq,fear
+"Yes. Yeah, yeah, almost to the point that I allow even almost I interrupt people a lot.",symp/reasoning,24_81,P,id,fear
+What settings to find that's a problem.,routine,24_82,T,irq,fear
+at schools a big one.,routine,24_83,P,id,fear
+That's a big one?,routine,24_84,T,irq,fear
+"Yeah. Because I'll talk and I'll talk. I mean, I'll get off track when called on by the teacher. And then somebody else will say something and be like, Oh, yeah, no, I forgot. Yeah, that too. And, I mean, I feel horrible, but I just I can't stop it.",routine,24_85,P,id,fear
+Do you ever find that same class you blurt things out?,symp/reasoning,24_86,T,yq,fear
+Yes. Yeah.,symp/reasoning,24_87,P,ack,fear
+do you interrupt people?,routine,24_88,T,yq,fear
+"Yes, I do",routine,24_89,P,ack,fear
+"have a situation where, like, say at work or school or at home, where you have to wait your turn for something. Do you find that subproblem?",routine,24_90,T,irq,fear
+"What, like at a drive thru?",routine,24_91,P,crq,fear
+It could be a drive thru dude. If your drive thru Do you find?,routine,24_92,T,cd,fear
+"I mean, I don't get it.",routine,24_93,P,crq,fear
+You don't have any trouble with like waiting in lines or waiting for your turn? I guess not. It's not okay. Okay.,routine,24_94,T,cd,fear
+"All right. So I'm gonna get you in to see one of our counselors, you mentioned that these symptoms are bothersome to you. And I want to make sure you get treated. We'll take a couple days to get you in to see somebody that okay, ",routine,24_95,T,id,fear
+"yes, that's fine. ",inactive,24_96,P,ack,fear
+So I want to thank you for spending this time with me and answering these questions. This has been really helpful.,inactive,24_97,T,gt,fear
+Thank you.,inactive,24_98,P,gt,fear
+Thanks.,inactive,24_99,T,gt,fear
 summary,"The patient find themselves distracted and fidgety. They feel they might have ADHD. The patient feels depressed and anxious. They do not use drugs or alcohol. They have had this symptoms since their early teens. The patient feels the need to stand up in class despite it might draw attention. The patient has trouble establishing and holding attention. The patient has trouble listening to class and following instructions from professor. The patient is organized however they wish to avoid activities with a lot of mental effort. They find themselves distracted, forgetful and fidgeting. The patient says they can play video games for an hour but can't read or draw. They find themselves wandering off. The patient accept they talk excessively and interrupt people a lot which is a big problem in school. The patient also feel they blurt things out. The patient does not have issues with waiting in line. The therapist offers to set the patient up with a counselor in a couple of days.",,,,
 primary_topic,ADHD,,,,
 secondary_topic,school,,,,

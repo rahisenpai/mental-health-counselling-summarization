@@ -1,105 +1,105 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-"Lisa How doing today, ",inactive,14_0,T,gt,amusement
-I'm well how are you?,inactive,14_1,P,gt,amusement
-"I'm doing well. Thanks for asking. It's nice to meet you. I'm glad you could come into the agency. Could you tell me what brings you here today? Um, well,",inactive,14_2,T,gt,amusement
-I am here now because I was caught stealing money.,symp/reasoning,14_3,P,id,amusement
-All right. So you you ordered by a court?,symp/reasoning,14_4,T,yq,amusement
-"Yeah,",inactive,14_5,P,ack,amusement
-yeah. Mm hmm when?,inactive,14_6,T,irq,amusement
-about a month ago,inactive,14_7,P,id,amusement
-A month ago.,symp/reasoning,14_8,T,ack,amusement
-"like diagnosing,",symp/reasoning,14_9,P,,amusement
-like diagnosing. Is that okay with you?,routine,14_10,T,yq,amusement
-Sure.,inactive,14_11,P,ack,amusement
-So how old are you now?,routine,14_12,T,irq,amusement
-25,routine,14_13,P,id,amusement
-"All right. So you say about a month ago, you got us in trouble. Can you tell me what happened there?",inactive,14_14,T,irq,amusement
-"Well, I stole money from a friend of mine. And",symp/reasoning,14_15,P,id,annoyance
-You need the money.,symp/reasoning,14_16,T,crq,amusement
-This was a friend,inactive,14_17,P,cd,annoyance
-How things stand between you and your friend now.,symp/reasoning,14_18,T,irq,annoyance
-"Well, She turned me in. So we're no longer friends.",symp/reasoning,14_19,P,id,annoyance
-No longer friends. All right.,inactive,14_20,T,ack,annoyance
-"Well, basically when I was younger, I got I used to get into a lot of fights.",symp/reasoning,14_21,P,id,annoyance
-"This day,",inactive,14_22,T,gc,annoyance
-my family.,inactive,14_23,P,gc,annoyance
-"remember doing it? Ah,",inactive,14_24,T,irq,annoyance
-"yeah, I remember doing it. Yeah.",inactive,14_25,P,id,annoyance
-How old are you in that happen? Remember?,inactive,14_26,T,orq,annoyance
-12 years old.,symp/reasoning,14_27,P,od,annoyance
-"Will you ever treated for that, like, that type of mental health treatment?",routine,14_28,T,irq,annoyance
-"Oh, no",routine,14_29,P,id,annoyance
-"Are you aware of any diagnosis that you've been given related to mental health in the past? No, no. So you got into the sounds like a fairly serious fight when you were 12. And you're 25 now can tell me what's happened in terms of the other problems between 1215",story,14_30,T,irq,annoyance
-"I guess the usual I mean, I enjoy And got into some drugs and would use and do stuff like that. So",story,14_31,P,id,amusement
-any other thefts or or assaults? Right?,routine,14_32,T,irq,amusement
-"I mean yeah. So kept getting into fights and stuff but yeah, I think my last real fight was when I was about 20. So yeah.",story,14_33,P,id,annoyance
-All right. And how much danger were the people that you were fighting?,inactive,14_34,T,crq,annoyance
-"Yeah, yeah.",inactive,14_35,P,cd,annoyance
-How many times did that happen to you seriously hurt somebody,symp/reasoning,14_36,T,irq,admiration
-probably every fight that I ever gotten into so many I don't have a number,symp/reasoning,14_37,P,id,admiration
-Can you explain what happened? Like what what caused the fight?,routine,14_38,T,crq,annoyance
-"So the one girl, she just, I felt looked at me wrong and I didn't like it. So I punched her in the mouth and continued to do so until she was on the ground and then I still continue to do so.",symp/reasoning,14_39,P,cd,annoyance
-What are your feelings about that?,routine,14_40,T,orq,annoyance
-She deserved that.,symp/reasoning,14_41,P,od,annoyance
-"Because of the way she looked at you, hmm.",routine,14_42,T,crq,annoyance
-Yes.,routine,14_43,P,cd,annoyance
-Do you ever have any feelings of guilt or remorse of that?,symp/reasoning,14_44,T,irq,annoyance
-No.,symp/reasoning,14_45,P,id,annoyance
-Have you ever apologize to the people that were hurt?,routine,14_46,T,irq,annoyance
-I'm apologize but just to appease people so that I didn't get into any more trouble.,symp/reasoning,14_47,P,id,annoyance
-"Also somebody situations, apologizing was kind of required.",routine,14_48,T,irq,annoyance
-Yeah.,routine,14_49,P,id,annoyance
-So you apologize to them that you didn't really mean it. Or,routine,14_50,T,crq,annoyance
-I think I didn't mean he didn't mean it. It was just to get out of trouble and go on myself.,routine,14_51,P,cd,annoyance
-you're successful in getting into trouble,inactive,14_52,T,orq,annoyance
-Absolutely. Yeah.,inactive,14_53,P,od,annoyance
-You say that kind of with a little pride is something to take pride in.,routine,14_54,T,crq,annoyance
-"Yeah, yeah.",routine,14_55,P,cd,annoyance
-Being able to travel.,routine,14_56,T,orq,annoyance
-"Yeah. I mean, wouldn't you?",routine,14_57,P,od,annoyance
-So that's like something you look as like a skill that you have?,routine,14_58,T,crq,annoyance
-Absolutely. Yeah.,routine,14_59,P,cd,annoyance
-Have you ever fought like the theft type activities you ever felt any guilt or remorse there?,routine,14_60,T,irq,annoyance
-No.,routine,14_61,P,id,annoyance
-"Kind of same thing,",inactive,14_62,T,crq,annoyance
-"same thing. They, I mean, they had more money than me, so why not? They probably would have done the same thing to me. So I did it to them before they could do it to me.",symp/reasoning,14_63,P,cd,annoyance
-Were you ever the victim of a crime?,routine,14_64,T,irq,annoyance
-"Now, I am smarter than most people so I can probably I can one up people. So, okay.",routine,14_65,P,id,annoyance
-Do you feel the trick good in working with people like in terms of social skills?,routine,14_66,T,orq,annoyance
-"I mean, getting what I want.",routine,14_67,P,od,annoyance
-So you're effective at managing relationships to go to one?,routine,14_68,T,crq,annoyance
-Yeah. All right.,routine,14_69,P,cd,annoyance
-How would you describe your mood? Most of the time,routine,14_70,T,irq,annoyance
-"now, I guess I can get a little irritable,",symp/reasoning,14_71,P,id,annoyance
-though irritable. How often does that happen?,routine,14_72,T,irq,annoyance
-few times a week.,routine,14_73,P,id,annoyance
-Does that irritability ever lead to or has ever led to some of the aggressiveness? Yeah.,routine,14_74,T,irq,annoyance
-You're more likely to be aggressive when you've been in trouble for a while. Yeah.,symp/reasoning,14_75,P,id,annoyance
-What was the last time you were involved in a physical fight?,routine,14_76,T,irq,annoyance
-So that was round 20.,routine,14_77,P,id,annoyance
-About five years ago? Yeah.,routine,14_78,T,yq,annoyance
-yeah,inactive,14_79,P,ack,annoyance
-One type of things I'm,inactive,14_80,T,gc,annoyance
-stealing,inactive,14_81,P,gc,annoyance
-so the,inactive,14_82,T,gc,annoyance
-"Ah, I'm not sure. Not sure.",inactive,14_83,P,gc,annoyance
-You have a job?,routine,14_84,T,irq,annoyance
-"Yeah. Well, I did. ",inactive,14_85,P,id,annoyance
-Tell me about your work performance and experience there.,routine,14_86,T,irq,annoyance
-"Well, you know, I show up when I need to most of the time and do what I have to do.",symp/reasoning,14_87,P,id,annoyance
-You show up most of the time.,routine,14_88,T,yq,annoyance
-Yes.,inactive,14_89,P,ack,annoyance
-We are. How is your employer described as employee.,inactive,14_90,T,irq,annoyance
-"I mean, I'm pretty good at doing what I do. But I guess my boss would like me to be there more.",routine,14_91,P,id,annoyance
-"alright, so in terms of your feelings about missing work? How many jobs have you had?",story,14_92,T,irq,annoyance
-Six,symp/reasoning,14_93,P,id,annoyance
-okay. Tell me about it,inactive,14_94,T,irq,annoyance
-"They wanted me and they tried to get me to conform, I feel and I'm just not a conformist. God doing things your own way. Yeah.",symp/reasoning,14_95,P,id,annoyance
-What do you want to gain of treatment here?,symp/reasoning,14_96,T,irq,annoyance
-I just want to get out of trouble.,symp/reasoning,14_97,P,id,annoyance
-You're in trouble now. And you'd like to get out trouble.,inactive,14_98,T,crq,annoyance
-Okay. Thank you.,inactive,14_99,P,gt,annoyance
-Thank you.,inactive,14_100,T,gt,annoyance
+"Lisa How doing today, ",inactive,14_0,T,gt,sadness
+I'm well how are you?,inactive,14_1,P,gt,sadness
+"I'm doing well. Thanks for asking. It's nice to meet you. I'm glad you could come into the agency. Could you tell me what brings you here today? Um, well,",inactive,14_2,T,gt,sadness
+I am here now because I was caught stealing money.,symp/reasoning,14_3,P,id,sadness
+All right. So you you ordered by a court?,symp/reasoning,14_4,T,yq,sadness
+"Yeah,",inactive,14_5,P,ack,sadness
+yeah. Mm hmm when?,inactive,14_6,T,irq,sadness
+about a month ago,inactive,14_7,P,id,sadness
+A month ago.,symp/reasoning,14_8,T,ack,sadness
+"like diagnosing,",symp/reasoning,14_9,P,,sadness
+like diagnosing. Is that okay with you?,routine,14_10,T,yq,sadness
+Sure.,inactive,14_11,P,ack,sadness
+So how old are you now?,routine,14_12,T,irq,sadness
+25,routine,14_13,P,id,sadness
+"All right. So you say about a month ago, you got us in trouble. Can you tell me what happened there?",inactive,14_14,T,irq,sadness
+"Well, I stole money from a friend of mine. And",symp/reasoning,14_15,P,id,fear
+You need the money.,symp/reasoning,14_16,T,crq,sadness
+This was a friend,inactive,14_17,P,cd,fear
+How things stand between you and your friend now.,symp/reasoning,14_18,T,irq,fear
+"Well, She turned me in. So we're no longer friends.",symp/reasoning,14_19,P,id,fear
+No longer friends. All right.,inactive,14_20,T,ack,fear
+"Well, basically when I was younger, I got I used to get into a lot of fights.",symp/reasoning,14_21,P,id,fear
+"This day,",inactive,14_22,T,gc,fear
+my family.,inactive,14_23,P,gc,fear
+"remember doing it? Ah,",inactive,14_24,T,irq,fear
+"yeah, I remember doing it. Yeah.",inactive,14_25,P,id,fear
+How old are you in that happen? Remember?,inactive,14_26,T,orq,fear
+12 years old.,symp/reasoning,14_27,P,od,fear
+"Will you ever treated for that, like, that type of mental health treatment?",routine,14_28,T,irq,fear
+"Oh, no",routine,14_29,P,id,fear
+"Are you aware of any diagnosis that you've been given related to mental health in the past? No, no. So you got into the sounds like a fairly serious fight when you were 12. And you're 25 now can tell me what's happened in terms of the other problems between 1215",story,14_30,T,irq,fear
+"I guess the usual I mean, I enjoy And got into some drugs and would use and do stuff like that. So",story,14_31,P,id,sadness
+any other thefts or or assaults? Right?,routine,14_32,T,irq,sadness
+"I mean yeah. So kept getting into fights and stuff but yeah, I think my last real fight was when I was about 20. So yeah.",story,14_33,P,id,fear
+All right. And how much danger were the people that you were fighting?,inactive,14_34,T,crq,fear
+"Yeah, yeah.",inactive,14_35,P,cd,fear
+How many times did that happen to you seriously hurt somebody,symp/reasoning,14_36,T,irq,joy
+probably every fight that I ever gotten into so many I don't have a number,symp/reasoning,14_37,P,id,joy
+Can you explain what happened? Like what what caused the fight?,routine,14_38,T,crq,fear
+"So the one girl, she just, I felt looked at me wrong and I didn't like it. So I punched her in the mouth and continued to do so until she was on the ground and then I still continue to do so.",symp/reasoning,14_39,P,cd,fear
+What are your feelings about that?,routine,14_40,T,orq,fear
+She deserved that.,symp/reasoning,14_41,P,od,fear
+"Because of the way she looked at you, hmm.",routine,14_42,T,crq,fear
+Yes.,routine,14_43,P,cd,fear
+Do you ever have any feelings of guilt or remorse of that?,symp/reasoning,14_44,T,irq,fear
+No.,symp/reasoning,14_45,P,id,fear
+Have you ever apologize to the people that were hurt?,routine,14_46,T,irq,fear
+I'm apologize but just to appease people so that I didn't get into any more trouble.,symp/reasoning,14_47,P,id,fear
+"Also somebody situations, apologizing was kind of required.",routine,14_48,T,irq,fear
+Yeah.,routine,14_49,P,id,fear
+So you apologize to them that you didn't really mean it. Or,routine,14_50,T,crq,fear
+I think I didn't mean he didn't mean it. It was just to get out of trouble and go on myself.,routine,14_51,P,cd,fear
+you're successful in getting into trouble,inactive,14_52,T,orq,fear
+Absolutely. Yeah.,inactive,14_53,P,od,fear
+You say that kind of with a little pride is something to take pride in.,routine,14_54,T,crq,fear
+"Yeah, yeah.",routine,14_55,P,cd,fear
+Being able to travel.,routine,14_56,T,orq,fear
+"Yeah. I mean, wouldn't you?",routine,14_57,P,od,fear
+So that's like something you look as like a skill that you have?,routine,14_58,T,crq,fear
+Absolutely. Yeah.,routine,14_59,P,cd,fear
+Have you ever fought like the theft type activities you ever felt any guilt or remorse there?,routine,14_60,T,irq,fear
+No.,routine,14_61,P,id,fear
+"Kind of same thing,",inactive,14_62,T,crq,fear
+"same thing. They, I mean, they had more money than me, so why not? They probably would have done the same thing to me. So I did it to them before they could do it to me.",symp/reasoning,14_63,P,cd,fear
+Were you ever the victim of a crime?,routine,14_64,T,irq,fear
+"Now, I am smarter than most people so I can probably I can one up people. So, okay.",routine,14_65,P,id,fear
+Do you feel the trick good in working with people like in terms of social skills?,routine,14_66,T,orq,fear
+"I mean, getting what I want.",routine,14_67,P,od,fear
+So you're effective at managing relationships to go to one?,routine,14_68,T,crq,fear
+Yeah. All right.,routine,14_69,P,cd,fear
+How would you describe your mood? Most of the time,routine,14_70,T,irq,fear
+"now, I guess I can get a little irritable,",symp/reasoning,14_71,P,id,fear
+though irritable. How often does that happen?,routine,14_72,T,irq,fear
+few times a week.,routine,14_73,P,id,fear
+Does that irritability ever lead to or has ever led to some of the aggressiveness? Yeah.,routine,14_74,T,irq,fear
+You're more likely to be aggressive when you've been in trouble for a while. Yeah.,symp/reasoning,14_75,P,id,fear
+What was the last time you were involved in a physical fight?,routine,14_76,T,irq,fear
+So that was round 20.,routine,14_77,P,id,fear
+About five years ago? Yeah.,routine,14_78,T,yq,fear
+yeah,inactive,14_79,P,ack,fear
+One type of things I'm,inactive,14_80,T,gc,fear
+stealing,inactive,14_81,P,gc,fear
+so the,inactive,14_82,T,gc,fear
+"Ah, I'm not sure. Not sure.",inactive,14_83,P,gc,fear
+You have a job?,routine,14_84,T,irq,fear
+"Yeah. Well, I did. ",inactive,14_85,P,id,fear
+Tell me about your work performance and experience there.,routine,14_86,T,irq,fear
+"Well, you know, I show up when I need to most of the time and do what I have to do.",symp/reasoning,14_87,P,id,fear
+You show up most of the time.,routine,14_88,T,yq,fear
+Yes.,inactive,14_89,P,ack,fear
+We are. How is your employer described as employee.,inactive,14_90,T,irq,fear
+"I mean, I'm pretty good at doing what I do. But I guess my boss would like me to be there more.",routine,14_91,P,id,fear
+"alright, so in terms of your feelings about missing work? How many jobs have you had?",story,14_92,T,irq,fear
+Six,symp/reasoning,14_93,P,id,fear
+okay. Tell me about it,inactive,14_94,T,irq,fear
+"They wanted me and they tried to get me to conform, I feel and I'm just not a conformist. God doing things your own way. Yeah.",symp/reasoning,14_95,P,id,fear
+What do you want to gain of treatment here?,symp/reasoning,14_96,T,irq,fear
+I just want to get out of trouble.,symp/reasoning,14_97,P,id,fear
+You're in trouble now. And you'd like to get out trouble.,inactive,14_98,T,crq,fear
+Okay. Thank you.,inactive,14_99,P,gt,fear
+Thank you.,inactive,14_100,T,gt,fear
 summary,The patient was caught stealing money and was ordered by a court a month ago. The therapist requests to make a diagnosis. The patient had stole money from their friend for which they were ordered by court. The patient used to get into a lot fight until they were 12 years old. They didn't have any problems when they were 12 to 15 years old. They later got into drugs and got into a serious fight when they were 20. They punched a girl because the patient felt they looked at them wrongly. The patient does not feel any guilt or remorse. The patient apologizes just to appease people and not to get more trouble. The patient gets a little irritable and that has led to some aggressiveness. The patient has switched six jobs and they show up to job most of the time. The patient feel they are not a conformist. The patient would like to get out of their trouble with the treatment.,,,,
 primary_topic,crime,,,,
 secondary_topic,stealing-fighting,,,,

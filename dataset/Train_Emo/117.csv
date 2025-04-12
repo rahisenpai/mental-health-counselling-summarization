@@ -1,29 +1,29 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-"Jasmine Hi, my name is Heidi I'm your counselor today. We're going to meet in a room to our left something a bit more private in this area and here.",story,117_0,T,gt,amusement
-"Yeah, let's go. ",inactive,117_1,P,ack,amusement
-So we're just going to go up the hole and to the right and then there's a room on the left. Should I go first?,inactive,117_2,T,yq,amusement
-Okay.,inactive,117_3,P,op,amusement
-"Come in Jasmine. This is the room. That will be Meeting in today and if you come back again, we'll be in this room again. What I want you to do first is perhaps have a look around and choose where you would like to sit. where you'd like to be. Just the big chair over there. Yeah, so when you're ready, just make your way over to the chair. And I'll close the door. And from where you're sitting now, where do you think you'd like me to be in the room?",story,117_4,T,id,amusement
-"Which chair would you like me to sit in? That's, that's okay. ",inactive,117_5,P,gc,amusement
-"Okay. So what invite you year to look around, look around the room. Take in this new space. You've never been here before. See if there's something your eyes want to rest on or if there's anything pleasant to your eyes ever really good sticky baked around the room. Most people most time to come into new environments. We want to have a good sticky bacon. We don't and you can in here. Now imagine it's pretty tough for you to be here. Yeah. Yeah. What would help you to spend a moment here?",story,117_6,T,yq,amusement
-Yeah.,inactive,117_7,P,op,amusement
-What's it like to have that pillow against your tummy?,inactive,117_8,T,irq,amusement
-Its Nice,inactive,117_9,P,id,amusement
-Yeah. What's it like to have your hands holding tight? They're like that.,inactive,117_10,T,irq,amusement
-Yeah.,inactive,117_11,P,op,amusement
-How did you how did you get here?,inactive,117_12,T,irq,amusement
-My mom dropped me here here.,inactive,117_13,P,id,amusement
-She's still here.,inactive,117_14,T,crq,amusement
-"No, she's not here.",inactive,117_15,P,cd,amusement
-Is there an arrangement to pick you up?,inactive,117_16,T,yq,amusement
-" Yeah, yeah.",inactive,117_17,P,op,amusement
-" Man, you're looking at the time. So what time did you arrange for mom to pick you up?",inactive,117_18,T,irq,amusement
-" I'm like, half an hour ",inactive,117_19,P,id,amusement
-"In half an hour. So notice you're looking around a little bit more now. helps a bit more with that pillow doesn't it? That was a good idea for you to put the pillow there. So how long do you think you'd like to be here? If you had a choice of how long you were going to be here with me in this conversation, how long would it be? ",routine,117_20,T,irq,amusement
-"15 minutes, maybe another 15 minutes. ",inactive,117_21,P,id,amusement
-"Okay, maybe, maybe",inactive,117_22,T,ack,amusement
+"Jasmine Hi, my name is Heidi I'm your counselor today. We're going to meet in a room to our left something a bit more private in this area and here.",story,117_0,T,gt,sadness
+"Yeah, let's go. ",inactive,117_1,P,ack,sadness
+So we're just going to go up the hole and to the right and then there's a room on the left. Should I go first?,inactive,117_2,T,yq,sadness
+Okay.,inactive,117_3,P,op,sadness
+"Come in Jasmine. This is the room. That will be Meeting in today and if you come back again, we'll be in this room again. What I want you to do first is perhaps have a look around and choose where you would like to sit. where you'd like to be. Just the big chair over there. Yeah, so when you're ready, just make your way over to the chair. And I'll close the door. And from where you're sitting now, where do you think you'd like me to be in the room?",story,117_4,T,id,sadness
+"Which chair would you like me to sit in? That's, that's okay. ",inactive,117_5,P,gc,sadness
+"Okay. So what invite you year to look around, look around the room. Take in this new space. You've never been here before. See if there's something your eyes want to rest on or if there's anything pleasant to your eyes ever really good sticky baked around the room. Most people most time to come into new environments. We want to have a good sticky bacon. We don't and you can in here. Now imagine it's pretty tough for you to be here. Yeah. Yeah. What would help you to spend a moment here?",story,117_6,T,yq,sadness
+Yeah.,inactive,117_7,P,op,sadness
+What's it like to have that pillow against your tummy?,inactive,117_8,T,irq,sadness
+Its Nice,inactive,117_9,P,id,sadness
+Yeah. What's it like to have your hands holding tight? They're like that.,inactive,117_10,T,irq,sadness
+Yeah.,inactive,117_11,P,op,sadness
+How did you how did you get here?,inactive,117_12,T,irq,sadness
+My mom dropped me here here.,inactive,117_13,P,id,sadness
+She's still here.,inactive,117_14,T,crq,sadness
+"No, she's not here.",inactive,117_15,P,cd,sadness
+Is there an arrangement to pick you up?,inactive,117_16,T,yq,sadness
+" Yeah, yeah.",inactive,117_17,P,op,sadness
+" Man, you're looking at the time. So what time did you arrange for mom to pick you up?",inactive,117_18,T,irq,sadness
+" I'm like, half an hour ",inactive,117_19,P,id,sadness
+"In half an hour. So notice you're looking around a little bit more now. helps a bit more with that pillow doesn't it? That was a good idea for you to put the pillow there. So how long do you think you'd like to be here? If you had a choice of how long you were going to be here with me in this conversation, how long would it be? ",routine,117_20,T,irq,sadness
+"15 minutes, maybe another 15 minutes. ",inactive,117_21,P,id,sadness
+"Okay, maybe, maybe",inactive,117_22,T,ack,sadness
 "Yeah, I feel better. ",inactive,117_23,P,id,1.0
-Feel better. Yeah. You can just call mom and tell her that the first session is shorter. Yeah. Because it's enough hearts really confronting to be here. A lot of people find it confronting to come here because of the name of the agency. The issues that we may talk about in the future. It's pretty good. confronting. So just getting used to being here is a pretty big deal. And you're doing a great job. You're doing really well. Yeah. And I'm here with you,routine,117_24,T,id,amusement
+Feel better. Yeah. You can just call mom and tell her that the first session is shorter. Yeah. Because it's enough hearts really confronting to be here. A lot of people find it confronting to come here because of the name of the agency. The issues that we may talk about in the future. It's pretty good. confronting. So just getting used to being here is a pretty big deal. And you're doing a great job. You're doing really well. Yeah. And I'm here with you,routine,117_24,T,id,sadness
 summary,"Therapist took patient to a room for routine. It was a bit private. Therapist starts asking simple questions about space, pillow, time etc., to engage with the patient. Therapist also asks about pick up and drop time. It was the first session therapist kept it short and continue in the next session.",,,,
 primary_topic,Therapy,,,,
 secondary_topic,Therapy,,,,

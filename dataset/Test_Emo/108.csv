@@ -1,0 +1,22 @@
+Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
+"Hello, is it Luke?",inactive,108_0,T,gt,sadness
+Yes. ,inactive,108_1,P,op,sadness
+Nice to meet you. I'm Dr. batata. Is it okay if I examine your abdomen and a few other parts in your body? ,symp/reasoning,108_2,T,gt,sadness
+"That's right, right. Okay.",inactive,108_3,P,op,sadness
+Can I ask you to just take your gun down if that's Right.,routine,108_4,T,yq,sadness
+A little bit.,routine,108_5,P,id,sadness
+"Okay, thank you for that.",inactive,108_6,T,op,sadness
+"Okay, we can do that later.",inactive,108_7,P,id,sadness
+"Right Okay, can I? I'm going to pull down on your eyelids. Okay, just looking for any evidence of anemia. Looking up, look down for me.",symp/reasoning,108_8,T,irq,sadness
+is,inactive,108_9,P,gc,sadness
+good having a good look for any scars sinesses.,routine,108_10,T,id,sadness
+painful there.,inactive,108_11,P,id,joy
+"Okay, it's gonna feel like it's live enough. So would you be able to just take some nice deep breaths in and out for me please?",routine,108_12,T,yq,sadness
+Sorry about that. Sorry.,inactive,108_13,P,ay,sadness
+I'm just gonna tap on your tummy now. Okay.,routine,108_14,T,id,sadness
+"Okay, have you finished?",routine,108_15,P,yq,sadness
+"So to complete my examination, I'd like to perform a shifting dullness test. Check is You're in depth. And also I'd like to examine for a full lymph retinopathy screen, including accelerate and inguinal lymph nodes.",routine,108_16,T,id,sadness
+Okay. Thank you.,inactive,108_17,P,gt,sadness
+summary,"The therapist examines the abdomen and other parts of the body. The therapist pulls down the eyelids and checks for anemia, then for scar signs. The therapist requests to perform shifting dullness test, full lymph retinopathy screen including accelerate and inguinal lymph nodes.",,,,
+primary_topic,treatment,,,,
+secondary_topic,diagnosis,,,,

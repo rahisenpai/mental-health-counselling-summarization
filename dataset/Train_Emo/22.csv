@@ -1,15 +1,15 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-"Erica, how you doing today? ",inactive,22_0,T,gt,amusement
-Good. Thank you.,inactive,22_1,P,gt,amusement
-You're doing good?,inactive,22_2,T,irq,amusement
-"between part of me that wants to settle down, but then part of me that also wants to pursue my career and what I'm doing",symp/reasoning,22_3,P,id,amusement
-"so we have a part that wants to settle down, a part that wants to keep going with the career so For this to chair, what I like to do is in the chair where you're seated now, this will be the emotional self, in this case, the side that wants to pursue the career. Yeah, myself before that seems like we're more that's what I really want. Yes, you're more emotionally connected. That's what you want. That's what I want. So this will be the side of you, that has the needs and the wants, and more the emotion. Okay, so that's who you'll be in this chair. That makes sense. ",story,22_4,T,yq,admiration
-Yep.,inactive,22_5,P,ack,amusement
-" In the other chair, let's have the critic that's inside that internal critic. That's advocating for settling down for getting married for having kids. In a way it represents a societal pressure Did those two sides seem separate to you? ",story,22_6,T,yq,admiration
-Yeah.,inactive,22_7,P,ack,admiration
-" You feel like you can be the emotional self here, an internal critic there?",story,22_8,T,yq,admiration
-I think so. Okay.,inactive,22_9,P,op,admiration
-"So, I think you remember how this work she'll be, he'll be talking to this case the internal critic, right? So the internal critics on the side of settling down, getting married. And then when you're ready to have the critic respond, you'll switch that chair and respond to the emotional needs driven and wanting some make sense. Okay. So whenever you're ready, go ahead and speak directly to the internal critic.",story,22_10,T,irq,admiration
+"Erica, how you doing today? ",inactive,22_0,T,gt,sadness
+Good. Thank you.,inactive,22_1,P,gt,sadness
+You're doing good?,inactive,22_2,T,irq,sadness
+"between part of me that wants to settle down, but then part of me that also wants to pursue my career and what I'm doing",symp/reasoning,22_3,P,id,sadness
+"so we have a part that wants to settle down, a part that wants to keep going with the career so For this to chair, what I like to do is in the chair where you're seated now, this will be the emotional self, in this case, the side that wants to pursue the career. Yeah, myself before that seems like we're more that's what I really want. Yes, you're more emotionally connected. That's what you want. That's what I want. So this will be the side of you, that has the needs and the wants, and more the emotion. Okay, so that's who you'll be in this chair. That makes sense. ",story,22_4,T,yq,joy
+Yep.,inactive,22_5,P,ack,sadness
+" In the other chair, let's have the critic that's inside that internal critic. That's advocating for settling down for getting married for having kids. In a way it represents a societal pressure Did those two sides seem separate to you? ",story,22_6,T,yq,joy
+Yeah.,inactive,22_7,P,ack,joy
+" You feel like you can be the emotional self here, an internal critic there?",story,22_8,T,yq,joy
+I think so. Okay.,inactive,22_9,P,op,joy
+"So, I think you remember how this work she'll be, he'll be talking to this case the internal critic, right? So the internal critics on the side of settling down, getting married. And then when you're ready to have the critic respond, you'll switch that chair and respond to the emotional needs driven and wanting some make sense. Okay. So whenever you're ready, go ahead and speak directly to the internal critic.",story,22_10,T,irq,joy
 "I want to Finish what I'm doing, and I want to finish what I started. I've worked so hard on my career path, and I'm so close to finishing. And I want to finish for me want to accomplish those goals that I've set for myself? And something I'm passionate about?",story,22_11,P,id,anger
 "So you've made your statement. Are you ready to switch? Okay, good switch. So I use the internal critic.",routine,22_12,T,irq,anger
 "There's always time to pursue a career, but I need to focus on what's expected of me at this time, on the best age for having kids I have a loving boyfriend who is ready and wants to get married and settle down. And you are being selfish by just following a path that you can take at any time",story,22_13,P,id,anger
