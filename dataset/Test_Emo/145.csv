@@ -36,7 +36,7 @@ Okay. Can you tell me about any disorders you've been diagnosed with?,routine,14
 But How about now?,routine,145_34,T,crq,0.0
 How about now I'm having problems with anxiety ?,routine,145_35,P,crq,0.0
 Hmm,inactive,145_36,T,cd,0.0
-Umm not as bad as in the past.,routine,145_37,P,cd,fear
+Umm not as bad as in the past.,routine,145_37,P,cd,anger
 How is depression?,symp/reasoning,145_38,T,irq,0.0
 "Yeah, ",symp/reasoning,145_39,P,id,-1.0
 right now ?,routine,145_40,T,crq,0.0

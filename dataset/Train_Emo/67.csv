@@ -1,58 +1,58 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-"sure you understand you've been having some symptoms which have been bothering you, but can you tell me what you think's going on?",symp/reasoning,67_0,T,irq,sadness
-"Yeah, I've been feeling really low and I think I might be depressed. ",symp/reasoning,67_1,P,id,joy
-You think you might be depressed?,symp/reasoning,67_2,T,irq,joy
-Have you ever felt this way in the past?,symp/reasoning,67_3,T,irq,joy
-I mean,story,67_4,P,id,joy
-"years ago I you know, felt had some of these similar things. But I didn't really think about it much and I mean, it's gone on for like, I've been feeling this way for like a month. And, you know, I I think something's wrong.",story,67_5,P,id,joy
-"having any feelings of sad sadness, hopelessness?",symp/reasoning,67_6,T,yq,joy
-"Yeah,",symp/reasoning,67_7,P,ack,joy
-yeah?,inactive,67_8,T,crq,joy
-Yeah. I haven't been able to sleep.,symp/reasoning,67_9,P,cd,joy
-trouble sleeping?,symp/reasoning,67_10,T,irq,joy
-This has been going on for a month.,symp/reasoning,67_11,P,id,joy
-Yeah,inactive,67_12,P,gc,joy
-Have you noticed a change in your ability to experience fun or pleasure?,routine,67_13,T,irq,joy
-"I haven't really thought about it. But I mean, I still have fun sometimes.",routine,67_14,P,id,joy
-I just noticed that most of my,inactive,67_15,P,gc,joy
-"most time you're sad, but you still have fun. Have you lost an interest in pursuing things that are fun?",symp/reasoning,67_16,T,irq,joy
-"No, I mean, I still try, you know, you know, to distract myself. Like if I noticed that I'm like, just feeling really low and or like, even if I can't sleep At night, like I'll do go do something that I like doing. You know how to pass the time?",story,67_17,P,on,joy
-Any change in your appetite or weight in the last couple weeks?,symp/reasoning,67_18,T,irq,joy
-"Yeah, I mean, I haven't really been eating that much. And I've actually lost a few pounds. Yes, three pounds. Yeah.",symp/reasoning,67_19,P,ack,joy
-And you mentioned the sleep disturbance not been sleeping as much as you'd like to?,symp/reasoning,67_20,T,irq,joy
-"Correct. It's really hard for me to fall asleep. And sometimes I'll just lie there for hours at night and it's, you know, awful focused, and I'm tired all day, because I didn't sleep at night. And when I get home and it's time for bed again, I still can't fall asleep.",story,67_21,P,id,joy
-So that's been affecting your energy level?,symp/reasoning,67_22,T,yq,joy
-Yeah.,symp/reasoning,67_23,P,ack,joy
-Do you feel restless or the opposite kind of slowed down and having either one of those feelings.,routine,67_24,T,irq,joy
-"No, not really like that",routine,67_25,P,on,joy
-have been having any feelings of worthlessness?,routine,67_26,T,yq,joy
-No.,routine,67_27,P,on,joy
-like that?,inactive,67_28,T,crq,joy
-"no, I mean, like not really no, like, I don't feel worthless. I just you know, I just I'm still sad. I don't know why I'm sad. ",routine,67_29,P,cd,joy
-How about your concentration level any changes there?,routine,67_30,T,irq,joy
-"Yeah, it's it's hard to concentrate at work and, and in general even at home because I just am so tired. not sleeping and tonight I just get distracted by like, you know, like, I'll be over, come with emotion and I out of nowhere, like it's hard for me to pay attention to what I'm doing. If I'm getting distracted by those thoughts.",story,67_31,P,id,joy
-Have you been having any thoughts related to death or dying?,routine,67_32,T,yq,joy
-Nothing like that. No.,routine,67_33,P,on,joy
-"So these symptoms you've been describing, have been causing limitations in your functioning in what areas",routine,67_34,T,irq,joy
-what work,inactive,67_35,P,crq,joy
-at home to,inactive,67_36,P,id,joy
-" I want to play with my cat I usually like my cat for like an hour every night, just because I'm at work all day but I haven't I've been having trouble like even doing that. Yeah, so I would say and then even like my relationships to like my social life, it's been affecting it.",story,67_37,P,id,joy
-Any drug or alcohol use?,routine,67_38,T,yq,joy
-NO,routine,67_39,P,on,joy
-How about any medical conditions?,routine,67_40,T,yq,joy
-Nothing,routine,67_41,P,on,joy
-see or hear things other people can't see or hear?,routine,67_42,T,yq,joy
-No.,routine,67_43,P,on,joy
-Has it ever happened to you?,routine,67_44,T,yq,joy
-No. Never,routine,67_45,P,on,joy
-"do you feel now recently wherever you're at a state where you're cheating too happy, like had a lot of energy and ",routine,67_46,T,irq,joy
-"like make mania,",routine,67_47,P,crq,joy
-like mania? Yeah. Nothing like that. Ever.,routine,67_48,T,cd,joy
-Has there been any major event in the last month? Or maybe before that did you think might be causing this,routine,67_49,T,irq,joy
-nothing Nothing's in there significance happened to make me feel this way,routine,67_50,P,id,joy
-other than you think would cause depression.,routine,67_51,T,gc,joy
-"Sherry, I'm going to get you in to see a counselor here. Just take a couple days to get you in. Is that okay? I want to thank you for answering these questions. For me. This has been helpful.",story,67_52,T,gt,joy
-Yeah. All right.,inactive,67_53,P,gt,joy
+"sure you understand you've been having some symptoms which have been bothering you, but can you tell me what you think's going on?",symp/reasoning,67_0,T,irq,joy
+"Yeah, I've been feeling really low and I think I might be depressed. ",symp/reasoning,67_1,P,id,sadness
+You think you might be depressed?,symp/reasoning,67_2,T,irq,sadness
+Have you ever felt this way in the past?,symp/reasoning,67_3,T,irq,sadness
+I mean,story,67_4,P,id,sadness
+"years ago I you know, felt had some of these similar things. But I didn't really think about it much and I mean, it's gone on for like, I've been feeling this way for like a month. And, you know, I I think something's wrong.",story,67_5,P,id,sadness
+"having any feelings of sad sadness, hopelessness?",symp/reasoning,67_6,T,yq,sadness
+"Yeah,",symp/reasoning,67_7,P,ack,sadness
+yeah?,inactive,67_8,T,crq,sadness
+Yeah. I haven't been able to sleep.,symp/reasoning,67_9,P,cd,sadness
+trouble sleeping?,symp/reasoning,67_10,T,irq,sadness
+This has been going on for a month.,symp/reasoning,67_11,P,id,sadness
+Yeah,inactive,67_12,P,gc,sadness
+Have you noticed a change in your ability to experience fun or pleasure?,routine,67_13,T,irq,sadness
+"I haven't really thought about it. But I mean, I still have fun sometimes.",routine,67_14,P,id,sadness
+I just noticed that most of my,inactive,67_15,P,gc,sadness
+"most time you're sad, but you still have fun. Have you lost an interest in pursuing things that are fun?",symp/reasoning,67_16,T,irq,sadness
+"No, I mean, I still try, you know, you know, to distract myself. Like if I noticed that I'm like, just feeling really low and or like, even if I can't sleep At night, like I'll do go do something that I like doing. You know how to pass the time?",story,67_17,P,on,sadness
+Any change in your appetite or weight in the last couple weeks?,symp/reasoning,67_18,T,irq,sadness
+"Yeah, I mean, I haven't really been eating that much. And I've actually lost a few pounds. Yes, three pounds. Yeah.",symp/reasoning,67_19,P,ack,sadness
+And you mentioned the sleep disturbance not been sleeping as much as you'd like to?,symp/reasoning,67_20,T,irq,sadness
+"Correct. It's really hard for me to fall asleep. And sometimes I'll just lie there for hours at night and it's, you know, awful focused, and I'm tired all day, because I didn't sleep at night. And when I get home and it's time for bed again, I still can't fall asleep.",story,67_21,P,id,sadness
+So that's been affecting your energy level?,symp/reasoning,67_22,T,yq,sadness
+Yeah.,symp/reasoning,67_23,P,ack,sadness
+Do you feel restless or the opposite kind of slowed down and having either one of those feelings.,routine,67_24,T,irq,sadness
+"No, not really like that",routine,67_25,P,on,sadness
+have been having any feelings of worthlessness?,routine,67_26,T,yq,sadness
+No.,routine,67_27,P,on,sadness
+like that?,inactive,67_28,T,crq,sadness
+"no, I mean, like not really no, like, I don't feel worthless. I just you know, I just I'm still sad. I don't know why I'm sad. ",routine,67_29,P,cd,sadness
+How about your concentration level any changes there?,routine,67_30,T,irq,sadness
+"Yeah, it's it's hard to concentrate at work and, and in general even at home because I just am so tired. not sleeping and tonight I just get distracted by like, you know, like, I'll be over, come with emotion and I out of nowhere, like it's hard for me to pay attention to what I'm doing. If I'm getting distracted by those thoughts.",story,67_31,P,id,sadness
+Have you been having any thoughts related to death or dying?,routine,67_32,T,yq,sadness
+Nothing like that. No.,routine,67_33,P,on,sadness
+"So these symptoms you've been describing, have been causing limitations in your functioning in what areas",routine,67_34,T,irq,sadness
+what work,inactive,67_35,P,crq,sadness
+at home to,inactive,67_36,P,id,sadness
+" I want to play with my cat I usually like my cat for like an hour every night, just because I'm at work all day but I haven't I've been having trouble like even doing that. Yeah, so I would say and then even like my relationships to like my social life, it's been affecting it.",story,67_37,P,id,sadness
+Any drug or alcohol use?,routine,67_38,T,yq,sadness
+NO,routine,67_39,P,on,sadness
+How about any medical conditions?,routine,67_40,T,yq,sadness
+Nothing,routine,67_41,P,on,sadness
+see or hear things other people can't see or hear?,routine,67_42,T,yq,sadness
+No.,routine,67_43,P,on,sadness
+Has it ever happened to you?,routine,67_44,T,yq,sadness
+No. Never,routine,67_45,P,on,sadness
+"do you feel now recently wherever you're at a state where you're cheating too happy, like had a lot of energy and ",routine,67_46,T,irq,sadness
+"like make mania,",routine,67_47,P,crq,sadness
+like mania? Yeah. Nothing like that. Ever.,routine,67_48,T,cd,sadness
+Has there been any major event in the last month? Or maybe before that did you think might be causing this,routine,67_49,T,irq,sadness
+nothing Nothing's in there significance happened to make me feel this way,routine,67_50,P,id,sadness
+other than you think would cause depression.,routine,67_51,T,gc,sadness
+"Sherry, I'm going to get you in to see a counselor here. Just take a couple days to get you in. Is that okay? I want to thank you for answering these questions. For me. This has been helpful.",story,67_52,T,gt,sadness
+Yeah. All right.,inactive,67_53,P,gt,sadness
 summary,"The patient is feeling really low and think they might be depressed. The patient is feeling this for a month now and has trouble sleeping too. The patient still has fun sometimes, and tries to distract themselves when they feel low. The patient has lost three pounds in the last couple weeks. The patient can't fall asleep for hours on bed and feel tired all day. They don't feel restless or worthless. The patient just feels sad and has tough time concentrating at work. The patient is having limitations both at work and home. The patient does not use drugs or alcohol, has no medical condition and does not see or hear unusual things. They haven't had a lot of energy in recent times, and they don't any major event happened in last month that's causing these symptoms. The therapist assures to get in a counselor for the patient in a couple days. ",,,,
 primary_topic,depression,,,,
 secondary_topic,sleep-concentration,,,,

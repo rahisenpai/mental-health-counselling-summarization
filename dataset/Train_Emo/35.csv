@@ -1,79 +1,79 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-"Sarah, how are you doing today?",inactive,35_0,T,gt,sadness
-"I'm doing okay. It could be a little better but could always be worse, but I'm going okay,",inactive,35_1,P,gt,sadness
-good. Okay. I understand you have some symptoms that have been bothering you.,inactive,35_2,T,irq,joy
-"They have been bothering me. Well, I just started back to school last year, I was staying at home while my husband was working with the kids are crawling now out of the house. So I said I was gonna go back to school. I have been in school in 20 years, and I thought I could handle it. But right now, I just find myself so anxious and just so worried all the time. And I just don't know what to do with it. It's been going on for around the past seven, eight months now.",symp/reasoning,35_3,P,id,love
-About seven or eight months?,routine,35_4,T,yq,love
-Yeah.,routine,35_5,P,ack,love
-Would you say that this anxiety has been affecting you? more days? That doesn't?,symp/reasoning,35_6,T,irq,love
-"Um, I would say it's been affecting me. Yes. For some time, though. Yes. More often than not, yes.",symp/reasoning,35_7,P,id,love
-More often than not. Yeah. Do you find yourself struggling to control the anxiety?,routine,35_8,T,irq,love
-So control it. I'm just anxious all the time. Yes.,routine,35_9,P,id,love
-Sounds like you're struggling to get under control.,routine,35_10,T,yq,love
-Yes.,routine,35_11,P,ack,love
-Tell me about how it's been affecting. You mentioned in school.,routine,35_12,T,irq,love
-"It's, I'm not doing too well at school right now. ",routine,35_13,P,id,love
-Not at all?,routine,35_14,T,irq,love
-"I thought it would be a better student. I was always a steady student back. Back before when I was an undergrad. I was always a straight A student, but now I'm failing and I just can't, I can't concentrate school failing. I'm just so worried all the time about what how I'm going to do in this class, what assignments are due. If I'm getting the work done in time, it's controlling. It's taking over everything I do in school. So I'm so more I'm more worried about how I'm going to do, then having time to focus on my grades. Like it's just to that level.",story,35_15,P,id,love
-"It's really distressing for you. Yes, that's a school about a home",symp/reasoning,35_16,T,irq,love
-"and home. I'm so worried about school, that it's affecting my life at home. Like I'm okay, I have this assignment but then, oh my goodness, I'm so focused on this assignment. We'll have time to make dinner for the kids. Oh, my husband's been all over the house is such a mess all the time. And it's just causing so much conflict at home. My husband thinks I should be doing my house workout. I'm so consumed with school and then it's just such a big mess right now. So I'm constantly worried when I'm when I'm at school, I'm worried about home and when I'm home, I'm worried Got school.",story,35_17,P,id,love
-So good deal with deal worrying,inactive,35_18,T,irq,love
-"all the time, all the time.",inactive,35_19,P,id,love
-"Okay, so I'll ask you a few questions about this. And some that might be related to drink or use any drugs?",routine,35_20,T,yq,love
-"No, not at all. Not at all.",routine,35_21,P,on,love
-Do you have any medical conditions?,routine,35_22,T,yq,love
-"No, not at all. ",routine,35_23,P,on,love
-Nothing. Have you ever been diagnosed with any other mental health disorders?,routine,35_24,T,yq,love
-No.,routine,35_25,P,on,love
-"Not ever have panic attacks , have you ever had one in the past?",routine,35_26,T,yq,love
-"No, no.",routine,35_27,P,on,love
-So a lot of anxiety but no panic just just,routine,35_28,T,irq,love
-anxiety like overwhelming anxiety.,routine,35_29,P,id,love
-Intense anxiety?,routine,35_30,T,yq,love
-"Yes,",routine,35_31,P,ack,love
-but but never situation where you felt you had to flee from a room or anything like that.,inactive,35_32,T,irq,love
-Any past trauma,routine,35_33,T,yq,love
-No,routine,35_34,P,on,love
-"Okay,",inactive,35_35,T,ack,love
-Do you sometimes feel keyed up on edge or restless?,routine,35_36,T,irq,love
-restless?,inactive,35_37,P,crq,love
-"restless, yes",routine,35_38,T,cd,love
-restless.,inactive,35_39,P,id,love
-Do you find yourself easily fatigued? I'm,routine,35_40,T,irq,love
-tired all the time.,routine,35_41,P,id,love
-tired all the time.,inactive,35_42,T,yq,love
-Yes.,inactive,35_43,P,ack,love
-Do you have any trouble concentrating or finding your mind go blank?,routine,35_44,T,yq,love
-"No, not really notice. ",routine,35_45,P,on,love
-"How about irritability find yourself. irritable.,",routine,35_46,T,irq,love
-"no, not really irritable.",routine,35_47,P,id,love
-Any muscle tension?,routine,35_48,T,yq,love
-Not really. No. Okay.,routine,35_49,P,on,love
-"Hello. trouble sleeping. So to be falling asleep, staying asleep having unsatisfying sleep, anything like that?",symp/reasoning,35_50,T,irq,love
-"Well, I have unsatisfied sleep. But we just moved and we live next to a factory. There's trucks in and out all the time who can sit with that? There's crackling noise",symp/reasoning,35_51,P,id,love
-so you think that might be causing Your sleep disturbance.,routine,35_52,T,orq,love
-"It's entirely possible. It's like who can sleep? Well, we got trucks in and out all hours of the night overnight, and in the wee hours of the morning, so it's pretty much impossible to fall asleep when you have just this noise",story,35_53,P,od,love
-about before you moved there.,routine,35_54,T,crq,love
-I don't remember.,routine,35_55,P,cd,love
-How long ago was it that you moved to the florida?,routine,35_56,T,irq,love
-"Um, a couple years",routine,35_57,P,id,love
-couple years?,routine,35_58,T,yq,love
-Yes.,routine,35_59,P,ack,love
-So you've had the stories that by for a couple years?,routine,35_60,T,yq,love
-Yes.,routine,35_61,P,ack,love
-So symptoms started eight months ago.,symp/reasoning,35_62,T,irq,love
-"Yes. So I don't know if they've made it. I don't know if it made it if made it worse, or just the noises just been. So I don't know if it's the noise or why but I can't sleep.",story,35_63,P,id,love
-"Okay, how about any vacations or anything? ",routine,35_64,T,irq,love
-I'm sorry.,routine,35_65,P,id,love
-No vacation.,routine,35_66,T,gc,love
-So you've pretty much been sleeping. Your home every night for as long as the symptoms have been around.,symp/reasoning,35_67,T,yq,love
-"Oh, yes, yeah. ",routine,35_68,P,ack,love
-All right.,inactive,35_69,T,gc,love
-"All right, sir.",inactive,35_70,T,gc,love
-I appreciate you answering these questions. For me. This has been helpful. I'm gonna get your schedule with a counselor. And they should be. I'll see you in a couple of days.,routine,35_71,T,gt,love
-"Oh, thank you. Thank you. I would I would so appreciate it just to get this under control. ",inactive,35_72,P,gt,love
-"Absolutely. Take care, sir. ",inactive,35_73,T,gt,love
-Thank you.,inactive,35_74,P,gt,love
+"Sarah, how are you doing today?",inactive,35_0,T,gt,joy
+"I'm doing okay. It could be a little better but could always be worse, but I'm going okay,",inactive,35_1,P,gt,joy
+good. Okay. I understand you have some symptoms that have been bothering you.,inactive,35_2,T,irq,sadness
+"They have been bothering me. Well, I just started back to school last year, I was staying at home while my husband was working with the kids are crawling now out of the house. So I said I was gonna go back to school. I have been in school in 20 years, and I thought I could handle it. But right now, I just find myself so anxious and just so worried all the time. And I just don't know what to do with it. It's been going on for around the past seven, eight months now.",symp/reasoning,35_3,P,id,fear
+About seven or eight months?,routine,35_4,T,yq,fear
+Yeah.,routine,35_5,P,ack,fear
+Would you say that this anxiety has been affecting you? more days? That doesn't?,symp/reasoning,35_6,T,irq,fear
+"Um, I would say it's been affecting me. Yes. For some time, though. Yes. More often than not, yes.",symp/reasoning,35_7,P,id,fear
+More often than not. Yeah. Do you find yourself struggling to control the anxiety?,routine,35_8,T,irq,fear
+So control it. I'm just anxious all the time. Yes.,routine,35_9,P,id,fear
+Sounds like you're struggling to get under control.,routine,35_10,T,yq,fear
+Yes.,routine,35_11,P,ack,fear
+Tell me about how it's been affecting. You mentioned in school.,routine,35_12,T,irq,fear
+"It's, I'm not doing too well at school right now. ",routine,35_13,P,id,fear
+Not at all?,routine,35_14,T,irq,fear
+"I thought it would be a better student. I was always a steady student back. Back before when I was an undergrad. I was always a straight A student, but now I'm failing and I just can't, I can't concentrate school failing. I'm just so worried all the time about what how I'm going to do in this class, what assignments are due. If I'm getting the work done in time, it's controlling. It's taking over everything I do in school. So I'm so more I'm more worried about how I'm going to do, then having time to focus on my grades. Like it's just to that level.",story,35_15,P,id,fear
+"It's really distressing for you. Yes, that's a school about a home",symp/reasoning,35_16,T,irq,fear
+"and home. I'm so worried about school, that it's affecting my life at home. Like I'm okay, I have this assignment but then, oh my goodness, I'm so focused on this assignment. We'll have time to make dinner for the kids. Oh, my husband's been all over the house is such a mess all the time. And it's just causing so much conflict at home. My husband thinks I should be doing my house workout. I'm so consumed with school and then it's just such a big mess right now. So I'm constantly worried when I'm when I'm at school, I'm worried about home and when I'm home, I'm worried Got school.",story,35_17,P,id,fear
+So good deal with deal worrying,inactive,35_18,T,irq,fear
+"all the time, all the time.",inactive,35_19,P,id,fear
+"Okay, so I'll ask you a few questions about this. And some that might be related to drink or use any drugs?",routine,35_20,T,yq,fear
+"No, not at all. Not at all.",routine,35_21,P,on,fear
+Do you have any medical conditions?,routine,35_22,T,yq,fear
+"No, not at all. ",routine,35_23,P,on,fear
+Nothing. Have you ever been diagnosed with any other mental health disorders?,routine,35_24,T,yq,fear
+No.,routine,35_25,P,on,fear
+"Not ever have panic attacks , have you ever had one in the past?",routine,35_26,T,yq,fear
+"No, no.",routine,35_27,P,on,fear
+So a lot of anxiety but no panic just just,routine,35_28,T,irq,fear
+anxiety like overwhelming anxiety.,routine,35_29,P,id,fear
+Intense anxiety?,routine,35_30,T,yq,fear
+"Yes,",routine,35_31,P,ack,fear
+but but never situation where you felt you had to flee from a room or anything like that.,inactive,35_32,T,irq,fear
+Any past trauma,routine,35_33,T,yq,fear
+No,routine,35_34,P,on,fear
+"Okay,",inactive,35_35,T,ack,fear
+Do you sometimes feel keyed up on edge or restless?,routine,35_36,T,irq,fear
+restless?,inactive,35_37,P,crq,fear
+"restless, yes",routine,35_38,T,cd,fear
+restless.,inactive,35_39,P,id,fear
+Do you find yourself easily fatigued? I'm,routine,35_40,T,irq,fear
+tired all the time.,routine,35_41,P,id,fear
+tired all the time.,inactive,35_42,T,yq,fear
+Yes.,inactive,35_43,P,ack,fear
+Do you have any trouble concentrating or finding your mind go blank?,routine,35_44,T,yq,fear
+"No, not really notice. ",routine,35_45,P,on,fear
+"How about irritability find yourself. irritable.,",routine,35_46,T,irq,fear
+"no, not really irritable.",routine,35_47,P,id,fear
+Any muscle tension?,routine,35_48,T,yq,fear
+Not really. No. Okay.,routine,35_49,P,on,fear
+"Hello. trouble sleeping. So to be falling asleep, staying asleep having unsatisfying sleep, anything like that?",symp/reasoning,35_50,T,irq,fear
+"Well, I have unsatisfied sleep. But we just moved and we live next to a factory. There's trucks in and out all the time who can sit with that? There's crackling noise",symp/reasoning,35_51,P,id,fear
+so you think that might be causing Your sleep disturbance.,routine,35_52,T,orq,fear
+"It's entirely possible. It's like who can sleep? Well, we got trucks in and out all hours of the night overnight, and in the wee hours of the morning, so it's pretty much impossible to fall asleep when you have just this noise",story,35_53,P,od,fear
+about before you moved there.,routine,35_54,T,crq,fear
+I don't remember.,routine,35_55,P,cd,fear
+How long ago was it that you moved to the florida?,routine,35_56,T,irq,fear
+"Um, a couple years",routine,35_57,P,id,fear
+couple years?,routine,35_58,T,yq,fear
+Yes.,routine,35_59,P,ack,fear
+So you've had the stories that by for a couple years?,routine,35_60,T,yq,fear
+Yes.,routine,35_61,P,ack,fear
+So symptoms started eight months ago.,symp/reasoning,35_62,T,irq,fear
+"Yes. So I don't know if they've made it. I don't know if it made it if made it worse, or just the noises just been. So I don't know if it's the noise or why but I can't sleep.",story,35_63,P,id,fear
+"Okay, how about any vacations or anything? ",routine,35_64,T,irq,fear
+I'm sorry.,routine,35_65,P,id,fear
+No vacation.,routine,35_66,T,gc,fear
+So you've pretty much been sleeping. Your home every night for as long as the symptoms have been around.,symp/reasoning,35_67,T,yq,fear
+"Oh, yes, yeah. ",routine,35_68,P,ack,fear
+All right.,inactive,35_69,T,gc,fear
+"All right, sir.",inactive,35_70,T,gc,fear
+I appreciate you answering these questions. For me. This has been helpful. I'm gonna get your schedule with a counselor. And they should be. I'll see you in a couple of days.,routine,35_71,T,gt,fear
+"Oh, thank you. Thank you. I would I would so appreciate it just to get this under control. ",inactive,35_72,P,gt,fear
+"Absolutely. Take care, sir. ",inactive,35_73,T,gt,fear
+Thank you.,inactive,35_74,P,gt,fear
 summary,"The patient has joined school after a gap of 20 years last year, but is feeling very anxious for the past seven to eight months. It's been affecting the patient and they are struggling to control the anxiety. The patient used to be straight A student in undergrad and now they are not able to concentrate well, their entire time is devoted to assignments and constant worry about grades. The patient hasn't used drugs, does not drink, has no medical condition, no panic attacks. The patient has intense anxiety. The patient has no past trauma, finds themselves restless and fatigued. The patient has no trouble concentrating, not irritable nor experience muscle tension. The patient has unsatisfied sleep since they live next to a factory with noises all the time. They moved to Florida two years ago, since then they have had sleep issue. They have had no vacation hence they have been sleeping at home since the symptoms started. The therapist assured to set the patient up with a counselor. ",,,,
 primary_topic,anxiety,,,,
 secondary_topic,concentration-school,,,,

@@ -1,57 +1,57 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-"Sue, it's good to see you again. I was hoping today, I could give you a test of your memory, you feel good about that?",symp/reasoning,121_0,T,yq,sadness
-Okay. All right.,inactive,121_1,P,ack,sadness
-Okay. So I'm going to read a series of questions and ask you to do some different things. And this will just take a few minutes. Okay. All right. So what is today's date?,routine,121_2,T,irq,sadness
-I think it's the 10th,routine,121_3,P,id,sadness
-10th. What is today's year?,routine,121_4,T,irq,sadness
-2016,routine,121_5,P,id,sadness
-what is the month?,routine,121_6,T,irq,sadness
-It's January is 2017 into January.,routine,121_7,P,id,sadness
-What day is today?,routine,121_8,T,irq,sadness
-It's the 10th.,routine,121_9,P,id,sadness
-Can you also tell me what season it is?,routine,121_10,T,yq,sadness
-Christmas.,routine,121_11,P,id,sadness
-Can you also tell me the name of this clinic?,routine,121_12,T,yq,sadness
-I saw it when I came in. I don't remember.,routine,121_13,P,id,sadness
-What floor Are we on?,routine,121_14,T,irq,sadness
-red,routine,121_15,P,id,sadness
-What city are we in?,routine,121_16,T,irq,sadness
-"Dover, Dover.",routine,121_17,P,id,sadness
-What County are we in?,routine,121_18,T,irq,sadness
-Dover County.,routine,121_19,P,id,sadness
-Dover County? What state Are we in?,routine,121_20,T,irq,sadness
-Delaware.,routine,121_21,P,id,sadness
-"So, I'm going to test your memory. I want to read these three words. And I want you to repeat them back to me.",routine,121_22,T,id,sadness
-Okay. All right.,inactive,121_23,P,ack,sadness
-"Ball, flag. Tree. Can we get those back?",routine,121_24,T,irq,sadness
-"Um, ball, frog.",routine,121_25,P,id,sadness
-"Let me do that again. Okay. Ball, flag and tree.",routine,121_26,T,id,sadness
-Ball flag and tree.,routine,121_27,P,id,sadness
-All right. I want you to remember those because I'd ask you to repeat them again later on.,routine,121_28,T,id,sadness
-Okay. All right.,inactive,121_29,P,ack,sadness
-Can you begin with the number 100 and count backwards by seven?,routine,121_30,T,yq,sadness
-"Okay, so 100 193",routine,121_31,P,id,sadness
-continue,routine,121_32,T,ci,sadness
-85 79 72 65,routine,121_33,P,id,sadness
-"Okay, that's good.",routine,121_34,T,id,sadness
-Thank you.,routine,121_35,P,gt,sadness
-Can you spell the word world backwards?,routine,121_36,T,yq,sadness
-LR no,routine,121_37,P,id,sadness
-Right? I want you to name the three words that I asked you to remember a few moments ago.,routine,121_38,T,ci,sadness
-Fall,routine,121_39,P,id,sadness
-"Okay, let's take that was it Can you tell me what this is? ",routine,121_40,T,yq,sadness
-A watch a watch.,routine,121_41,P,id,sadness
-Yeah. Can you tell me what this is?,routine,121_42,T,yq,sadness
-Pen,routine,121_43,P,id,sadness
-"I'm going to say a phrase. I'd like you to repeat it back to me exactly as I say. Okay, all right. phrase is No ifs, ands, or buts.",routine,121_44,T,id,sadness
-No if and buts,routine,121_45,P,id,sadness
-Are you right handed or left handed?,routine,121_46,T,irq,sadness
-right handed.,routine,121_47,P,id,sadness
-I'd like you to take this piece of paper from me in your right hand. fold the paper in half and put the paper on the floor. Okay,routine,121_48,T,id,sadness
-Can only fold it with my right hand.,inactive,121_49,P,crq,sadness
-You can use both,routine,121_50,T,id,sadness
-Just anything?,inactive,121_51,P,crq,sadness
-any any complete sentence,inactive,121_52,T,id,sadness
+"Sue, it's good to see you again. I was hoping today, I could give you a test of your memory, you feel good about that?",symp/reasoning,121_0,T,yq,joy
+Okay. All right.,inactive,121_1,P,ack,joy
+Okay. So I'm going to read a series of questions and ask you to do some different things. And this will just take a few minutes. Okay. All right. So what is today's date?,routine,121_2,T,irq,joy
+I think it's the 10th,routine,121_3,P,id,joy
+10th. What is today's year?,routine,121_4,T,irq,joy
+2016,routine,121_5,P,id,joy
+what is the month?,routine,121_6,T,irq,joy
+It's January is 2017 into January.,routine,121_7,P,id,joy
+What day is today?,routine,121_8,T,irq,joy
+It's the 10th.,routine,121_9,P,id,joy
+Can you also tell me what season it is?,routine,121_10,T,yq,joy
+Christmas.,routine,121_11,P,id,joy
+Can you also tell me the name of this clinic?,routine,121_12,T,yq,joy
+I saw it when I came in. I don't remember.,routine,121_13,P,id,joy
+What floor Are we on?,routine,121_14,T,irq,joy
+red,routine,121_15,P,id,joy
+What city are we in?,routine,121_16,T,irq,joy
+"Dover, Dover.",routine,121_17,P,id,joy
+What County are we in?,routine,121_18,T,irq,joy
+Dover County.,routine,121_19,P,id,joy
+Dover County? What state Are we in?,routine,121_20,T,irq,joy
+Delaware.,routine,121_21,P,id,joy
+"So, I'm going to test your memory. I want to read these three words. And I want you to repeat them back to me.",routine,121_22,T,id,joy
+Okay. All right.,inactive,121_23,P,ack,joy
+"Ball, flag. Tree. Can we get those back?",routine,121_24,T,irq,joy
+"Um, ball, frog.",routine,121_25,P,id,joy
+"Let me do that again. Okay. Ball, flag and tree.",routine,121_26,T,id,joy
+Ball flag and tree.,routine,121_27,P,id,joy
+All right. I want you to remember those because I'd ask you to repeat them again later on.,routine,121_28,T,id,joy
+Okay. All right.,inactive,121_29,P,ack,joy
+Can you begin with the number 100 and count backwards by seven?,routine,121_30,T,yq,joy
+"Okay, so 100 193",routine,121_31,P,id,joy
+continue,routine,121_32,T,ci,joy
+85 79 72 65,routine,121_33,P,id,joy
+"Okay, that's good.",routine,121_34,T,id,joy
+Thank you.,routine,121_35,P,gt,joy
+Can you spell the word world backwards?,routine,121_36,T,yq,joy
+LR no,routine,121_37,P,id,joy
+Right? I want you to name the three words that I asked you to remember a few moments ago.,routine,121_38,T,ci,joy
+Fall,routine,121_39,P,id,joy
+"Okay, let's take that was it Can you tell me what this is? ",routine,121_40,T,yq,joy
+A watch a watch.,routine,121_41,P,id,joy
+Yeah. Can you tell me what this is?,routine,121_42,T,yq,joy
+Pen,routine,121_43,P,id,joy
+"I'm going to say a phrase. I'd like you to repeat it back to me exactly as I say. Okay, all right. phrase is No ifs, ands, or buts.",routine,121_44,T,id,joy
+No if and buts,routine,121_45,P,id,joy
+Are you right handed or left handed?,routine,121_46,T,irq,joy
+right handed.,routine,121_47,P,id,joy
+I'd like you to take this piece of paper from me in your right hand. fold the paper in half and put the paper on the floor. Okay,routine,121_48,T,id,joy
+Can only fold it with my right hand.,inactive,121_49,P,crq,joy
+You can use both,routine,121_50,T,id,joy
+Just anything?,inactive,121_51,P,crq,joy
+any any complete sentence,inactive,121_52,T,id,joy
 summary,"Therapist started session by memory test which consists of some questions about the date, city, floor, etc. Therapist asks patient to repeat the words. Patient did it really well. Therapist tell to keep these words in mind because therapist will ask them later on. Therapist asks to count number backwards, but it was difficult for to patient. Then therapist asks to repeat those words asked earlier. Therapist asks some random questions and asks to repeat the words asked earlier. Then therapist asks questions about things around them and patient did it well.",,,,
 primary_topic,Memory,,,,
 secondary_topic,Memory,,,,

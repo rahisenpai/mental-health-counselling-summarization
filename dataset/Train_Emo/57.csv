@@ -1,113 +1,113 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-Except that when you're in work you worry a lot about how you come across in social situations.,symp/reasoning,57_0,T,gc,fear
-"Yeah, really makes me feel really anxious. Like, what I look like and what people are thinking.",symp/reasoning,57_1,P,gc,love
-"Yeah, you said that you worry that you visibly shake.",symp/reasoning,57_2,T,crq,love
-Yeah.,inactive,57_3,P,cd,love
-And are there any other things that you worry that people will notice?,symp/reasoning,57_4,T,irq,love
-I think obviously the shaking I think my hands and legs shaking and kind of going really red and sweating and just looking great. went ahead.,symp/reasoning,57_5,P,id,love
-"So it sounds like you have quite a strong mental image of how you see yourself when you're in these social situations. Yeah. You say you go read you shake. Is there anything else that you think that you do? I mean, describe yourself. How do you think you look, when you're in these situations, just",story,57_6,T,irq,love
-"like, I think I just looked really obviously weird and out of place and like really read and just visibly shaking and sweating and kind of not being able to communicate properly with people.",story,57_7,P,id,love
-And is there anything that you do to try and kind of defend against these things to manage these problems?,routine,57_8,T,irq,love
-"And I guess like when I'm holding the camera, I just grip onto it really, really tight, or kind of clench on my muscles and just find something that I can focus on. And to kind of try and make myself shake less and not goes red and stuff.",story,57_9,P,id,love
-So you focus on something you grip onto that Camera. Do you make eye contact with people?,routine,57_10,T,crq,love
-No. I just tend to just look down.,routine,57_11,P,cd,love
-"Okay, so you also avoid eye contact? Is there anything else that you do to manage the sweating For example, ",routine,57_12,T,crq,love
-"I just as I like kind of looking down and like wearing all black, so it's less obvious and what kind of worrying? Yeah, just more layers and all black says you just can't tell.",story,57_13,P,cd,love
-Okay,inactive,57_14,T,ack,love
-"What do you think would happen if you stopped doing these things? If you stopped gripping onto the camera? Or, you know, you start to make eye contact and not looking down? And what do you think would happen?",symp/reasoning,57_15,T,irq,love
-"I think it would be so much worse. Yeah, I think I just would just check even more and be more anxious and look of more obviously, kind of weird and out of place.",symp/reasoning,57_16,P,id,love
-"And what I'm thinking now is how do you feel about if we did an experiment to test out your thoughts on what would happen if you stopped doing these things? If we did a bit of a role play where we pretended to enact a situation at work, okay? And if we did this maybe twice and the first time, you do all the things that you normally do, okay and grip onto something, look down. And is there anything else that you do when you're in these situations, these work conversations to try and cope.",story,57_17,T,irq,love
-"And I just kind of all just like fumble and like kind of just clench, whatever, whatever it is, I'm holding just really tight and just make sure I don't make any eye contact at all, just kind of get through it.",story,57_18,P,id,love
-"Okay, so in the first time, I want you to do those things as much as you normally would, in fact, maybe even slightly more than you normally would. ",story,57_19,T,ci,love
-"Okay, ",inactive,57_20,P,ack,love
-"and then the second time, I want you to drop doing those things all together. ",story,57_21,T,ci,love
-Okay,inactive,57_22,P,ack,love
-does that sound okay?,routine,57_23,T,yq,love
-try my best.,routine,57_24,P,ack,love
-And do you? How would you feel about if we filmed this so you could actually see what you looked like?,routine,57_25,T,orq,love
-Okay.,routine,57_26,P,od,love
-Do you have a camera with you that we can video on?,routine,57_27,T,yq,love
-Yeah. And there is my phone. Okay.,routine,57_28,P,ack,love
-"Yeah, yeah, we'll use that in just a sec. ",routine,57_29,T,gc,love
-Okay,routine,57_30,P,ack,love
-"before we do this, then we're just going to fill out this form is because what we're doing now is an experiment. We call it behavioral experiments, see what happens when you change the way that you're behaving? ",story,57_31,T,irq,love
-Right. Okay,routine,57_32,P,ack,love
-"so the first column says, I need to fill out an experiment to test this thought that you have, so that our experiment is going to be that we do a conversation at work, and who should I play if you're playing yourself in this roleplay? Who should I be?",story,57_33,T,id,love
-maybe like a client at work? I always have to sit down with clients before we did the shoe and kind of get to know a little bit more about what they want.,story,57_34,P,id,love
-"Okay, so would it work if I was maybe having a wedding and I was hiring? ",story,57_35,T,yq,love
-"Yeah, ",story,57_36,P,ack,love
-wedding photographer?,story,57_37,T,yq,love
-Yeah.,story,57_38,P,ack,love
-What kind of problems do you see coming up in this conversation that we have like what we see yourself doing on camera,story,57_39,T,irq,love
-"I am shaking, like being really obviously shaking and Okay, bright red and Okay, so,",story,57_40,P,id,love
-"visibly shaking. So how, how much will you be shaking if 100 is like shaking uncontrollably and zero is not shaking at all? How visibly shaking Will you be?",story,57_41,T,irq,love
-90,story,57_42,P,id,love
-Okay. So what was the other thing that you just said?,routine,57_43,T,crq,love
-like I really read,routine,57_44,P,crq,love
-"Okay, so go read.",routine,57_45,T,cd,love
-Yeah.,routine,57_46,P,ack,love
-"And how read will you go? I mean, if we look around this room",routine,57_47,T,irq,love
-probably like the chairs.,routine,57_48,P,id,love
-" Okay, thanks. Hello. Yeah, you're going to be as kind of brightly pink as these chairs. Oh, yeah. Okay. So out of 100 then how how pink would you say these chairs are",story,57_49,T,irq,love
-90 have 100 Okay.,story,57_50,P,id,love
-"What else you worried is going to happen when we have these conversations, just",routine,57_51,T,irq,love
-"worried to be fake, like say something stupid and not be able to kind of get what I'm trying to say across properly.",routine,57_52,P,id,love
-"Okay, and how stupid out of 100 100 is ridiculously stupid.",routine,57_53,T,irq,love
-"Probably like, similar 90. Okay, I'd say",routine,57_54,P,id,love
-"wow, see worried will happen when you have this conversation. What else might you see on the camera? ",routine,57_55,T,irq,love
-I think you'll probably be able to see that I'm sweating and okay.,routine,57_56,P,id,love
-And how much will you be sweating?,routine,57_57,T,irq,love
-"Again, 90.",routine,57_58,P,id,love
-I really think like visibly sweating down the face. Yeah.,routine,57_59,T,gc,love
-"Okay, and what you think will happen the second time around when you stop kind of doing the things you normally do to cope when you maybe start to make eye contact. You're not gripping on something. ",story,57_60,T,irq,love
-"I think it will be even worse. I think Oh, yeah.",routine,57_61,P,od,love
-"How much worse? slightly worse, like twice as bad? ",routine,57_62,T,crq,love
-Twice as bad. Okay. Yeah.,routine,57_63,P,cd,love
-"Okay,",inactive,57_64,T,ack,love
-right. Can you give me your phone number?,routine,57_65,T,irq,love
-Oh yeah. Should I just use this?,routine,57_66,P,crq,love
-" And yeah, yeah, it's probably best. Okay.",routine,57_67,T,cd,love
-Okay.,inactive,57_68,P,ack,love
-okay. So,inactive,57_69,T,gc,love
-I was just wondering if I could talk to you about maybe doing my wedding,story,57_70,T,irq,love
-"photography. Yeah. And what kind of kind of what kind of things you see and how you want it to be like,",story,57_71,P,id,love
-"I suppose I like lots of shots of our family and our friends quite a lot of natural shots. You know, talking when they're having drinks. And",story,57_72,T,gc,love
-"yeah. Do you want it? Like, do you kind of see it being outside? Is that something that you're interested in?",story,57_73,P,irq,love
-"Yeah, shots there's going to be a summer wedding. So we like I like a lot of outdoors shots and if possible, you know, if it's not raining, that would be quite nice and Yeah, quite some arty ones if that's possible.",story,57_74,T,id,love
-"Yeah. And yeah, that'll be. I've done quite a few things like that before. ",story,57_75,P,gc,love
-"So, have you got anything that you could show me about your past work? ",story,57_76,T,irq,love
-"Yeah, I recently did some shoots outside kind of in like a word environment so that I could show you that maybe it would kind of help with some ideas. ",story,57_77,P,id,love
-"Okay, great. All right, let's do the second one now. Okay. Okay, you put down the bottle and make eye contact. Okay.",story,57_78,T,ci,love
-Hi. So I was just wondering if I could speak to you about doing my wedding photography.,story,57_79,T,irq,love
-"Yeah, yeah. And what kind of thing are you looking at? How do you want it to be like,",story,57_80,P,id,love
-"and I'd like kind of lots of shots of family and friends and quite a lot of natural shots, you know,",story,57_81,T,irq,love
-okay. And are you interested in having things outside maybe and he said it was he wants to It's been natural.,story,57_82,P,id,love
-"Yeah, cuz it's gonna be a summer wedding and Okay, you know, weather dependent. Of course. Yeah, it would be really great if we could kind of get lots of shots you know, outdoors. Okay. Yeah, people chatting and maybe some quite arty ones as well.",story,57_83,T,gc,love
-Yeah.,story,57_84,P,ack,love
-Have you got anything that you could show me about your past work?,story,57_85,T,irq,love
-"Yeah, actually, it's kind of a lot of the things I do are outside and I'm really interested in getting natural shots. So when I could change some of my work, and we could kind of see if we could kind of develop something from that could be quite good. Okay. ",story,57_86,P,id,love
-Let's pause it there. Okay. Ryan's gonna give you this back now to look up. Okay. And I just want you to watch that. Okay. And then we'll chat about it in a moment. Okay.,routine,57_87,T,gc,love
-That's weird thing.,routine,57_88,P,gc,love
-"So, if we just go back to the things that you predicted, then you said that you thought you were going to shake visibly shake. Could you see yourself shaking on a video",routine,57_89,T,irq,love
-"Definitely not as much as I thought. I think it's obvious that I'm obviously quite anxious, but I don't think you can tell them shaking that much.",routine,57_90,P,id,love
-So you said that you were going to shake 90 out of 100? How much shaking Would you say that you saw there?,routine,57_91,T,irq,love
-"And maybe like, less than 30.",routine,57_92,P,id,love
-"Okay. And you said that you were going to go red, or pink as pink as these chairs? 90 out of 100. Did you notice yourself going pink?",routine,57_93,T,irq,love
-"Not really. Actually, definitely less than I thought. Yeah,",routine,57_94,P,id,love
-not as much.,routine,57_95,P,id,love
-"Okay, you said that you were worried that you were going to say something stupid, you know, at 90 out of 100 Did you know yourself say anything stupid?",routine,57_96,T,irq,love
-"Not really. Yeah. Yeah, thought was gonna be a lot worse than",routine,57_97,P,id,love
-"actually it was. So you thought you were going to be like 90 say something that was 90% stupid. That's really quite strong. I mean, in the end did you pick up in Anything that could be maybe put that as a zero?",routine,57_98,T,irq,love
-"Maybe like, less than 10 maybe.",routine,57_99,P,id,love
-And you said that you thought you were going to be sweating? Yeah. And that you're going to be visibly sweating. Did you? Did you notice yourself sweating in the end?,routine,57_100,T,irq,love
-Not really. Definitely not as bad as I,routine,57_101,P,id,love
-"thought again, you thought you were going to be like night out, like seriously visibly sweating. So what what score would you actually give it in the end?",routine,57_102,T,irq,love
-"Maybe again, less than 10 I don't think you could tell at all.",routine,57_103,P,id,love
-Mm hmm. You also said that you thought it was going to be twice as bad when you stop choosing your you know your normal strategies.,routine,57_104,T,od,love
-Yeah.,routine,57_105,P,ack,love
-What did you notice watching that video?,routine,57_106,T,irq,love
-It was actually probably better when I wasn't doing any of those things. I think I looked a lot more natural. And I was able to say what I was trying to say. I think it just come across more personable when I'm not kind of looking down and stuff.,symp/reasoning,57_107,P,id,love
-okay that's all for now. Thank you so much for your time,inactive,57_108,T,gt,love
+Except that when you're in work you worry a lot about how you come across in social situations.,symp/reasoning,57_0,T,gc,anger
+"Yeah, really makes me feel really anxious. Like, what I look like and what people are thinking.",symp/reasoning,57_1,P,gc,fear
+"Yeah, you said that you worry that you visibly shake.",symp/reasoning,57_2,T,crq,fear
+Yeah.,inactive,57_3,P,cd,fear
+And are there any other things that you worry that people will notice?,symp/reasoning,57_4,T,irq,fear
+I think obviously the shaking I think my hands and legs shaking and kind of going really red and sweating and just looking great. went ahead.,symp/reasoning,57_5,P,id,fear
+"So it sounds like you have quite a strong mental image of how you see yourself when you're in these social situations. Yeah. You say you go read you shake. Is there anything else that you think that you do? I mean, describe yourself. How do you think you look, when you're in these situations, just",story,57_6,T,irq,fear
+"like, I think I just looked really obviously weird and out of place and like really read and just visibly shaking and sweating and kind of not being able to communicate properly with people.",story,57_7,P,id,fear
+And is there anything that you do to try and kind of defend against these things to manage these problems?,routine,57_8,T,irq,fear
+"And I guess like when I'm holding the camera, I just grip onto it really, really tight, or kind of clench on my muscles and just find something that I can focus on. And to kind of try and make myself shake less and not goes red and stuff.",story,57_9,P,id,fear
+So you focus on something you grip onto that Camera. Do you make eye contact with people?,routine,57_10,T,crq,fear
+No. I just tend to just look down.,routine,57_11,P,cd,fear
+"Okay, so you also avoid eye contact? Is there anything else that you do to manage the sweating For example, ",routine,57_12,T,crq,fear
+"I just as I like kind of looking down and like wearing all black, so it's less obvious and what kind of worrying? Yeah, just more layers and all black says you just can't tell.",story,57_13,P,cd,fear
+Okay,inactive,57_14,T,ack,fear
+"What do you think would happen if you stopped doing these things? If you stopped gripping onto the camera? Or, you know, you start to make eye contact and not looking down? And what do you think would happen?",symp/reasoning,57_15,T,irq,fear
+"I think it would be so much worse. Yeah, I think I just would just check even more and be more anxious and look of more obviously, kind of weird and out of place.",symp/reasoning,57_16,P,id,fear
+"And what I'm thinking now is how do you feel about if we did an experiment to test out your thoughts on what would happen if you stopped doing these things? If we did a bit of a role play where we pretended to enact a situation at work, okay? And if we did this maybe twice and the first time, you do all the things that you normally do, okay and grip onto something, look down. And is there anything else that you do when you're in these situations, these work conversations to try and cope.",story,57_17,T,irq,fear
+"And I just kind of all just like fumble and like kind of just clench, whatever, whatever it is, I'm holding just really tight and just make sure I don't make any eye contact at all, just kind of get through it.",story,57_18,P,id,fear
+"Okay, so in the first time, I want you to do those things as much as you normally would, in fact, maybe even slightly more than you normally would. ",story,57_19,T,ci,fear
+"Okay, ",inactive,57_20,P,ack,fear
+"and then the second time, I want you to drop doing those things all together. ",story,57_21,T,ci,fear
+Okay,inactive,57_22,P,ack,fear
+does that sound okay?,routine,57_23,T,yq,fear
+try my best.,routine,57_24,P,ack,fear
+And do you? How would you feel about if we filmed this so you could actually see what you looked like?,routine,57_25,T,orq,fear
+Okay.,routine,57_26,P,od,fear
+Do you have a camera with you that we can video on?,routine,57_27,T,yq,fear
+Yeah. And there is my phone. Okay.,routine,57_28,P,ack,fear
+"Yeah, yeah, we'll use that in just a sec. ",routine,57_29,T,gc,fear
+Okay,routine,57_30,P,ack,fear
+"before we do this, then we're just going to fill out this form is because what we're doing now is an experiment. We call it behavioral experiments, see what happens when you change the way that you're behaving? ",story,57_31,T,irq,fear
+Right. Okay,routine,57_32,P,ack,fear
+"so the first column says, I need to fill out an experiment to test this thought that you have, so that our experiment is going to be that we do a conversation at work, and who should I play if you're playing yourself in this roleplay? Who should I be?",story,57_33,T,id,fear
+maybe like a client at work? I always have to sit down with clients before we did the shoe and kind of get to know a little bit more about what they want.,story,57_34,P,id,fear
+"Okay, so would it work if I was maybe having a wedding and I was hiring? ",story,57_35,T,yq,fear
+"Yeah, ",story,57_36,P,ack,fear
+wedding photographer?,story,57_37,T,yq,fear
+Yeah.,story,57_38,P,ack,fear
+What kind of problems do you see coming up in this conversation that we have like what we see yourself doing on camera,story,57_39,T,irq,fear
+"I am shaking, like being really obviously shaking and Okay, bright red and Okay, so,",story,57_40,P,id,fear
+"visibly shaking. So how, how much will you be shaking if 100 is like shaking uncontrollably and zero is not shaking at all? How visibly shaking Will you be?",story,57_41,T,irq,fear
+90,story,57_42,P,id,fear
+Okay. So what was the other thing that you just said?,routine,57_43,T,crq,fear
+like I really read,routine,57_44,P,crq,fear
+"Okay, so go read.",routine,57_45,T,cd,fear
+Yeah.,routine,57_46,P,ack,fear
+"And how read will you go? I mean, if we look around this room",routine,57_47,T,irq,fear
+probably like the chairs.,routine,57_48,P,id,fear
+" Okay, thanks. Hello. Yeah, you're going to be as kind of brightly pink as these chairs. Oh, yeah. Okay. So out of 100 then how how pink would you say these chairs are",story,57_49,T,irq,fear
+90 have 100 Okay.,story,57_50,P,id,fear
+"What else you worried is going to happen when we have these conversations, just",routine,57_51,T,irq,fear
+"worried to be fake, like say something stupid and not be able to kind of get what I'm trying to say across properly.",routine,57_52,P,id,fear
+"Okay, and how stupid out of 100 100 is ridiculously stupid.",routine,57_53,T,irq,fear
+"Probably like, similar 90. Okay, I'd say",routine,57_54,P,id,fear
+"wow, see worried will happen when you have this conversation. What else might you see on the camera? ",routine,57_55,T,irq,fear
+I think you'll probably be able to see that I'm sweating and okay.,routine,57_56,P,id,fear
+And how much will you be sweating?,routine,57_57,T,irq,fear
+"Again, 90.",routine,57_58,P,id,fear
+I really think like visibly sweating down the face. Yeah.,routine,57_59,T,gc,fear
+"Okay, and what you think will happen the second time around when you stop kind of doing the things you normally do to cope when you maybe start to make eye contact. You're not gripping on something. ",story,57_60,T,irq,fear
+"I think it will be even worse. I think Oh, yeah.",routine,57_61,P,od,fear
+"How much worse? slightly worse, like twice as bad? ",routine,57_62,T,crq,fear
+Twice as bad. Okay. Yeah.,routine,57_63,P,cd,fear
+"Okay,",inactive,57_64,T,ack,fear
+right. Can you give me your phone number?,routine,57_65,T,irq,fear
+Oh yeah. Should I just use this?,routine,57_66,P,crq,fear
+" And yeah, yeah, it's probably best. Okay.",routine,57_67,T,cd,fear
+Okay.,inactive,57_68,P,ack,fear
+okay. So,inactive,57_69,T,gc,fear
+I was just wondering if I could talk to you about maybe doing my wedding,story,57_70,T,irq,fear
+"photography. Yeah. And what kind of kind of what kind of things you see and how you want it to be like,",story,57_71,P,id,fear
+"I suppose I like lots of shots of our family and our friends quite a lot of natural shots. You know, talking when they're having drinks. And",story,57_72,T,gc,fear
+"yeah. Do you want it? Like, do you kind of see it being outside? Is that something that you're interested in?",story,57_73,P,irq,fear
+"Yeah, shots there's going to be a summer wedding. So we like I like a lot of outdoors shots and if possible, you know, if it's not raining, that would be quite nice and Yeah, quite some arty ones if that's possible.",story,57_74,T,id,fear
+"Yeah. And yeah, that'll be. I've done quite a few things like that before. ",story,57_75,P,gc,fear
+"So, have you got anything that you could show me about your past work? ",story,57_76,T,irq,fear
+"Yeah, I recently did some shoots outside kind of in like a word environment so that I could show you that maybe it would kind of help with some ideas. ",story,57_77,P,id,fear
+"Okay, great. All right, let's do the second one now. Okay. Okay, you put down the bottle and make eye contact. Okay.",story,57_78,T,ci,fear
+Hi. So I was just wondering if I could speak to you about doing my wedding photography.,story,57_79,T,irq,fear
+"Yeah, yeah. And what kind of thing are you looking at? How do you want it to be like,",story,57_80,P,id,fear
+"and I'd like kind of lots of shots of family and friends and quite a lot of natural shots, you know,",story,57_81,T,irq,fear
+okay. And are you interested in having things outside maybe and he said it was he wants to It's been natural.,story,57_82,P,id,fear
+"Yeah, cuz it's gonna be a summer wedding and Okay, you know, weather dependent. Of course. Yeah, it would be really great if we could kind of get lots of shots you know, outdoors. Okay. Yeah, people chatting and maybe some quite arty ones as well.",story,57_83,T,gc,fear
+Yeah.,story,57_84,P,ack,fear
+Have you got anything that you could show me about your past work?,story,57_85,T,irq,fear
+"Yeah, actually, it's kind of a lot of the things I do are outside and I'm really interested in getting natural shots. So when I could change some of my work, and we could kind of see if we could kind of develop something from that could be quite good. Okay. ",story,57_86,P,id,fear
+Let's pause it there. Okay. Ryan's gonna give you this back now to look up. Okay. And I just want you to watch that. Okay. And then we'll chat about it in a moment. Okay.,routine,57_87,T,gc,fear
+That's weird thing.,routine,57_88,P,gc,fear
+"So, if we just go back to the things that you predicted, then you said that you thought you were going to shake visibly shake. Could you see yourself shaking on a video",routine,57_89,T,irq,fear
+"Definitely not as much as I thought. I think it's obvious that I'm obviously quite anxious, but I don't think you can tell them shaking that much.",routine,57_90,P,id,fear
+So you said that you were going to shake 90 out of 100? How much shaking Would you say that you saw there?,routine,57_91,T,irq,fear
+"And maybe like, less than 30.",routine,57_92,P,id,fear
+"Okay. And you said that you were going to go red, or pink as pink as these chairs? 90 out of 100. Did you notice yourself going pink?",routine,57_93,T,irq,fear
+"Not really. Actually, definitely less than I thought. Yeah,",routine,57_94,P,id,fear
+not as much.,routine,57_95,P,id,fear
+"Okay, you said that you were worried that you were going to say something stupid, you know, at 90 out of 100 Did you know yourself say anything stupid?",routine,57_96,T,irq,fear
+"Not really. Yeah. Yeah, thought was gonna be a lot worse than",routine,57_97,P,id,fear
+"actually it was. So you thought you were going to be like 90 say something that was 90% stupid. That's really quite strong. I mean, in the end did you pick up in Anything that could be maybe put that as a zero?",routine,57_98,T,irq,fear
+"Maybe like, less than 10 maybe.",routine,57_99,P,id,fear
+And you said that you thought you were going to be sweating? Yeah. And that you're going to be visibly sweating. Did you? Did you notice yourself sweating in the end?,routine,57_100,T,irq,fear
+Not really. Definitely not as bad as I,routine,57_101,P,id,fear
+"thought again, you thought you were going to be like night out, like seriously visibly sweating. So what what score would you actually give it in the end?",routine,57_102,T,irq,fear
+"Maybe again, less than 10 I don't think you could tell at all.",routine,57_103,P,id,fear
+Mm hmm. You also said that you thought it was going to be twice as bad when you stop choosing your you know your normal strategies.,routine,57_104,T,od,fear
+Yeah.,routine,57_105,P,ack,fear
+What did you notice watching that video?,routine,57_106,T,irq,fear
+It was actually probably better when I wasn't doing any of those things. I think I looked a lot more natural. And I was able to say what I was trying to say. I think it just come across more personable when I'm not kind of looking down and stuff.,symp/reasoning,57_107,P,id,fear
+okay that's all for now. Thank you so much for your time,inactive,57_108,T,gt,fear
 summary,"The patient worries a lot when in social situtations, visibly shake, red and sweating. The patient tries to clench on their muscles and find something to focus on or look down and they prefer wearing black to be less obvious of worrying. The therapist requests the patient for a role-play of these situations to be enacted. On enacting the patient rates 90 on 100 for all her symptoms by doing those things she normally would. The patient believes they are going to do a lot worse if they don't do things they normally do to cope with their anxiety. After enacting, the patient feels much better and rates less than 30 for visibly shaking, less than they thought for going red, less than 10 for being stupid, less than 10 for visibly sweating. The patient felt much better and looked more natural after watching themselves in the video when they weren't doing any of those coping up things. ",,,,
 primary_topic,anxiety,,,,
 secondary_topic,interaction,,,,

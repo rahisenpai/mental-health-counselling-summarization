@@ -1,98 +1,98 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-"Hi, Lisa, how you doing?",inactive,21_0,T,gt,sadness
-"I'm doing pretty well, but kind of concerned about something.",inactive,21_1,P,gt,love
-"Yeah, I'm aware you have some symptoms that have been bothering you. You tell me about those.",inactive,21_2,T,irq,love
-"Yeah. Sometimes I have problems like with my attention and you know, I was looking at online and I'm really worried that I might have ADHD",symp/reasoning,21_3,P,id,love
-ADHD.,inactive,21_4,T,ack,love
-"Alright, so we'll, we'll talk about that. Let me ask you a few quick questions before we we get to that. Do you ever feel depressed",routine,21_5,T,yq,joy
-No,routine,21_6,P,on,joy
-or anxious?,routine,21_7,T,yq,joy
-No,routine,21_8,P,on,joy
-and in trouble with drugs or alcohol?,routine,21_9,T,yq,joy
-Oh No,routine,21_10,P,on,joy
-Nothing like that. Okay.,routine,21_11,T,ack,joy
-?Why do you think you have have ADHD?,routine,21_12,T,orq,joy
-"Oh, cuz I mean, I've always had a problem with my attention. And I can get distracted pretty easily. And",symp/reasoning,21_13,P,od,joy
-"so, so trouble establishing attention? ",symp/reasoning,21_14,T,yq,joy
-Yeah.,inactive,21_15,P,ack,joy
-How about difficulty in holding attention? Like once you have established it?,symp/reasoning,21_16,T,yq,joy
-Yeah.,inactive,21_17,P,ack,joy
-Trouble with both?,inactive,21_18,T,yq,joy
-yeah,inactive,21_19,P,ack,joy
-Alright. And you mentioned the word distracted.,inactive,21_20,T,yq,joy
-Yes. Yeah.,inactive,21_21,P,ack,joy
-"So you find yourself easily distracted? Yeah, you do. Okay.",symp/reasoning,21_22,T,yq,joy
-"How about well give me an idea of the setting. So, is this at work or school?",routine,21_23,T,irq,joy
-It's everywhere.,routine,21_24,P,id,joy
-It's everywhere.,inactive,21_25,T,gc,joy
-"Right. So, do you work? ",routine,21_26,T,yq,joy
-Yeah.,routine,21_27,P,ack,joy
-Do you go to school?,routine,21_28,T,yq,joy
-Yes.,routine,21_29,P,ack,joy
-How old are you?,routine,21_30,T,irq,joy
-I'm 24,routine,21_31,P,id,joy
-24. All right. And this problem with the attention affects you at work.,routine,21_32,T,yq,joy
-"Yeah, ",routine,21_33,P,ack,joy
-at a school and you said everywhere.,inactive,21_34,T,crq,joy
-"Yeah, pretty much it's part of my everyday life now.",inactive,21_35,P,cd,joy
-"You're 24. Now, when did you first notice the potential problems?",routine,21_36,T,irq,joy
-"I've always had that. I mean, even when I was in like elementary school, you know, it was always that kid.",story,21_37,P,id,joy
-You've had it for a long time?,inactive,21_38,T,yq,joy
-Yeah.,inactive,21_39,P,ack,joy
-"How about how disturbing is like, How much is it interfering with your functioning?",routine,21_40,T,irq,joy
-It really It really does.,routine,21_41,P,id,joy
-It's really problematic. Wow. All right.,inactive,21_42,T,gc,joy
-"Okay, so I'm going to ask you a few other questions here. We talked about the attention. So it's hard for you to give attention and hold attention. ",routine,21_43,T,yq,joy
-Yeah.,routine,21_44,P,ack,joy
-How about listening? Let's Let's go with the school environment for now. Let's talk about school. How about listening in class?,routine,21_45,T,irq,joy
-I don't really have a problem with that.,routine,21_46,P,id,joy
-That's not a problem for you.,routine,21_47,T,yq,joy
-No,routine,21_48,P,on,joy
-How about following instructions?,routine,21_49,T,yq,joy
-No.,routine,21_50,P,on,joy
-Tell me about your organizational skills,routine,21_51,T,irq,joy
-"I am very organized, ",routine,21_52,P,id,joy
-very organized?,routine,21_53,T,irq,joy
-Yeah Have to be in college.,routine,21_54,P,id,joy
-Do you find yourself avoiding,routine,21_55,T,irq,joy
-activities that require a lot of mental investment?,routine,21_56,T,irq,joy
-Until energy?,routine,21_57,T,irq,joy
-"No, not really No, no.",routine,21_58,P,id,joy
-Do to move toward those types of activities.,routine,21_59,T,irq,joy
-I'm not opposed to them. Like I like chess and checkers,routine,21_60,P,id,joy
-to ever find yourself losing things that you need to complete different jobs or tasks.,routine,21_61,T,yq,joy
-no.,routine,21_62,P,on,joy
-"Okay, I'm gonna change gears and ask you some other questions around a different area. ",routine,21_63,T,yq,joy
-Okay.,routine,21_64,P,ack,joy
-Do you ever find yourself like fidgeting? tough to stay still?,routine,21_65,T,yq,joy
-"Not really No, ",routine,21_66,P,on,joy
-"no. In school, and we'll get we'll cut stick with the school. environment. ",routine,21_67,T,yq,joy
-Okay.,routine,21_68,P,ack,joy
-Do you find it difficult to stay seated?,routine,21_69,T,yq,joy
-"No, not at all.",routine,21_70,P,on,joy
-How do you do when you are engaging in a quiet activity?,routine,21_71,T,irq,joy
-I do pretty well.,routine,21_72,P,id,joy
-You're okay with that.,routine,21_73,T,yq,joy
-"Yeah, ",routine,21_74,P,ack,joy
-you know find yourself wandering off.,routine,21_75,T,yq,joy
-No.,routine,21_76,P,on,joy
-"Did you ever feel like, again internally there's a motor running and you can't shut it off.",routine,21_77,T,yq,joy
-"No, no.",routine,21_78,P,on,joy
-How about being talkative Do you find yourself,routine,21_79,T,irq,joy
-"I am very talkative, very talkative, very talkative. Sometimes I end up being rude and I interrupt people. Cuz I just I gotta get it out.",symp/reasoning,21_80,P,id,joy
-Right. So you feel like you'd talk a lot? And that you interrupt.,routine,21_81,T,yq,joy
-Yes.,routine,21_82,T,ack,joy
-"People in a situation where it would be traditional to like, wait, in line or wait your turn. Do you find that's difficult for you? ",routine,21_83,T,yq,joy
-ack,routine,21_84,P,on,joy
-"no. Do you ever find yourself like, for example in class, just saying something? Like blurting something out without giving it much thought?",routine,21_85,T,yq,joy
-"No, not really. No? Okay.",inactive,21_86,P,on,joy
-All right. I think I have what I need here. And I want to get you in to see a counselor.,inactive,21_87,T,ci,joy
-"Okay, ",inactive,21_88,P,ack,joy
-"if that works for you, because you did mention this was affecting your function. I want to I want to make sure you get to see a counselor. It'll just take a couple days to get you in to see somebody that works for you.",routine,21_89,T,ci,joy
-That's great. Thank you.,inactive,21_90,P,ack,joy
-"Yeah, I appreciate you taking this time with me. This information has been helpful. ",inactive,21_91,T,gt,joy
-Thank you very much.,inactive,21_92,P,gt,joy
-"Thanks, .",inactive,21_93,T,gt,joy
+"Hi, Lisa, how you doing?",inactive,21_0,T,gt,joy
+"I'm doing pretty well, but kind of concerned about something.",inactive,21_1,P,gt,fear
+"Yeah, I'm aware you have some symptoms that have been bothering you. You tell me about those.",inactive,21_2,T,irq,fear
+"Yeah. Sometimes I have problems like with my attention and you know, I was looking at online and I'm really worried that I might have ADHD",symp/reasoning,21_3,P,id,fear
+ADHD.,inactive,21_4,T,ack,fear
+"Alright, so we'll, we'll talk about that. Let me ask you a few quick questions before we we get to that. Do you ever feel depressed",routine,21_5,T,yq,sadness
+No,routine,21_6,P,on,sadness
+or anxious?,routine,21_7,T,yq,sadness
+No,routine,21_8,P,on,sadness
+and in trouble with drugs or alcohol?,routine,21_9,T,yq,sadness
+Oh No,routine,21_10,P,on,sadness
+Nothing like that. Okay.,routine,21_11,T,ack,sadness
+?Why do you think you have have ADHD?,routine,21_12,T,orq,sadness
+"Oh, cuz I mean, I've always had a problem with my attention. And I can get distracted pretty easily. And",symp/reasoning,21_13,P,od,sadness
+"so, so trouble establishing attention? ",symp/reasoning,21_14,T,yq,sadness
+Yeah.,inactive,21_15,P,ack,sadness
+How about difficulty in holding attention? Like once you have established it?,symp/reasoning,21_16,T,yq,sadness
+Yeah.,inactive,21_17,P,ack,sadness
+Trouble with both?,inactive,21_18,T,yq,sadness
+yeah,inactive,21_19,P,ack,sadness
+Alright. And you mentioned the word distracted.,inactive,21_20,T,yq,sadness
+Yes. Yeah.,inactive,21_21,P,ack,sadness
+"So you find yourself easily distracted? Yeah, you do. Okay.",symp/reasoning,21_22,T,yq,sadness
+"How about well give me an idea of the setting. So, is this at work or school?",routine,21_23,T,irq,sadness
+It's everywhere.,routine,21_24,P,id,sadness
+It's everywhere.,inactive,21_25,T,gc,sadness
+"Right. So, do you work? ",routine,21_26,T,yq,sadness
+Yeah.,routine,21_27,P,ack,sadness
+Do you go to school?,routine,21_28,T,yq,sadness
+Yes.,routine,21_29,P,ack,sadness
+How old are you?,routine,21_30,T,irq,sadness
+I'm 24,routine,21_31,P,id,sadness
+24. All right. And this problem with the attention affects you at work.,routine,21_32,T,yq,sadness
+"Yeah, ",routine,21_33,P,ack,sadness
+at a school and you said everywhere.,inactive,21_34,T,crq,sadness
+"Yeah, pretty much it's part of my everyday life now.",inactive,21_35,P,cd,sadness
+"You're 24. Now, when did you first notice the potential problems?",routine,21_36,T,irq,sadness
+"I've always had that. I mean, even when I was in like elementary school, you know, it was always that kid.",story,21_37,P,id,sadness
+You've had it for a long time?,inactive,21_38,T,yq,sadness
+Yeah.,inactive,21_39,P,ack,sadness
+"How about how disturbing is like, How much is it interfering with your functioning?",routine,21_40,T,irq,sadness
+It really It really does.,routine,21_41,P,id,sadness
+It's really problematic. Wow. All right.,inactive,21_42,T,gc,sadness
+"Okay, so I'm going to ask you a few other questions here. We talked about the attention. So it's hard for you to give attention and hold attention. ",routine,21_43,T,yq,sadness
+Yeah.,routine,21_44,P,ack,sadness
+How about listening? Let's Let's go with the school environment for now. Let's talk about school. How about listening in class?,routine,21_45,T,irq,sadness
+I don't really have a problem with that.,routine,21_46,P,id,sadness
+That's not a problem for you.,routine,21_47,T,yq,sadness
+No,routine,21_48,P,on,sadness
+How about following instructions?,routine,21_49,T,yq,sadness
+No.,routine,21_50,P,on,sadness
+Tell me about your organizational skills,routine,21_51,T,irq,sadness
+"I am very organized, ",routine,21_52,P,id,sadness
+very organized?,routine,21_53,T,irq,sadness
+Yeah Have to be in college.,routine,21_54,P,id,sadness
+Do you find yourself avoiding,routine,21_55,T,irq,sadness
+activities that require a lot of mental investment?,routine,21_56,T,irq,sadness
+Until energy?,routine,21_57,T,irq,sadness
+"No, not really No, no.",routine,21_58,P,id,sadness
+Do to move toward those types of activities.,routine,21_59,T,irq,sadness
+I'm not opposed to them. Like I like chess and checkers,routine,21_60,P,id,sadness
+to ever find yourself losing things that you need to complete different jobs or tasks.,routine,21_61,T,yq,sadness
+no.,routine,21_62,P,on,sadness
+"Okay, I'm gonna change gears and ask you some other questions around a different area. ",routine,21_63,T,yq,sadness
+Okay.,routine,21_64,P,ack,sadness
+Do you ever find yourself like fidgeting? tough to stay still?,routine,21_65,T,yq,sadness
+"Not really No, ",routine,21_66,P,on,sadness
+"no. In school, and we'll get we'll cut stick with the school. environment. ",routine,21_67,T,yq,sadness
+Okay.,routine,21_68,P,ack,sadness
+Do you find it difficult to stay seated?,routine,21_69,T,yq,sadness
+"No, not at all.",routine,21_70,P,on,sadness
+How do you do when you are engaging in a quiet activity?,routine,21_71,T,irq,sadness
+I do pretty well.,routine,21_72,P,id,sadness
+You're okay with that.,routine,21_73,T,yq,sadness
+"Yeah, ",routine,21_74,P,ack,sadness
+you know find yourself wandering off.,routine,21_75,T,yq,sadness
+No.,routine,21_76,P,on,sadness
+"Did you ever feel like, again internally there's a motor running and you can't shut it off.",routine,21_77,T,yq,sadness
+"No, no.",routine,21_78,P,on,sadness
+How about being talkative Do you find yourself,routine,21_79,T,irq,sadness
+"I am very talkative, very talkative, very talkative. Sometimes I end up being rude and I interrupt people. Cuz I just I gotta get it out.",symp/reasoning,21_80,P,id,sadness
+Right. So you feel like you'd talk a lot? And that you interrupt.,routine,21_81,T,yq,sadness
+Yes.,routine,21_82,T,ack,sadness
+"People in a situation where it would be traditional to like, wait, in line or wait your turn. Do you find that's difficult for you? ",routine,21_83,T,yq,sadness
+ack,routine,21_84,P,on,sadness
+"no. Do you ever find yourself like, for example in class, just saying something? Like blurting something out without giving it much thought?",routine,21_85,T,yq,sadness
+"No, not really. No? Okay.",inactive,21_86,P,on,sadness
+All right. I think I have what I need here. And I want to get you in to see a counselor.,inactive,21_87,T,ci,sadness
+"Okay, ",inactive,21_88,P,ack,sadness
+"if that works for you, because you did mention this was affecting your function. I want to I want to make sure you get to see a counselor. It'll just take a couple days to get you in to see somebody that works for you.",routine,21_89,T,ci,sadness
+That's great. Thank you.,inactive,21_90,P,ack,sadness
+"Yeah, I appreciate you taking this time with me. This information has been helpful. ",inactive,21_91,T,gt,sadness
+Thank you very much.,inactive,21_92,P,gt,sadness
+"Thanks, .",inactive,21_93,T,gt,sadness
 summary,"The patient is worried that they might have ADHD. The patient does not suffer from depression, anxiety nor use drugs or alcohol. The patient has trouble establishing and holding attention. They find themselves easily distracted and this happens everywhere. They go to work at school. They are aged 24. The patient has had this issue since they were in elementary school. It interferes with their functioning. However they don't have problems with listening, following instructions, organizing themselves or mental investment. The patient affirm they can stay still, seated and engaged in quiet activity. They don't wander off and are very talkative. The patient has a tendency to interrupt people but they don't have issue to wait in line. The therapist sets the patient up with a counselor in a couple of days.",,,,
 primary_topic,behaviour,,,,
 secondary_topic,classroom,,,,

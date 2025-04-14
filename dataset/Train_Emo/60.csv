@@ -1,61 +1,61 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-"Kathleen Hi,",inactive,60_0,T,gt,sadness
-good. How are you?,inactive,60_1,P,gt,sadness
-"doing? Well, thanks for asking. I'd like to ask you some questions about your memory. Listen carefully. I'm going to say three words. You say them back after I stop reading. Here they are milk, sensible before. Now repeat those words back to me. ",symp/reasoning,60_2,T,gt,sadness
-"Milk, sensible and before. ",symp/reasoning,60_3,P,cr,sadness
-Now keep those words in mind. I'm going to ask you to say them again in a few minutes. Okay?,symp/reasoning,60_4,T,ci,sadness
-What day is today?,symp/reasoning,60_5,T,irq,sadness
-Monday,symp/reasoning,60_6,P,id,sadness
-what is the year,symp/reasoning,60_7,T,irq,sadness
-2015,symp/reasoning,60_8,P,id,sadness
-What is the season?,symp/reasoning,60_9,T,irq,sadness
-Summer. still hot.,symp/reasoning,60_10,P,id,sadness
-What is the month of the year?,symp/reasoning,60_11,T,irq,sadness
-September,symp/reasoning,60_12,P,id,sadness
-What is the day of the week?,symp/reasoning,60_13,T,irq,sadness
-Monday,symp/reasoning,60_14,P,id,sadness
-What is the date?,symp/reasoning,60_15,T,irq,sadness
-The 14th,symp/reasoning,60_16,P,id,sadness
-where are we now?,symp/reasoning,60_17,T,irq,sadness
-in your office,symp/reasoning,60_18,P,id,sadness
-What is the state?,symp/reasoning,60_19,T,irq,sadness
-Delaware,symp/reasoning,60_20,P,id,sadness
-What is the county?,symp/reasoning,60_21,T,irq,sadness
-New Castle,symp/reasoning,60_22,P,id,sadness
-what is the city?,symp/reasoning,60_23,T,irq,sadness
-Smyrna,symp/reasoning,60_24,P,id,sadness
-What is the name of the building?,symp/reasoning,60_25,T,irq,sadness
-I didn't know it had a name. Okay.,symp/reasoning,60_26,P,id,sadness
-What type of building is it?,symp/reasoning,60_27,T,irq,sadness
-A school.,symp/reasoning,60_28,P,id,sadness
-What floor Are we on?,symp/reasoning,60_29,T,irq,sadness
-The second,symp/reasoning,60_30,P,id,sadness
-what were those three words I asked you to remember?,symp/reasoning,60_31,T,irq,sadness
-Milk.,symp/reasoning,60_32,P,id,sadness
-cup. Book. Okay.,symp/reasoning,60_33,P,id,sadness
-Now I'd like you to subtract seven from 100 then keep subtracting seven from each answer until I tell you to stop. What is 100 take away,symp/reasoning,60_34,T,cv,sadness
-92,symp/reasoning,60_35,P,cr,sadness
-keep going,symp/reasoning,60_36,T,cv,sadness
-85,symp/reasoning,60_37,P,cr,sadness
-keep going,symp/reasoning,60_38,T,cv,sadness
-79,symp/reasoning,60_39,P,cr,sadness
-Keep Going,symp/reasoning,60_40,T,cv,sadness
-72,symp/reasoning,60_41,P,cr,sadness
-keep going.,symp/reasoning,60_42,T,cv,sadness
-And 64 ,symp/reasoning,60_43,P,cr,sadness
-"Okay, good. What is this?",symp/reasoning,60_44,T,irq,sadness
-Your eye,symp/reasoning,60_45,P,id,sadness
-And what is this,symp/reasoning,60_46,T,irq,sadness
-your ear,symp/reasoning,60_47,P,id,sadness
-"Now I'm going to ask you to repeat what I say. Ready? It is a lovely, sunny day, but too warm. Now you say that",symp/reasoning,60_48,T,yq,anger
-is a lovely sunny day and it's warm.,symp/reasoning,60_49,P,cr,anger
-"Listen carefully, because I'm going to ask you to do something. Look at these pictures and point to the circle. Then point to the square. And then point to the triangle.",routine,60_50,T,ci,anger
-Please do what this says to do. Okay.,routine,60_51,T,ci,anger
-"You'll find a piece of paper diala for you before using that blank piece of paper, please write a sentence. I see it. Thank you.",routine,60_52,T,ci,anger
-Okay,inactive,60_53,P,cr,anger
-"Please copy this design, you can hold on to that. Good",routine,60_54,T,ci,anger
-"Kathleen, that's the end of the test. I want to thank you This was very helpful. ",routine,60_55,T,ci,sadness
-Okay. Thank you,inactive,60_56,P,cr,sadness
+"Kathleen Hi,",inactive,60_0,T,gt,joy
+good. How are you?,inactive,60_1,P,gt,joy
+"doing? Well, thanks for asking. I'd like to ask you some questions about your memory. Listen carefully. I'm going to say three words. You say them back after I stop reading. Here they are milk, sensible before. Now repeat those words back to me. ",symp/reasoning,60_2,T,gt,joy
+"Milk, sensible and before. ",symp/reasoning,60_3,P,cr,joy
+Now keep those words in mind. I'm going to ask you to say them again in a few minutes. Okay?,symp/reasoning,60_4,T,ci,joy
+What day is today?,symp/reasoning,60_5,T,irq,joy
+Monday,symp/reasoning,60_6,P,id,joy
+what is the year,symp/reasoning,60_7,T,irq,joy
+2015,symp/reasoning,60_8,P,id,joy
+What is the season?,symp/reasoning,60_9,T,irq,joy
+Summer. still hot.,symp/reasoning,60_10,P,id,joy
+What is the month of the year?,symp/reasoning,60_11,T,irq,joy
+September,symp/reasoning,60_12,P,id,joy
+What is the day of the week?,symp/reasoning,60_13,T,irq,joy
+Monday,symp/reasoning,60_14,P,id,joy
+What is the date?,symp/reasoning,60_15,T,irq,joy
+The 14th,symp/reasoning,60_16,P,id,joy
+where are we now?,symp/reasoning,60_17,T,irq,joy
+in your office,symp/reasoning,60_18,P,id,joy
+What is the state?,symp/reasoning,60_19,T,irq,joy
+Delaware,symp/reasoning,60_20,P,id,joy
+What is the county?,symp/reasoning,60_21,T,irq,joy
+New Castle,symp/reasoning,60_22,P,id,joy
+what is the city?,symp/reasoning,60_23,T,irq,joy
+Smyrna,symp/reasoning,60_24,P,id,joy
+What is the name of the building?,symp/reasoning,60_25,T,irq,joy
+I didn't know it had a name. Okay.,symp/reasoning,60_26,P,id,joy
+What type of building is it?,symp/reasoning,60_27,T,irq,joy
+A school.,symp/reasoning,60_28,P,id,joy
+What floor Are we on?,symp/reasoning,60_29,T,irq,joy
+The second,symp/reasoning,60_30,P,id,joy
+what were those three words I asked you to remember?,symp/reasoning,60_31,T,irq,joy
+Milk.,symp/reasoning,60_32,P,id,joy
+cup. Book. Okay.,symp/reasoning,60_33,P,id,joy
+Now I'd like you to subtract seven from 100 then keep subtracting seven from each answer until I tell you to stop. What is 100 take away,symp/reasoning,60_34,T,cv,joy
+92,symp/reasoning,60_35,P,cr,joy
+keep going,symp/reasoning,60_36,T,cv,joy
+85,symp/reasoning,60_37,P,cr,joy
+keep going,symp/reasoning,60_38,T,cv,joy
+79,symp/reasoning,60_39,P,cr,joy
+Keep Going,symp/reasoning,60_40,T,cv,joy
+72,symp/reasoning,60_41,P,cr,joy
+keep going.,symp/reasoning,60_42,T,cv,joy
+And 64 ,symp/reasoning,60_43,P,cr,joy
+"Okay, good. What is this?",symp/reasoning,60_44,T,irq,joy
+Your eye,symp/reasoning,60_45,P,id,joy
+And what is this,symp/reasoning,60_46,T,irq,joy
+your ear,symp/reasoning,60_47,P,id,joy
+"Now I'm going to ask you to repeat what I say. Ready? It is a lovely, sunny day, but too warm. Now you say that",symp/reasoning,60_48,T,yq,love
+is a lovely sunny day and it's warm.,symp/reasoning,60_49,P,cr,love
+"Listen carefully, because I'm going to ask you to do something. Look at these pictures and point to the circle. Then point to the square. And then point to the triangle.",routine,60_50,T,ci,love
+Please do what this says to do. Okay.,routine,60_51,T,ci,love
+"You'll find a piece of paper diala for you before using that blank piece of paper, please write a sentence. I see it. Thank you.",routine,60_52,T,ci,love
+Okay,inactive,60_53,P,cr,love
+"Please copy this design, you can hold on to that. Good",routine,60_54,T,ci,love
+"Kathleen, that's the end of the test. I want to thank you This was very helpful. ",routine,60_55,T,ci,joy
+Okay. Thank you,inactive,60_56,P,cr,joy
 summary,"The patient is asked a series of questions to test their memory. The patient repeats the right words given by the therapist. The patient responds the following, the day is Monday, the year is 2015, the season is summer, the month is September, the day of week is Monday, they date is 14th, they are in office, the state is Delaware, the county is New Castle, the city is Smyra, don't know the building had a name, the building is a school, they are on second floor. The patient responds only milk, cup and book when asked to recall the initial three words. The patient is not able to keep subtracting 7 from 100 correctly. The patient responds eye and ear for things pointed out by the therapist. The patient is asked to repeat new three words which is repeated correctly. The patient is given a couple of physical tasks which is carried out. The test is completed. ",,,,
 primary_topic,memory,,,,
 secondary_topic,test,,,,

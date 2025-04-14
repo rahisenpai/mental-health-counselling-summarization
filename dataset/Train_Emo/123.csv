@@ -1,44 +1,44 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-"So How you doing today? I heard you. I'm doing Okay, thanks for asking. What's your name? ",story,123_0,T,irq,sadness
-"Tom, Tom Beckwith ",inactive,123_1,P,id,sadness
-And which hands you normally write? Right? Right hand would be all right to ask you some questions about your memory.,symp/reasoning,123_2,T,id,sadness
-2017,routine,123_3,P,gc,sadness
-What season of the year is this?,routine,123_4,T,irq,sadness
-Winter,routine,123_5,P,id,sadness
-What is the date today?,routine,123_6,T,irq,sadness
-The 16th,routine,123_7,P,id,sadness
-what day of the week is this?,routine,123_8,T,irq,sadness
-Tuesday?,routine,123_9,P,id,sadness
-What month is this?,routine,123_10,T,irq,sadness
-January,routine,123_11,P,id,sadness
-Can you tell me what country we're in?,routine,123_12,T,yq,sadness
-the United States.,routine,123_13,P,id,sadness
-What County are we in?,routine,123_14,T,irq,sadness
-Wilmington.,routine,123_15,P,id,sadness
-What city are we in?,routine,123_16,T,irq,sadness
-Wilmington.,routine,123_17,P,id,sadness
-What is the name of this building?,routine,123_18,T,irq,sadness
-the Graduate Center.,routine,123_19,P,id,sadness
-What floor of the building are we on?,routine,123_20,T,irq,sadness
-First floor,routine,123_21,P,id,sadness
-"I'm going to name three objects. After I've set them, I want you to repeat them back to me. Apple table, Penny ",routine,123_22,T,ci,sadness
-Apple table penny,routine,123_23,P,id,sadness
-Remember what they are. Because I'm going to ask you to name them again in a few minutes.,routine,123_24,T,id,sadness
-WORLD.,routine,123_25,P,id,sadness
-"Now, spell it backwards. ",routine,123_26,T,ci,sadness
-DLORW,routine,123_27,P,id,sadness
-What were the three objects I asked you to remember?,routine,123_28,T,irq,sadness
-Apple table Penny,routine,123_29,P,id,sadness
-What is this called?,routine,123_30,T,irq,sadness
-Watch,routine,123_31,P,id,sadness
-What is this called?,routine,123_32,T,irq,sadness
-Pen.,routine,123_33,P,id,sadness
-"I would like you to Repeat the phrase after me. The phrase is no ifs, ands, no buts. ",routine,123_34,T,ci,sadness
-"No ifs, buts or ants",routine,123_35,P,id,sadness
-read the words on this page. Then do what it says.,routine,123_36,T,ci,sadness
-Close your eyes.,inactive,123_37,P,id,sadness
-Take this paper in your right hand. Fold the paper once with hands and put the paper down on your lap.,routine,123_38,T,ci,sadness
-Thank you.,inactive,123_39,P,gt,sadness
+"So How you doing today? I heard you. I'm doing Okay, thanks for asking. What's your name? ",story,123_0,T,irq,joy
+"Tom, Tom Beckwith ",inactive,123_1,P,id,joy
+And which hands you normally write? Right? Right hand would be all right to ask you some questions about your memory.,symp/reasoning,123_2,T,id,joy
+2017,routine,123_3,P,gc,joy
+What season of the year is this?,routine,123_4,T,irq,joy
+Winter,routine,123_5,P,id,joy
+What is the date today?,routine,123_6,T,irq,joy
+The 16th,routine,123_7,P,id,joy
+what day of the week is this?,routine,123_8,T,irq,joy
+Tuesday?,routine,123_9,P,id,joy
+What month is this?,routine,123_10,T,irq,joy
+January,routine,123_11,P,id,joy
+Can you tell me what country we're in?,routine,123_12,T,yq,joy
+the United States.,routine,123_13,P,id,joy
+What County are we in?,routine,123_14,T,irq,joy
+Wilmington.,routine,123_15,P,id,joy
+What city are we in?,routine,123_16,T,irq,joy
+Wilmington.,routine,123_17,P,id,joy
+What is the name of this building?,routine,123_18,T,irq,joy
+the Graduate Center.,routine,123_19,P,id,joy
+What floor of the building are we on?,routine,123_20,T,irq,joy
+First floor,routine,123_21,P,id,joy
+"I'm going to name three objects. After I've set them, I want you to repeat them back to me. Apple table, Penny ",routine,123_22,T,ci,joy
+Apple table penny,routine,123_23,P,id,joy
+Remember what they are. Because I'm going to ask you to name them again in a few minutes.,routine,123_24,T,id,joy
+WORLD.,routine,123_25,P,id,joy
+"Now, spell it backwards. ",routine,123_26,T,ci,joy
+DLORW,routine,123_27,P,id,joy
+What were the three objects I asked you to remember?,routine,123_28,T,irq,joy
+Apple table Penny,routine,123_29,P,id,joy
+What is this called?,routine,123_30,T,irq,joy
+Watch,routine,123_31,P,id,joy
+What is this called?,routine,123_32,T,irq,joy
+Pen.,routine,123_33,P,id,joy
+"I would like you to Repeat the phrase after me. The phrase is no ifs, ands, no buts. ",routine,123_34,T,ci,joy
+"No ifs, buts or ants",routine,123_35,P,id,joy
+read the words on this page. Then do what it says.,routine,123_36,T,ci,joy
+Close your eyes.,inactive,123_37,P,id,joy
+Take this paper in your right hand. Fold the paper once with hands and put the paper down on your lap.,routine,123_38,T,ci,joy
+Thank you.,inactive,123_39,P,gt,joy
 summary ,"Therapist started session by memory test which consists of some questions about the date, city, floor, etc. Therapist asks patient to repeat the words. Patient did it really well. Therapist tell to keep these words in mind because therapist will ask them later on. Therapist asks to count number backwards, but it was difficult for to patient. Then therapist asks to repeat those words asked earlier. Therapist asks some random questions and asks to repeat the words asked earlier. Then therapist asks questions about things around them and patient did it well.",,,,
 primary_topic,Memory,,,,
-Seconday_topic,Memory,,,,sadness
+Seconday_topic,Memory,,,,joy

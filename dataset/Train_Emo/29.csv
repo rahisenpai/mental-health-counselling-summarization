@@ -1,81 +1,81 @@
 Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion
-"So, I want to change gears a little. And talk about your family. Is that okay?",symp/reasoning,29_0,T,gc,sadness
-"Oh, that's a lot but all right.",inactive,29_1,P,gc,sadness
-A lot of information there.,symp/reasoning,29_2,T,orq,sadness
-Yeah.,inactive,29_3,P,od,sadness
-All right. Let's start with. Can we start with your parents and tell me what you feel comfortable? Tell me about them?,routine,29_4,T,irq,sadness
-"Well, my father was incarcerated when I was four for drug trafficking.",routine,29_5,P,id,sadness
-Drug trafficking.,routine,29_6,T,irq,sadness
-Yeah. And he died a few years ago from a stroke.,routine,29_7,P,id,sadness
-"How many years ago,",routine,29_8,T,irq,sadness
-about three years ago,routine,29_9,P,id,sadness
-It would age was he when he passed away. To be,inactive,29_10,T,irq,sadness
-"honest, I don't even remember. I don't really talk to him.",inactive,29_11,P,id,sadness
-How much your mother,routine,29_12,T,irq,sadness
-My mom is crazy.,routine,29_13,P,id,sadness
-Tell me about that.,inactive,29_14,T,crq,sadness
-"Um, when I was in high school, and I would still live with her. Sometimes I would come home and there was no running water. There was no electricity, there was no nothing. She had gambled the money away. We've had several times where I've had to hide the cars, in fear of them being repossessed. And I couldn't take it after a while and I moved out when I was about 16 She calls me every now and then sometimes for money sometimes to talk, really talk to her about.",story,29_15,P,cd,sadness
-"So, how would you describe the quality of your relationship right now?",routine,29_16,T,orq,sadness
-Not good. Not good.,routine,29_17,P,od,sadness
-It sounds like there's not much communication.,routine,29_18,T,orq,sadness
-"Not anymore. No, no, she's tried but I refuse to speak to her.",routine,29_19,P,od,sadness
-"Do you know if your father mother, either one has any history of mental illness?",routine,29_20,T,irq,sadness
-"Um, my mom was diagnosed as bipolar. Um, my father, I don't know much about him. I know he had a problem with anger to",routine,29_21,P,id,sadness
-you remember that?,inactive,29_22,T,yq,sadness
-"Yeah, I do.",inactive,29_23,P,ack,sadness
-So that's your father and your mother. have any siblings?,routine,29_24,T,irq,sadness
-I have an older sister and a younger sister.,routine,29_25,P,id,sadness
-Two sisters?,routine,29_26,T,crq,sadness
-"Well, my older sister pretty much raised me and my younger sister. Since mom was never around and dad was in jail. I love her to death.",routine,29_27,P,cd,sadness
-"This is your older sister,",inactive,29_28,T,crq,sadness
-my older sister.,inactive,29_29,P,cd,sadness
-How about your younger sister?,routine,29_30,T,irq,sadness
-"My younger sister. Um, we don't talk very much. She doesn't want to talk to me. She says I'm a bad influence. ",routine,29_31,P,id,sadness
-a bad influence on?,routine,29_32,T,crq,sadness
-"her on her, her her friends. I think she's kind of stuck up. I mean,",routine,29_33,P,cd,sadness
-we're actually think that,inactive,29_34,T,irq,sadness
-"does she think she's better than me? Just because well She went to college. Well, good for you.",routine,29_35,P,id,sadness
-"All right, so it sounds like a positive relationship. Kind of admire your older sister. Is that right?",routine,29_36,T,orq,sadness
-"Yeah, I love my older sister.",routine,29_37,P,od,sadness
-"And her relationship with younger sister is a little bit different. I mean,",routine,29_38,T,irq,sadness
-"I love her too. And I can deal with her in small doses, but that's pretty much it.",routine,29_39,P,id,sadness
-How often you communicate with each one?,routine,29_40,T,irq,sadness
-"My older sister I talked to you, like almost every day. Um, you know, she's always there to know shoulder to cry on or, you know, if I'm in a bind, and I need some money, she's always willing to help me out. She can watch the kids if I need to go somewhere. If she's, she's my rock. younger than I mean, we talked maybe every other week. Let us know what each other is up to. Maybe we'll go to dinner.",story,29_41,P,id,sadness
-"So, quite a bit closer to your older sister than younger sister. Any mental health history with either sister.",routine,29_42,T,irq,sadness
-"Um, my older sister was depressed and has a lot of anxiety when she was young, because she dealt with more of my dad that I did",routine,29_43,P,id,sadness
-Okay. So does your older sister or your younger sister for that matter? know that you're? You're here?,routine,29_44,T,irq,sadness
-"Oh, my older sister does my older sister I haven't spoken to her this week yet. ",routine,29_45,P,id,sadness
-So are you planning on telling her?,routine,29_46,T,crq,sadness
-"Yeah, I don't see why not. Maybe it'll kind of humanize her a little bit. Like, I'm not as bad as person She thinks I am",routine,29_47,P,cd,sadness
-Do you feel a need to make a positive impression on them?,routine,29_48,T,orq,sadness
-"No, but I think sometimes it's easier. It's easier. It's easier. You're not being the bad sister.",routine,29_49,P,od,sadness
-That's how you believe you're viewed.,inactive,29_50,T,yq,sadness
-Yeah. by her by her.,inactive,29_51,P,ack,sadness
-All right. How about grandparents?,routine,29_52,T,irq,sadness
-My dad's family they don't really know about.,routine,29_53,P,id,sadness
-Any mental health history that the grandparents are aware of.,routine,29_54,T,irq,sadness
-"I mean, the one grandma that was still alive, she had like some kind of dementia or something and then all timers dementia",routine,29_55,P,id,sadness
-"How about aunts, uncles, cousins? Hey babe. No,",routine,29_56,T,irq,sadness
-"I had a lot of cousins. A lot of cousins in and out of the house at various points in the even in the day, sometimes I leave for school, there'd be a certain set of cousins. They're coming from school completely different set.",routine,29_57,P,id,sadness
-"have contact with them? Um,",routine,29_58,T,irq,sadness
-"do like social media and stuff. I mean, they're all spread out over the country now. But, you know, I keep in contact with them as much as I can.",routine,29_59,P,id,sadness
-about children?,routine,29_60,T,irq,sadness
-I have two children.,routine,29_61,P,id,sadness
-"Okay, tell me about them. ",routine,29_62,T,irq,sadness
-"Um, they are the loves of my life.",routine,29_63,P,id,sadness
-which sister,routine,29_64,T,irq,sadness
-my older sister she watches them when I'm off okay,routine,29_65,P,id,sadness
-so.,inactive,29_66,T,ack,sadness
-you want to kindergarten and the other in,routine,29_67,P,id,sadness
-the second grade you mentioned when can you gardens a son,routine,29_68,T,crq,sadness
-"She comes home with like they have like not the merits but like well referrals. She likes to be kind of a pushover. Not pushover but like a bully at school or boy. I've gotten several calls from the principal and our teachers saying she pushed another kid Oh, get another kid asked if he could have A piece of paper and she yelled and screamed. You know, she comes home and I feel I'll yell at her. Do you like this? Do you like me yelling at you? Why would you yell at somebody else?",routine,29_69,P,cd,sadness
-"This problem worry, behavior.",routine,29_70,T,crq,sadness
-"Well, yeah, I mean, I got in trouble in school too. When? I mean, not when I was her age. I was kind of better at school when I was in her age, but I don't want to go down the same path.",routine,29_71,P,cd,sadness
-"Sure, a little worried about that. Yeah.",routine,29_72,T,crq,sadness
-"Um, I see them. I mean, why I work so I don't see the one on there. They go to daycare, but sometimes if I like go out to a party or something where I know some stuff that's gonna be there or there's parties over at my house where I know some stuff that's going to be there. I dropped off with my sister.",story,29_73,P,cd,sadness
-"When you say stuff to so clear, you mean drugs.",routine,29_74,T,irq,sadness
-"Yeah. drugs, alcohol. Yeah, I'd rather my kids not see me like that. So I say,",routine,29_75,P,id,sadness
-so you're protecting them from that. Oh yeah yeah,routine,29_76,T,ack,sadness
+"So, I want to change gears a little. And talk about your family. Is that okay?",symp/reasoning,29_0,T,gc,joy
+"Oh, that's a lot but all right.",inactive,29_1,P,gc,joy
+A lot of information there.,symp/reasoning,29_2,T,orq,joy
+Yeah.,inactive,29_3,P,od,joy
+All right. Let's start with. Can we start with your parents and tell me what you feel comfortable? Tell me about them?,routine,29_4,T,irq,joy
+"Well, my father was incarcerated when I was four for drug trafficking.",routine,29_5,P,id,joy
+Drug trafficking.,routine,29_6,T,irq,joy
+Yeah. And he died a few years ago from a stroke.,routine,29_7,P,id,joy
+"How many years ago,",routine,29_8,T,irq,joy
+about three years ago,routine,29_9,P,id,joy
+It would age was he when he passed away. To be,inactive,29_10,T,irq,joy
+"honest, I don't even remember. I don't really talk to him.",inactive,29_11,P,id,joy
+How much your mother,routine,29_12,T,irq,joy
+My mom is crazy.,routine,29_13,P,id,joy
+Tell me about that.,inactive,29_14,T,crq,joy
+"Um, when I was in high school, and I would still live with her. Sometimes I would come home and there was no running water. There was no electricity, there was no nothing. She had gambled the money away. We've had several times where I've had to hide the cars, in fear of them being repossessed. And I couldn't take it after a while and I moved out when I was about 16 She calls me every now and then sometimes for money sometimes to talk, really talk to her about.",story,29_15,P,cd,joy
+"So, how would you describe the quality of your relationship right now?",routine,29_16,T,orq,joy
+Not good. Not good.,routine,29_17,P,od,joy
+It sounds like there's not much communication.,routine,29_18,T,orq,joy
+"Not anymore. No, no, she's tried but I refuse to speak to her.",routine,29_19,P,od,joy
+"Do you know if your father mother, either one has any history of mental illness?",routine,29_20,T,irq,joy
+"Um, my mom was diagnosed as bipolar. Um, my father, I don't know much about him. I know he had a problem with anger to",routine,29_21,P,id,joy
+you remember that?,inactive,29_22,T,yq,joy
+"Yeah, I do.",inactive,29_23,P,ack,joy
+So that's your father and your mother. have any siblings?,routine,29_24,T,irq,joy
+I have an older sister and a younger sister.,routine,29_25,P,id,joy
+Two sisters?,routine,29_26,T,crq,joy
+"Well, my older sister pretty much raised me and my younger sister. Since mom was never around and dad was in jail. I love her to death.",routine,29_27,P,cd,joy
+"This is your older sister,",inactive,29_28,T,crq,joy
+my older sister.,inactive,29_29,P,cd,joy
+How about your younger sister?,routine,29_30,T,irq,joy
+"My younger sister. Um, we don't talk very much. She doesn't want to talk to me. She says I'm a bad influence. ",routine,29_31,P,id,joy
+a bad influence on?,routine,29_32,T,crq,joy
+"her on her, her her friends. I think she's kind of stuck up. I mean,",routine,29_33,P,cd,joy
+we're actually think that,inactive,29_34,T,irq,joy
+"does she think she's better than me? Just because well She went to college. Well, good for you.",routine,29_35,P,id,joy
+"All right, so it sounds like a positive relationship. Kind of admire your older sister. Is that right?",routine,29_36,T,orq,joy
+"Yeah, I love my older sister.",routine,29_37,P,od,joy
+"And her relationship with younger sister is a little bit different. I mean,",routine,29_38,T,irq,joy
+"I love her too. And I can deal with her in small doses, but that's pretty much it.",routine,29_39,P,id,joy
+How often you communicate with each one?,routine,29_40,T,irq,joy
+"My older sister I talked to you, like almost every day. Um, you know, she's always there to know shoulder to cry on or, you know, if I'm in a bind, and I need some money, she's always willing to help me out. She can watch the kids if I need to go somewhere. If she's, she's my rock. younger than I mean, we talked maybe every other week. Let us know what each other is up to. Maybe we'll go to dinner.",story,29_41,P,id,joy
+"So, quite a bit closer to your older sister than younger sister. Any mental health history with either sister.",routine,29_42,T,irq,joy
+"Um, my older sister was depressed and has a lot of anxiety when she was young, because she dealt with more of my dad that I did",routine,29_43,P,id,joy
+Okay. So does your older sister or your younger sister for that matter? know that you're? You're here?,routine,29_44,T,irq,joy
+"Oh, my older sister does my older sister I haven't spoken to her this week yet. ",routine,29_45,P,id,joy
+So are you planning on telling her?,routine,29_46,T,crq,joy
+"Yeah, I don't see why not. Maybe it'll kind of humanize her a little bit. Like, I'm not as bad as person She thinks I am",routine,29_47,P,cd,joy
+Do you feel a need to make a positive impression on them?,routine,29_48,T,orq,joy
+"No, but I think sometimes it's easier. It's easier. It's easier. You're not being the bad sister.",routine,29_49,P,od,joy
+That's how you believe you're viewed.,inactive,29_50,T,yq,joy
+Yeah. by her by her.,inactive,29_51,P,ack,joy
+All right. How about grandparents?,routine,29_52,T,irq,joy
+My dad's family they don't really know about.,routine,29_53,P,id,joy
+Any mental health history that the grandparents are aware of.,routine,29_54,T,irq,joy
+"I mean, the one grandma that was still alive, she had like some kind of dementia or something and then all timers dementia",routine,29_55,P,id,joy
+"How about aunts, uncles, cousins? Hey babe. No,",routine,29_56,T,irq,joy
+"I had a lot of cousins. A lot of cousins in and out of the house at various points in the even in the day, sometimes I leave for school, there'd be a certain set of cousins. They're coming from school completely different set.",routine,29_57,P,id,joy
+"have contact with them? Um,",routine,29_58,T,irq,joy
+"do like social media and stuff. I mean, they're all spread out over the country now. But, you know, I keep in contact with them as much as I can.",routine,29_59,P,id,joy
+about children?,routine,29_60,T,irq,joy
+I have two children.,routine,29_61,P,id,joy
+"Okay, tell me about them. ",routine,29_62,T,irq,joy
+"Um, they are the loves of my life.",routine,29_63,P,id,joy
+which sister,routine,29_64,T,irq,joy
+my older sister she watches them when I'm off okay,routine,29_65,P,id,joy
+so.,inactive,29_66,T,ack,joy
+you want to kindergarten and the other in,routine,29_67,P,id,joy
+the second grade you mentioned when can you gardens a son,routine,29_68,T,crq,joy
+"She comes home with like they have like not the merits but like well referrals. She likes to be kind of a pushover. Not pushover but like a bully at school or boy. I've gotten several calls from the principal and our teachers saying she pushed another kid Oh, get another kid asked if he could have A piece of paper and she yelled and screamed. You know, she comes home and I feel I'll yell at her. Do you like this? Do you like me yelling at you? Why would you yell at somebody else?",routine,29_69,P,cd,joy
+"This problem worry, behavior.",routine,29_70,T,crq,joy
+"Well, yeah, I mean, I got in trouble in school too. When? I mean, not when I was her age. I was kind of better at school when I was in her age, but I don't want to go down the same path.",routine,29_71,P,cd,joy
+"Sure, a little worried about that. Yeah.",routine,29_72,T,crq,joy
+"Um, I see them. I mean, why I work so I don't see the one on there. They go to daycare, but sometimes if I like go out to a party or something where I know some stuff that's gonna be there or there's parties over at my house where I know some stuff that's going to be there. I dropped off with my sister.",story,29_73,P,cd,joy
+"When you say stuff to so clear, you mean drugs.",routine,29_74,T,irq,joy
+"Yeah. drugs, alcohol. Yeah, I'd rather my kids not see me like that. So I say,",routine,29_75,P,id,joy
+so you're protecting them from that. Oh yeah yeah,routine,29_76,T,ack,joy
 summary,"The patient is asked questions about their family. The patient's father was arrested for drug trafficking when they were four and he died three years ago. The patient feels their mom is crazy and recalled that their mom used to gamble away all the money. The patient's mom was diagnosed as bipolar and dad had anger issues. The patient has two sisters. The patient is not very attached to younger sister since she thinks patient to be a bad influence. The patient's older sister is very helpful to the patient and helps with money, looking after kids, meeting up every other week. The older sister had depression and anxiety and also dealt with their dad more. The patient shares their grandma to have suffered from dementia. The patient has two kids and one of them reports issues of bullying others from school which is worrying. The patient's older sister take care of patient's kids when they are out, or partying at home with drugs and alcohol. The patient wishes to hide these from their kids. ",,,,
 primary_topic,family issues,,,,
 secondary_topic,sibling-kids,,,,
